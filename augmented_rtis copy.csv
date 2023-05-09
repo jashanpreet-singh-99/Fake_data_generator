@@ -1,0 +1,4988 @@
+,Cam,Police,Population,Visibility,Safety
+0,No,No,Low,Low,0
+1,No,No,Low,Low,0
+2,No,No,Low,Low,0
+3,No,No,Low,Low,0
+4,No,No,Low,Low,0
+5,No,No,Low,Low,0
+6,No,No,Low,Low,0
+7,No,No,Low,Low,0
+8,No,No,Low,Low,0
+9,No,No,Low,Low,0
+10,No,No,Low,Low,0
+11,No,No,Low,Low,0
+12,No,No,Low,Low,0
+13,No,No,Low,Low,0
+14,No,No,Low,Low,0
+15,No,No,Low,Low,0
+16,No,No,Low,Low,0
+17,No,No,Low,Low,0
+18,No,No,Low,Low,0
+19,No,No,Low,Low,0
+20,No,No,Low,Low,0
+21,No,No,Low,Low,0
+22,No,No,Low,Low,0
+23,No,No,Low,Low,0
+24,No,No,Low,Low,0
+25,No,No,Low,Low,0
+26,No,No,Low,Low,0
+27,No,No,Low,Low,0
+28,No,No,Low,Low,0
+29,No,No,Low,Low,0
+30,No,No,Low,Low,0
+31,No,No,Low,Low,0
+32,No,No,Low,Low,0
+33,No,No,Low,Low,0
+34,No,No,Low,Low,0
+35,No,No,Low,Low,0
+36,No,No,Low,Low,0
+37,No,No,Low,Low,0
+38,No,No,Low,Low,0
+39,No,No,Low,Low,0
+40,No,No,Low,Low,0
+41,No,No,Low,Low,0
+42,No,No,Low,Low,0
+43,No,No,Low,Low,0
+44,No,No,Low,Low,0
+45,No,No,Low,Low,0
+46,No,No,Low,Low,0
+47,No,No,Low,Low,0
+48,No,No,Low,Low,0
+49,No,No,Low,Low,0
+50,No,No,Low,Low,0
+51,No,No,Low,Low,0
+52,No,No,Low,Low,0
+53,No,No,Low,Low,0
+54,No,No,Low,Low,0
+55,No,No,Low,Low,0
+56,No,No,Low,Low,0
+57,No,No,Low,Low,0
+58,No,No,Low,Low,0
+59,No,No,Low,Low,0
+60,No,No,Low,Low,0
+61,No,No,Low,Low,0
+62,No,No,Low,Low,0
+63,No,No,Low,Low,0
+64,No,No,Low,Low,0
+65,No,No,Low,Low,0
+66,No,No,Low,Low,0
+67,No,No,Low,Low,0
+68,No,No,Low,Low,0
+69,No,No,Low,Low,0
+70,No,No,Low,Low,0
+71,No,No,Low,Low,0
+72,No,No,Low,Low,0
+73,No,No,Low,Low,0
+74,No,No,Low,Low,0
+75,No,No,Low,Low,0
+76,No,No,Low,Low,0
+77,No,No,Low,Low,0
+78,No,No,Low,Low,0
+79,No,No,Low,Low,0
+80,No,No,Low,Low,0
+81,No,No,Low,Low,0
+82,No,No,Low,Low,0
+83,No,No,Low,Low,0
+84,No,No,Low,Low,0
+85,No,No,Low,Low,0
+86,No,No,Low,Low,0
+87,No,No,Low,Low,0
+88,No,No,Low,Low,0
+89,No,No,Low,Low,0
+90,No,No,Low,Low,0
+91,No,No,Low,Low,0
+92,No,No,Low,Low,0
+93,No,No,Low,Low,0
+94,No,No,Low,Low,0
+95,No,No,Low,Low,0
+96,No,No,Low,Low,0
+97,No,No,Low,Low,0
+98,No,No,Low,Low,0
+99,No,No,Low,Low,0
+100,No,No,Low,Low,0
+101,No,No,Low,Low,0
+102,No,No,Low,Low,0
+103,No,No,Low,Low,0
+104,No,No,Low,Low,0
+105,No,No,Low,Low,0
+106,No,No,Low,Low,0
+107,No,No,Low,Low,0
+108,No,No,Low,Low,0
+109,No,No,Low,Low,0
+110,No,No,Low,Low,0
+111,No,No,Low,Moderate,1
+112,No,No,Low,Moderate,1
+113,No,No,Low,Moderate,1
+114,No,No,Low,Moderate,1
+115,No,No,Low,Moderate,1
+116,No,No,Low,Moderate,1
+117,No,No,Low,Moderate,1
+118,No,No,Low,Moderate,1
+119,No,No,Low,Moderate,1
+120,No,No,Low,Moderate,1
+121,No,No,Low,Moderate,1
+122,No,No,Low,Moderate,1
+123,No,No,Low,Moderate,1
+124,No,No,Low,Moderate,1
+125,No,No,Low,Moderate,1
+126,No,No,Low,Moderate,1
+127,No,No,Low,Moderate,1
+128,No,No,Low,Moderate,1
+129,No,No,Low,Moderate,1
+130,No,No,Low,Moderate,1
+131,No,No,Low,Moderate,1
+132,No,No,Low,Moderate,1
+133,No,No,Low,Moderate,1
+134,No,No,Low,Moderate,1
+135,No,No,Low,Moderate,1
+136,No,No,Low,Moderate,1
+137,No,No,Low,Moderate,1
+138,No,No,Low,Moderate,1
+139,No,No,Low,Moderate,1
+140,No,No,Low,Moderate,1
+141,No,No,Low,Moderate,1
+142,No,No,Low,Moderate,1
+143,No,No,Low,Moderate,1
+144,No,No,Low,Moderate,1
+145,No,No,Low,Moderate,1
+146,No,No,Low,Moderate,1
+147,No,No,Low,Moderate,1
+148,No,No,Low,Moderate,1
+149,No,No,Low,Moderate,1
+150,No,No,Low,Moderate,1
+151,No,No,Low,Moderate,1
+152,No,No,Low,Moderate,1
+153,No,No,Low,Moderate,1
+154,No,No,Low,Moderate,1
+155,No,No,Low,Moderate,1
+156,No,No,Low,Moderate,1
+157,No,No,Low,Moderate,1
+158,No,No,Low,Moderate,1
+159,No,No,Low,Moderate,1
+160,No,No,Low,Moderate,1
+161,No,No,Low,High,1
+162,No,No,Low,High,1
+163,No,No,Low,High,1
+164,No,No,Low,High,1
+165,No,No,Low,High,1
+166,No,No,Low,High,1
+167,No,No,Low,High,1
+168,No,No,Low,High,1
+169,No,No,Low,High,1
+170,No,No,Low,High,1
+171,No,No,Low,High,1
+172,No,No,Low,High,1
+173,No,No,Low,High,1
+174,No,No,Low,High,1
+175,No,No,Low,High,1
+176,No,No,Low,High,1
+177,No,No,Low,High,1
+178,No,No,Low,High,1
+179,No,No,Low,High,1
+180,No,No,Low,High,1
+181,No,No,Low,High,1
+182,No,No,Low,High,1
+183,No,No,Low,High,1
+184,No,No,Low,High,1
+185,No,No,Low,High,1
+186,No,No,Low,High,1
+187,No,No,Low,High,1
+188,No,No,Low,High,1
+189,No,No,Low,High,1
+190,No,No,Low,High,1
+191,No,No,Low,High,1
+192,No,No,Low,High,1
+193,No,No,Low,High,1
+194,No,No,Low,High,1
+195,No,No,Low,High,1
+196,No,No,Low,High,1
+197,No,No,Low,High,1
+198,No,No,Low,High,1
+199,No,No,Low,High,1
+200,No,No,Low,High,1
+201,No,No,Low,High,1
+202,No,No,Low,High,1
+203,No,No,Low,High,1
+204,No,No,Low,High,1
+205,No,No,Low,High,1
+206,No,No,Low,High,1
+207,No,No,Low,High,1
+208,No,No,Low,High,1
+209,No,No,Low,High,1
+210,No,No,Low,High,1
+211,No,No,Moderate,Low,1
+212,No,No,Moderate,Low,1
+213,No,No,Moderate,Low,1
+214,No,No,Moderate,Low,1
+215,No,No,Moderate,Low,1
+216,No,No,Moderate,Low,1
+217,No,No,Moderate,Low,1
+218,No,No,Moderate,Low,1
+219,No,No,Moderate,Low,1
+220,No,No,Moderate,Low,1
+221,No,No,Moderate,Low,1
+222,No,No,Moderate,Low,1
+223,No,No,Moderate,Low,1
+224,No,No,Moderate,Low,1
+225,No,No,Moderate,Low,1
+226,No,No,Moderate,Low,1
+227,No,No,Moderate,Low,1
+228,No,No,Moderate,Low,1
+229,No,No,Moderate,Low,1
+230,No,No,Moderate,Low,1
+231,No,No,Moderate,Low,1
+232,No,No,Moderate,Low,1
+233,No,No,Moderate,Low,1
+234,No,No,Moderate,Low,1
+235,No,No,Moderate,Low,1
+236,No,No,Moderate,Low,1
+237,No,No,Moderate,Low,1
+238,No,No,Moderate,Low,1
+239,No,No,Moderate,Low,1
+240,No,No,Moderate,Low,1
+241,No,No,Moderate,Low,1
+242,No,No,Moderate,Low,1
+243,No,No,Moderate,Low,1
+244,No,No,Moderate,Low,1
+245,No,No,Moderate,Low,1
+246,No,No,Moderate,Low,1
+247,No,No,Moderate,Low,1
+248,No,No,Moderate,Low,1
+249,No,No,Moderate,Low,1
+250,No,No,Moderate,Low,1
+251,No,No,Moderate,Low,1
+252,No,No,Moderate,Low,1
+253,No,No,Moderate,Low,1
+254,No,No,Moderate,Low,1
+255,No,No,Moderate,Low,1
+256,No,No,Moderate,Low,1
+257,No,No,Moderate,Low,1
+258,No,No,Moderate,Low,1
+259,No,No,Moderate,Low,1
+260,No,No,Moderate,Low,1
+261,No,No,Moderate,Moderate,1
+262,No,No,Moderate,Moderate,1
+263,No,No,Moderate,Moderate,1
+264,No,No,Moderate,Moderate,1
+265,No,No,Moderate,Moderate,1
+266,No,No,Moderate,Moderate,1
+267,No,No,Moderate,Moderate,1
+268,No,No,Moderate,Moderate,1
+269,No,No,Moderate,Moderate,1
+270,No,No,Moderate,Moderate,1
+271,No,No,Moderate,Moderate,1
+272,No,No,Moderate,Moderate,1
+273,No,No,Moderate,Moderate,1
+274,No,No,Moderate,Moderate,1
+275,No,No,Moderate,Moderate,1
+276,No,No,Moderate,Moderate,1
+277,No,No,Moderate,Moderate,1
+278,No,No,Moderate,Moderate,1
+279,No,No,Moderate,Moderate,1
+280,No,No,Moderate,Moderate,1
+281,No,No,Moderate,Moderate,1
+282,No,No,Moderate,Moderate,1
+283,No,No,Moderate,Moderate,1
+284,No,No,Moderate,Moderate,1
+285,No,No,Moderate,Moderate,1
+286,No,No,Moderate,Moderate,1
+287,No,No,Moderate,Moderate,1
+288,No,No,Moderate,Moderate,1
+289,No,No,Moderate,Moderate,1
+290,No,No,Moderate,Moderate,1
+291,No,No,Moderate,Moderate,1
+292,No,No,Moderate,Moderate,1
+293,No,No,Moderate,Moderate,1
+294,No,No,Moderate,Moderate,1
+295,No,No,Moderate,Moderate,1
+296,No,No,Moderate,Moderate,1
+297,No,No,Moderate,Moderate,1
+298,No,No,Moderate,Moderate,1
+299,No,No,Moderate,Moderate,1
+300,No,No,Moderate,Moderate,1
+301,No,No,Moderate,Moderate,1
+302,No,No,Moderate,Moderate,1
+303,No,No,Moderate,Moderate,1
+304,No,No,Moderate,Moderate,1
+305,No,No,Moderate,Moderate,1
+306,No,No,Moderate,Moderate,1
+307,No,No,Moderate,Moderate,1
+308,No,No,Moderate,Moderate,1
+309,No,No,Moderate,Moderate,1
+310,No,No,Moderate,Moderate,1
+311,No,No,Moderate,High,2
+312,No,No,Moderate,High,2
+313,No,No,Moderate,High,2
+314,No,No,Moderate,High,2
+315,No,No,Moderate,High,2
+316,No,No,Moderate,High,2
+317,No,No,Moderate,High,2
+318,No,No,Moderate,High,2
+319,No,No,Moderate,High,2
+320,No,No,Moderate,High,2
+321,No,No,Moderate,High,2
+322,No,No,Moderate,High,2
+323,No,No,Moderate,High,2
+324,No,No,Moderate,High,2
+325,No,No,Moderate,High,2
+326,No,No,Moderate,High,2
+327,No,No,Moderate,High,2
+328,No,No,Moderate,High,2
+329,No,No,Moderate,High,2
+330,No,No,Moderate,High,2
+331,No,No,Moderate,High,2
+332,No,No,Moderate,High,2
+333,No,No,Moderate,High,2
+334,No,No,Moderate,High,2
+335,No,No,Moderate,High,2
+336,No,No,Moderate,High,2
+337,No,No,Moderate,High,2
+338,No,No,Moderate,High,2
+339,No,No,Moderate,High,2
+340,No,No,Moderate,High,2
+341,No,No,Moderate,High,2
+342,No,No,Moderate,High,2
+343,No,No,Moderate,High,2
+344,No,No,Moderate,High,2
+345,No,No,Moderate,High,2
+346,No,No,Moderate,High,2
+347,No,No,Moderate,High,2
+348,No,No,Moderate,High,2
+349,No,No,Moderate,High,2
+350,No,No,Moderate,High,2
+351,No,No,Moderate,High,2
+352,No,No,Moderate,High,2
+353,No,No,Moderate,High,2
+354,No,No,High,Low,1
+355,No,No,High,Low,1
+356,No,No,High,Low,1
+357,No,No,High,Low,1
+358,No,No,High,Low,1
+359,No,No,High,Low,1
+360,No,No,High,Low,1
+361,No,No,High,Low,1
+362,No,No,High,Low,1
+363,No,No,High,Low,1
+364,No,No,High,Low,1
+365,No,No,High,Low,1
+366,No,No,High,Low,1
+367,No,No,High,Low,1
+368,No,No,High,Low,1
+369,No,No,High,Low,1
+370,No,No,High,Low,1
+371,No,No,High,Low,1
+372,No,No,High,Low,1
+373,No,No,High,Low,1
+374,No,No,High,Low,1
+375,No,No,High,Low,1
+376,No,No,High,Low,1
+377,No,No,High,Low,1
+378,No,No,High,Low,1
+379,No,No,High,Low,1
+380,No,No,High,Low,1
+381,No,No,High,Low,1
+382,No,No,High,Low,1
+383,No,No,High,Low,1
+384,No,No,High,Low,1
+385,No,No,High,Low,1
+386,No,No,High,Low,1
+387,No,No,High,Low,1
+388,No,No,High,Low,1
+389,No,No,High,Low,1
+390,No,No,High,Low,1
+391,No,No,High,Low,1
+392,No,No,High,Low,1
+393,No,No,High,Low,1
+394,No,No,High,Low,1
+395,No,No,High,Low,1
+396,No,No,High,Low,1
+397,No,No,High,Low,1
+398,No,No,High,Low,1
+399,No,No,High,Low,1
+400,No,No,High,Low,1
+401,No,No,High,Low,1
+402,No,No,High,Low,1
+403,No,No,High,Low,1
+404,No,No,High,Moderate,2
+405,No,No,High,Moderate,2
+406,No,No,High,Moderate,2
+407,No,No,High,Moderate,2
+408,No,No,High,Moderate,2
+409,No,No,High,Moderate,2
+410,No,No,High,Moderate,2
+411,No,No,High,Moderate,2
+412,No,No,High,Moderate,2
+413,No,No,High,Moderate,2
+414,No,No,High,Moderate,2
+415,No,No,High,Moderate,2
+416,No,No,High,Moderate,2
+417,No,No,High,Moderate,2
+418,No,No,High,Moderate,2
+419,No,No,High,Moderate,2
+420,No,No,High,Moderate,2
+421,No,No,High,Moderate,2
+422,No,No,High,Moderate,2
+423,No,No,High,Moderate,2
+424,No,No,High,Moderate,2
+425,No,No,High,Moderate,2
+426,No,No,High,Moderate,2
+427,No,No,High,Moderate,2
+428,No,No,High,Moderate,2
+429,No,No,High,Moderate,2
+430,No,No,High,Moderate,2
+431,No,No,High,Moderate,2
+432,No,No,High,Moderate,2
+433,No,No,High,Moderate,2
+434,No,No,High,Moderate,2
+435,No,No,High,Moderate,2
+436,No,No,High,Moderate,2
+437,No,No,High,Moderate,2
+438,No,No,High,Moderate,2
+439,No,No,High,Moderate,2
+440,No,No,High,Moderate,2
+441,No,No,High,Moderate,2
+442,No,No,High,Moderate,2
+443,No,No,High,Moderate,2
+444,No,No,High,Moderate,2
+445,No,No,High,Moderate,2
+446,No,No,High,Moderate,2
+447,No,No,High,High,3
+448,No,No,High,High,3
+449,No,No,High,High,3
+450,No,No,High,High,3
+451,No,No,High,High,3
+452,No,No,High,High,3
+453,No,No,High,High,3
+454,No,No,High,High,3
+455,No,No,High,High,3
+456,No,No,High,High,3
+457,No,No,High,High,3
+458,No,No,High,High,3
+459,No,No,High,High,3
+460,No,No,High,High,3
+461,No,No,High,High,3
+462,No,No,High,High,3
+463,No,No,High,High,3
+464,No,No,High,High,3
+465,No,No,High,High,3
+466,No,No,High,High,3
+467,No,No,High,High,3
+468,No,No,High,High,3
+469,No,No,High,High,3
+470,No,No,High,High,3
+471,No,No,High,High,3
+472,No,No,High,High,3
+473,No,No,High,High,3
+474,No,No,High,High,3
+475,No,No,High,High,3
+476,No,No,High,High,3
+477,No,No,High,High,3
+478,No,No,High,High,3
+479,No,No,High,High,3
+480,No,No,High,High,3
+481,No,No,High,High,3
+482,No,No,High,High,3
+483,No,No,High,High,3
+484,No,No,High,High,3
+485,No,No,High,High,3
+486,No,No,High,High,3
+487,No,No,High,High,3
+488,No,No,High,High,3
+489,No,No,High,High,3
+490,No,No,High,High,3
+491,No,No,High,High,3
+492,No,No,High,High,3
+493,No,No,High,High,3
+494,No,No,High,High,3
+495,No,No,High,High,3
+496,No,No,High,High,3
+497,No,No,High,High,3
+498,No,No,High,High,3
+499,No,No,High,High,3
+500,No,No,High,High,3
+501,No,No,High,High,3
+502,No,No,High,High,3
+503,No,No,High,High,3
+504,No,No,High,High,3
+505,No,No,High,High,3
+506,No,May Be,Low,Low,0
+507,No,May Be,Low,Low,0
+508,No,May Be,Low,Low,0
+509,No,May Be,Low,Low,0
+510,No,May Be,Low,Low,0
+511,No,May Be,Low,Low,0
+512,No,May Be,Low,Low,0
+513,No,May Be,Low,Low,0
+514,No,May Be,Low,Low,0
+515,No,May Be,Low,Low,0
+516,No,May Be,Low,Low,0
+517,No,May Be,Low,Low,0
+518,No,May Be,Low,Low,0
+519,No,May Be,Low,Low,0
+520,No,May Be,Low,Low,0
+521,No,May Be,Low,Low,0
+522,No,May Be,Low,Low,0
+523,No,May Be,Low,Low,0
+524,No,May Be,Low,Low,0
+525,No,May Be,Low,Low,0
+526,No,May Be,Low,Low,0
+527,No,May Be,Low,Low,0
+528,No,May Be,Low,Low,0
+529,No,May Be,Low,Low,0
+530,No,May Be,Low,Low,0
+531,No,May Be,Low,Low,0
+532,No,May Be,Low,Low,0
+533,No,May Be,Low,Low,0
+534,No,May Be,Low,Low,0
+535,No,May Be,Low,Low,0
+536,No,May Be,Low,Low,0
+537,No,May Be,Low,Low,0
+538,No,May Be,Low,Low,0
+539,No,May Be,Low,Low,0
+540,No,May Be,Low,Low,0
+541,No,May Be,Low,Low,0
+542,No,May Be,Low,Low,0
+543,No,May Be,Low,Low,0
+544,No,May Be,Low,Low,0
+545,No,May Be,Low,Low,0
+546,No,May Be,Low,Low,0
+547,No,May Be,Low,Low,0
+548,No,May Be,Low,Low,0
+549,No,May Be,Low,Low,0
+550,No,May Be,Low,Low,0
+551,No,May Be,Low,Low,0
+552,No,May Be,Low,Low,0
+553,No,May Be,Low,Low,0
+554,No,May Be,Low,Low,0
+555,No,May Be,Low,Low,0
+556,No,May Be,Low,Low,0
+557,No,May Be,Low,Low,0
+558,No,May Be,Low,Low,0
+559,No,May Be,Low,Low,0
+560,No,May Be,Low,Low,0
+561,No,May Be,Low,Low,0
+562,No,May Be,Low,Low,0
+563,No,May Be,Low,Low,0
+564,No,May Be,Low,Low,0
+565,No,May Be,Low,Low,0
+566,No,May Be,Low,Low,0
+567,No,May Be,Low,Low,0
+568,No,May Be,Low,Low,0
+569,No,May Be,Low,Low,0
+570,No,May Be,Low,Low,0
+571,No,May Be,Low,Low,0
+572,No,May Be,Low,Low,0
+573,No,May Be,Low,Low,0
+574,No,May Be,Low,Low,0
+575,No,May Be,Low,Low,0
+576,No,May Be,Low,Low,0
+577,No,May Be,Low,Low,0
+578,No,May Be,Low,Low,0
+579,No,May Be,Low,Low,0
+580,No,May Be,Low,Low,0
+581,No,May Be,Low,Low,0
+582,No,May Be,Low,Low,0
+583,No,May Be,Low,Low,0
+584,No,May Be,Low,Low,0
+585,No,May Be,Low,Low,0
+586,No,May Be,Low,Low,0
+587,No,May Be,Low,Low,0
+588,No,May Be,Low,Low,0
+589,No,May Be,Low,Low,0
+590,No,May Be,Low,Low,0
+591,No,May Be,Low,Low,0
+592,No,May Be,Low,Low,0
+593,No,May Be,Low,Low,0
+594,No,May Be,Low,Low,0
+595,No,May Be,Low,Low,0
+596,No,May Be,Low,Low,0
+597,No,May Be,Low,Low,0
+598,No,May Be,Low,Low,0
+599,No,May Be,Low,Low,0
+600,No,May Be,Low,Low,0
+601,No,May Be,Low,Low,0
+602,No,May Be,Low,Low,0
+603,No,May Be,Low,Low,0
+604,No,May Be,Low,Low,0
+605,No,May Be,Low,Low,0
+606,No,May Be,Low,Low,0
+607,No,May Be,Low,Low,0
+608,No,May Be,Low,Low,0
+609,No,May Be,Low,Low,0
+610,No,May Be,Low,Low,0
+611,No,May Be,Low,Low,0
+612,No,May Be,Low,Low,0
+613,No,May Be,Low,Low,0
+614,No,May Be,Low,Low,0
+615,No,May Be,Low,Low,0
+616,No,May Be,Low,Low,0
+617,No,May Be,Low,Moderate,0
+618,No,May Be,Low,Moderate,0
+619,No,May Be,Low,Moderate,0
+620,No,May Be,Low,Moderate,0
+621,No,May Be,Low,Moderate,0
+622,No,May Be,Low,Moderate,0
+623,No,May Be,Low,Moderate,0
+624,No,May Be,Low,Moderate,0
+625,No,May Be,Low,Moderate,0
+626,No,May Be,Low,Moderate,0
+627,No,May Be,Low,Moderate,0
+628,No,May Be,Low,Moderate,0
+629,No,May Be,Low,Moderate,0
+630,No,May Be,Low,Moderate,0
+631,No,May Be,Low,Moderate,0
+632,No,May Be,Low,Moderate,0
+633,No,May Be,Low,Moderate,0
+634,No,May Be,Low,Moderate,0
+635,No,May Be,Low,Moderate,0
+636,No,May Be,Low,Moderate,0
+637,No,May Be,Low,Moderate,0
+638,No,May Be,Low,Moderate,0
+639,No,May Be,Low,Moderate,0
+640,No,May Be,Low,Moderate,0
+641,No,May Be,Low,Moderate,0
+642,No,May Be,Low,Moderate,0
+643,No,May Be,Low,Moderate,0
+644,No,May Be,Low,Moderate,0
+645,No,May Be,Low,Moderate,0
+646,No,May Be,Low,Moderate,0
+647,No,May Be,Low,Moderate,0
+648,No,May Be,Low,Moderate,0
+649,No,May Be,Low,Moderate,0
+650,No,May Be,Low,Moderate,0
+651,No,May Be,Low,Moderate,0
+652,No,May Be,Low,Moderate,0
+653,No,May Be,Low,Moderate,0
+654,No,May Be,Low,Moderate,0
+655,No,May Be,Low,Moderate,0
+656,No,May Be,Low,Moderate,0
+657,No,May Be,Low,Moderate,0
+658,No,May Be,Low,Moderate,0
+659,No,May Be,Low,Moderate,0
+660,No,May Be,Low,Moderate,0
+661,No,May Be,Low,Moderate,0
+662,No,May Be,Low,Moderate,0
+663,No,May Be,Low,Moderate,0
+664,No,May Be,Low,Moderate,0
+665,No,May Be,Low,Moderate,0
+666,No,May Be,Low,Moderate,0
+667,No,May Be,Low,Moderate,0
+668,No,May Be,Low,Moderate,0
+669,No,May Be,Low,Moderate,0
+670,No,May Be,Low,Moderate,0
+671,No,May Be,Low,Moderate,0
+672,No,May Be,Low,Moderate,0
+673,No,May Be,Low,Moderate,0
+674,No,May Be,Low,Moderate,0
+675,No,May Be,Low,Moderate,0
+676,No,May Be,Low,Moderate,0
+677,No,May Be,Low,Moderate,0
+678,No,May Be,Low,Moderate,0
+679,No,May Be,Low,Moderate,0
+680,No,May Be,Low,Moderate,0
+681,No,May Be,Low,Moderate,0
+682,No,May Be,Low,Moderate,0
+683,No,May Be,Low,Moderate,0
+684,No,May Be,Low,Moderate,0
+685,No,May Be,Low,Moderate,0
+686,No,May Be,Low,Moderate,0
+687,No,May Be,Low,Moderate,0
+688,No,May Be,Low,Moderate,0
+689,No,May Be,Low,Moderate,0
+690,No,May Be,Low,Moderate,0
+691,No,May Be,Low,Moderate,0
+692,No,May Be,Low,Moderate,0
+693,No,May Be,Low,Moderate,0
+694,No,May Be,Low,Moderate,0
+695,No,May Be,Low,Moderate,0
+696,No,May Be,Low,Moderate,0
+697,No,May Be,Low,Moderate,0
+698,No,May Be,Low,Moderate,0
+699,No,May Be,Low,Moderate,0
+700,No,May Be,Low,Moderate,0
+701,No,May Be,Low,Moderate,0
+702,No,May Be,Low,Moderate,0
+703,No,May Be,Low,Moderate,0
+704,No,May Be,Low,Moderate,0
+705,No,May Be,Low,Moderate,0
+706,No,May Be,Low,Moderate,0
+707,No,May Be,Low,Moderate,0
+708,No,May Be,Low,Moderate,0
+709,No,May Be,Low,Moderate,0
+710,No,May Be,Low,Moderate,0
+711,No,May Be,Low,Moderate,0
+712,No,May Be,Low,Moderate,0
+713,No,May Be,Low,Moderate,0
+714,No,May Be,Low,Moderate,0
+715,No,May Be,Low,Moderate,0
+716,No,May Be,Low,Moderate,0
+717,No,May Be,Low,Moderate,0
+718,No,May Be,Low,Moderate,0
+719,No,May Be,Low,Moderate,0
+720,No,May Be,Low,Moderate,0
+721,No,May Be,Low,Moderate,0
+722,No,May Be,Low,Moderate,0
+723,No,May Be,Low,Moderate,0
+724,No,May Be,Low,Moderate,0
+725,No,May Be,Low,Moderate,0
+726,No,May Be,Low,Moderate,0
+727,No,May Be,Low,Moderate,0
+728,No,May Be,Low,High,1
+729,No,May Be,Low,High,1
+730,No,May Be,Low,High,1
+731,No,May Be,Low,High,1
+732,No,May Be,Low,High,1
+733,No,May Be,Low,High,1
+734,No,May Be,Low,High,1
+735,No,May Be,Low,High,1
+736,No,May Be,Low,High,1
+737,No,May Be,Low,High,1
+738,No,May Be,Low,High,1
+739,No,May Be,Low,High,1
+740,No,May Be,Low,High,1
+741,No,May Be,Low,High,1
+742,No,May Be,Low,High,1
+743,No,May Be,Low,High,1
+744,No,May Be,Low,High,1
+745,No,May Be,Low,High,1
+746,No,May Be,Low,High,1
+747,No,May Be,Low,High,1
+748,No,May Be,Low,High,1
+749,No,May Be,Low,High,1
+750,No,May Be,Low,High,1
+751,No,May Be,Low,High,1
+752,No,May Be,Low,High,1
+753,No,May Be,Low,High,1
+754,No,May Be,Low,High,1
+755,No,May Be,Low,High,1
+756,No,May Be,Low,High,1
+757,No,May Be,Low,High,1
+758,No,May Be,Low,High,1
+759,No,May Be,Low,High,1
+760,No,May Be,Low,High,1
+761,No,May Be,Low,High,1
+762,No,May Be,Low,High,1
+763,No,May Be,Low,High,1
+764,No,May Be,Low,High,1
+765,No,May Be,Low,High,1
+766,No,May Be,Low,High,1
+767,No,May Be,Low,High,1
+768,No,May Be,Low,High,1
+769,No,May Be,Low,High,1
+770,No,May Be,Low,High,1
+771,No,May Be,Low,High,1
+772,No,May Be,Low,High,1
+773,No,May Be,Low,High,1
+774,No,May Be,Low,High,1
+775,No,May Be,Low,High,1
+776,No,May Be,Low,High,1
+777,No,May Be,Low,High,1
+778,No,May Be,Moderate,Low,0
+779,No,May Be,Moderate,Low,0
+780,No,May Be,Moderate,Low,0
+781,No,May Be,Moderate,Low,0
+782,No,May Be,Moderate,Low,0
+783,No,May Be,Moderate,Low,0
+784,No,May Be,Moderate,Low,0
+785,No,May Be,Moderate,Low,0
+786,No,May Be,Moderate,Low,0
+787,No,May Be,Moderate,Low,0
+788,No,May Be,Moderate,Low,0
+789,No,May Be,Moderate,Low,0
+790,No,May Be,Moderate,Low,0
+791,No,May Be,Moderate,Low,0
+792,No,May Be,Moderate,Low,0
+793,No,May Be,Moderate,Low,0
+794,No,May Be,Moderate,Low,0
+795,No,May Be,Moderate,Low,0
+796,No,May Be,Moderate,Low,0
+797,No,May Be,Moderate,Low,0
+798,No,May Be,Moderate,Low,0
+799,No,May Be,Moderate,Low,0
+800,No,May Be,Moderate,Low,0
+801,No,May Be,Moderate,Low,0
+802,No,May Be,Moderate,Low,0
+803,No,May Be,Moderate,Low,0
+804,No,May Be,Moderate,Low,0
+805,No,May Be,Moderate,Low,0
+806,No,May Be,Moderate,Low,0
+807,No,May Be,Moderate,Low,0
+808,No,May Be,Moderate,Low,0
+809,No,May Be,Moderate,Low,0
+810,No,May Be,Moderate,Low,0
+811,No,May Be,Moderate,Low,0
+812,No,May Be,Moderate,Low,0
+813,No,May Be,Moderate,Low,0
+814,No,May Be,Moderate,Low,0
+815,No,May Be,Moderate,Low,0
+816,No,May Be,Moderate,Low,0
+817,No,May Be,Moderate,Low,0
+818,No,May Be,Moderate,Low,0
+819,No,May Be,Moderate,Low,0
+820,No,May Be,Moderate,Low,0
+821,No,May Be,Moderate,Low,0
+822,No,May Be,Moderate,Low,0
+823,No,May Be,Moderate,Low,0
+824,No,May Be,Moderate,Low,0
+825,No,May Be,Moderate,Low,0
+826,No,May Be,Moderate,Low,0
+827,No,May Be,Moderate,Low,0
+828,No,May Be,Moderate,Low,0
+829,No,May Be,Moderate,Low,0
+830,No,May Be,Moderate,Low,0
+831,No,May Be,Moderate,Low,0
+832,No,May Be,Moderate,Low,0
+833,No,May Be,Moderate,Low,0
+834,No,May Be,Moderate,Low,0
+835,No,May Be,Moderate,Low,0
+836,No,May Be,Moderate,Low,0
+837,No,May Be,Moderate,Low,0
+838,No,May Be,Moderate,Low,0
+839,No,May Be,Moderate,Low,0
+840,No,May Be,Moderate,Low,0
+841,No,May Be,Moderate,Low,0
+842,No,May Be,Moderate,Low,0
+843,No,May Be,Moderate,Low,0
+844,No,May Be,Moderate,Low,0
+845,No,May Be,Moderate,Low,0
+846,No,May Be,Moderate,Low,0
+847,No,May Be,Moderate,Low,0
+848,No,May Be,Moderate,Low,0
+849,No,May Be,Moderate,Low,0
+850,No,May Be,Moderate,Low,0
+851,No,May Be,Moderate,Low,0
+852,No,May Be,Moderate,Low,0
+853,No,May Be,Moderate,Low,0
+854,No,May Be,Moderate,Low,0
+855,No,May Be,Moderate,Low,0
+856,No,May Be,Moderate,Low,0
+857,No,May Be,Moderate,Low,0
+858,No,May Be,Moderate,Low,0
+859,No,May Be,Moderate,Low,0
+860,No,May Be,Moderate,Low,0
+861,No,May Be,Moderate,Low,0
+862,No,May Be,Moderate,Low,0
+863,No,May Be,Moderate,Low,0
+864,No,May Be,Moderate,Low,0
+865,No,May Be,Moderate,Low,0
+866,No,May Be,Moderate,Low,0
+867,No,May Be,Moderate,Low,0
+868,No,May Be,Moderate,Low,0
+869,No,May Be,Moderate,Low,0
+870,No,May Be,Moderate,Low,0
+871,No,May Be,Moderate,Low,0
+872,No,May Be,Moderate,Low,0
+873,No,May Be,Moderate,Low,0
+874,No,May Be,Moderate,Low,0
+875,No,May Be,Moderate,Low,0
+876,No,May Be,Moderate,Low,0
+877,No,May Be,Moderate,Low,0
+878,No,May Be,Moderate,Low,0
+879,No,May Be,Moderate,Low,0
+880,No,May Be,Moderate,Low,0
+881,No,May Be,Moderate,Low,0
+882,No,May Be,Moderate,Low,0
+883,No,May Be,Moderate,Low,0
+884,No,May Be,Moderate,Low,0
+885,No,May Be,Moderate,Low,0
+886,No,May Be,Moderate,Low,0
+887,No,May Be,Moderate,Low,0
+888,No,May Be,Moderate,Low,0
+889,No,May Be,Moderate,Moderate,1
+890,No,May Be,Moderate,Moderate,1
+891,No,May Be,Moderate,Moderate,1
+892,No,May Be,Moderate,Moderate,1
+893,No,May Be,Moderate,Moderate,1
+894,No,May Be,Moderate,Moderate,1
+895,No,May Be,Moderate,Moderate,1
+896,No,May Be,Moderate,Moderate,1
+897,No,May Be,Moderate,Moderate,1
+898,No,May Be,Moderate,Moderate,1
+899,No,May Be,Moderate,Moderate,1
+900,No,May Be,Moderate,Moderate,1
+901,No,May Be,Moderate,Moderate,1
+902,No,May Be,Moderate,Moderate,1
+903,No,May Be,Moderate,Moderate,1
+904,No,May Be,Moderate,Moderate,1
+905,No,May Be,Moderate,Moderate,1
+906,No,May Be,Moderate,Moderate,1
+907,No,May Be,Moderate,Moderate,1
+908,No,May Be,Moderate,Moderate,1
+909,No,May Be,Moderate,Moderate,1
+910,No,May Be,Moderate,Moderate,1
+911,No,May Be,Moderate,Moderate,1
+912,No,May Be,Moderate,Moderate,1
+913,No,May Be,Moderate,Moderate,1
+914,No,May Be,Moderate,Moderate,1
+915,No,May Be,Moderate,Moderate,1
+916,No,May Be,Moderate,Moderate,1
+917,No,May Be,Moderate,Moderate,1
+918,No,May Be,Moderate,Moderate,1
+919,No,May Be,Moderate,Moderate,1
+920,No,May Be,Moderate,Moderate,1
+921,No,May Be,Moderate,Moderate,1
+922,No,May Be,Moderate,Moderate,1
+923,No,May Be,Moderate,Moderate,1
+924,No,May Be,Moderate,Moderate,1
+925,No,May Be,Moderate,Moderate,1
+926,No,May Be,Moderate,Moderate,1
+927,No,May Be,Moderate,Moderate,1
+928,No,May Be,Moderate,Moderate,1
+929,No,May Be,Moderate,Moderate,1
+930,No,May Be,Moderate,Moderate,1
+931,No,May Be,Moderate,Moderate,1
+932,No,May Be,Moderate,Moderate,1
+933,No,May Be,Moderate,Moderate,1
+934,No,May Be,Moderate,Moderate,1
+935,No,May Be,Moderate,Moderate,1
+936,No,May Be,Moderate,Moderate,1
+937,No,May Be,Moderate,Moderate,1
+938,No,May Be,Moderate,Moderate,1
+939,No,May Be,Moderate,High,2
+940,No,May Be,Moderate,High,2
+941,No,May Be,Moderate,High,2
+942,No,May Be,Moderate,High,2
+943,No,May Be,Moderate,High,2
+944,No,May Be,Moderate,High,2
+945,No,May Be,Moderate,High,2
+946,No,May Be,Moderate,High,2
+947,No,May Be,Moderate,High,2
+948,No,May Be,Moderate,High,2
+949,No,May Be,Moderate,High,2
+950,No,May Be,Moderate,High,2
+951,No,May Be,Moderate,High,2
+952,No,May Be,Moderate,High,2
+953,No,May Be,Moderate,High,2
+954,No,May Be,Moderate,High,2
+955,No,May Be,Moderate,High,2
+956,No,May Be,Moderate,High,2
+957,No,May Be,Moderate,High,2
+958,No,May Be,Moderate,High,2
+959,No,May Be,Moderate,High,2
+960,No,May Be,Moderate,High,2
+961,No,May Be,Moderate,High,2
+962,No,May Be,Moderate,High,2
+963,No,May Be,Moderate,High,2
+964,No,May Be,Moderate,High,2
+965,No,May Be,Moderate,High,2
+966,No,May Be,Moderate,High,2
+967,No,May Be,Moderate,High,2
+968,No,May Be,Moderate,High,2
+969,No,May Be,Moderate,High,2
+970,No,May Be,Moderate,High,2
+971,No,May Be,Moderate,High,2
+972,No,May Be,Moderate,High,2
+973,No,May Be,Moderate,High,2
+974,No,May Be,Moderate,High,2
+975,No,May Be,Moderate,High,2
+976,No,May Be,Moderate,High,2
+977,No,May Be,Moderate,High,2
+978,No,May Be,Moderate,High,2
+979,No,May Be,Moderate,High,2
+980,No,May Be,Moderate,High,2
+981,No,May Be,Moderate,High,2
+982,No,May Be,High,Low,1
+983,No,May Be,High,Low,1
+984,No,May Be,High,Low,1
+985,No,May Be,High,Low,1
+986,No,May Be,High,Low,1
+987,No,May Be,High,Low,1
+988,No,May Be,High,Low,1
+989,No,May Be,High,Low,1
+990,No,May Be,High,Low,1
+991,No,May Be,High,Low,1
+992,No,May Be,High,Low,1
+993,No,May Be,High,Low,1
+994,No,May Be,High,Low,1
+995,No,May Be,High,Low,1
+996,No,May Be,High,Low,1
+997,No,May Be,High,Low,1
+998,No,May Be,High,Low,1
+999,No,May Be,High,Low,1
+1000,No,May Be,High,Low,1
+1001,No,May Be,High,Low,1
+1002,No,May Be,High,Low,1
+1003,No,May Be,High,Low,1
+1004,No,May Be,High,Low,1
+1005,No,May Be,High,Low,1
+1006,No,May Be,High,Low,1
+1007,No,May Be,High,Low,1
+1008,No,May Be,High,Low,1
+1009,No,May Be,High,Low,1
+1010,No,May Be,High,Low,1
+1011,No,May Be,High,Low,1
+1012,No,May Be,High,Low,1
+1013,No,May Be,High,Low,1
+1014,No,May Be,High,Low,1
+1015,No,May Be,High,Low,1
+1016,No,May Be,High,Low,1
+1017,No,May Be,High,Low,1
+1018,No,May Be,High,Low,1
+1019,No,May Be,High,Low,1
+1020,No,May Be,High,Low,1
+1021,No,May Be,High,Low,1
+1022,No,May Be,High,Low,1
+1023,No,May Be,High,Low,1
+1024,No,May Be,High,Low,1
+1025,No,May Be,High,Low,1
+1026,No,May Be,High,Low,1
+1027,No,May Be,High,Low,1
+1028,No,May Be,High,Low,1
+1029,No,May Be,High,Low,1
+1030,No,May Be,High,Low,1
+1031,No,May Be,High,Low,1
+1032,No,May Be,High,Moderate,2
+1033,No,May Be,High,Moderate,2
+1034,No,May Be,High,Moderate,2
+1035,No,May Be,High,Moderate,2
+1036,No,May Be,High,Moderate,2
+1037,No,May Be,High,Moderate,2
+1038,No,May Be,High,Moderate,2
+1039,No,May Be,High,Moderate,2
+1040,No,May Be,High,Moderate,2
+1041,No,May Be,High,Moderate,2
+1042,No,May Be,High,Moderate,2
+1043,No,May Be,High,Moderate,2
+1044,No,May Be,High,Moderate,2
+1045,No,May Be,High,Moderate,2
+1046,No,May Be,High,Moderate,2
+1047,No,May Be,High,Moderate,2
+1048,No,May Be,High,Moderate,2
+1049,No,May Be,High,Moderate,2
+1050,No,May Be,High,Moderate,2
+1051,No,May Be,High,Moderate,2
+1052,No,May Be,High,Moderate,2
+1053,No,May Be,High,Moderate,2
+1054,No,May Be,High,Moderate,2
+1055,No,May Be,High,Moderate,2
+1056,No,May Be,High,Moderate,2
+1057,No,May Be,High,Moderate,2
+1058,No,May Be,High,Moderate,2
+1059,No,May Be,High,Moderate,2
+1060,No,May Be,High,Moderate,2
+1061,No,May Be,High,Moderate,2
+1062,No,May Be,High,Moderate,2
+1063,No,May Be,High,Moderate,2
+1064,No,May Be,High,Moderate,2
+1065,No,May Be,High,Moderate,2
+1066,No,May Be,High,Moderate,2
+1067,No,May Be,High,Moderate,2
+1068,No,May Be,High,Moderate,2
+1069,No,May Be,High,Moderate,2
+1070,No,May Be,High,Moderate,2
+1071,No,May Be,High,Moderate,2
+1072,No,May Be,High,Moderate,2
+1073,No,May Be,High,Moderate,2
+1074,No,May Be,High,Moderate,2
+1075,No,May Be,High,High,2
+1076,No,May Be,High,High,2
+1077,No,May Be,High,High,2
+1078,No,May Be,High,High,2
+1079,No,May Be,High,High,2
+1080,No,May Be,High,High,2
+1081,No,May Be,High,High,2
+1082,No,May Be,High,High,2
+1083,No,May Be,High,High,2
+1084,No,May Be,High,High,2
+1085,No,May Be,High,High,2
+1086,No,May Be,High,High,2
+1087,No,May Be,High,High,2
+1088,No,May Be,High,High,2
+1089,No,May Be,High,High,2
+1090,No,May Be,High,High,2
+1091,No,May Be,High,High,2
+1092,No,May Be,High,High,2
+1093,No,May Be,High,High,2
+1094,No,May Be,High,High,2
+1095,No,May Be,High,High,2
+1096,No,May Be,High,High,2
+1097,No,May Be,High,High,2
+1098,No,May Be,High,High,2
+1099,No,May Be,High,High,2
+1100,No,May Be,High,High,2
+1101,No,May Be,High,High,2
+1102,No,May Be,High,High,2
+1103,No,May Be,High,High,2
+1104,No,May Be,High,High,2
+1105,No,May Be,High,High,2
+1106,No,May Be,High,High,2
+1107,No,May Be,High,High,2
+1108,No,May Be,High,High,2
+1109,No,May Be,High,High,2
+1110,No,May Be,High,High,2
+1111,No,May Be,High,High,2
+1112,No,May Be,High,High,2
+1113,No,May Be,High,High,2
+1114,No,May Be,High,High,2
+1115,No,May Be,High,High,2
+1116,No,May Be,High,High,2
+1117,No,May Be,High,High,2
+1118,No,Yes,Low,Low,1
+1119,No,Yes,Low,Low,1
+1120,No,Yes,Low,Low,1
+1121,No,Yes,Low,Low,1
+1122,No,Yes,Low,Low,1
+1123,No,Yes,Low,Low,1
+1124,No,Yes,Low,Low,1
+1125,No,Yes,Low,Low,1
+1126,No,Yes,Low,Low,1
+1127,No,Yes,Low,Low,1
+1128,No,Yes,Low,Low,1
+1129,No,Yes,Low,Low,1
+1130,No,Yes,Low,Low,1
+1131,No,Yes,Low,Low,1
+1132,No,Yes,Low,Low,1
+1133,No,Yes,Low,Low,1
+1134,No,Yes,Low,Low,1
+1135,No,Yes,Low,Low,1
+1136,No,Yes,Low,Low,1
+1137,No,Yes,Low,Low,1
+1138,No,Yes,Low,Low,1
+1139,No,Yes,Low,Low,1
+1140,No,Yes,Low,Low,1
+1141,No,Yes,Low,Low,1
+1142,No,Yes,Low,Low,1
+1143,No,Yes,Low,Low,1
+1144,No,Yes,Low,Low,1
+1145,No,Yes,Low,Low,1
+1146,No,Yes,Low,Low,1
+1147,No,Yes,Low,Low,1
+1148,No,Yes,Low,Low,1
+1149,No,Yes,Low,Low,1
+1150,No,Yes,Low,Low,1
+1151,No,Yes,Low,Low,1
+1152,No,Yes,Low,Low,1
+1153,No,Yes,Low,Low,1
+1154,No,Yes,Low,Low,1
+1155,No,Yes,Low,Low,1
+1156,No,Yes,Low,Low,1
+1157,No,Yes,Low,Low,1
+1158,No,Yes,Low,Low,1
+1159,No,Yes,Low,Low,1
+1160,No,Yes,Low,Low,1
+1161,No,Yes,Low,Low,1
+1162,No,Yes,Low,Low,1
+1163,No,Yes,Low,Low,1
+1164,No,Yes,Low,Low,1
+1165,No,Yes,Low,Low,1
+1166,No,Yes,Low,Low,1
+1167,No,Yes,Low,Low,1
+1168,No,Yes,Low,Moderate,2
+1169,No,Yes,Low,Moderate,2
+1170,No,Yes,Low,Moderate,2
+1171,No,Yes,Low,Moderate,2
+1172,No,Yes,Low,Moderate,2
+1173,No,Yes,Low,Moderate,2
+1174,No,Yes,Low,Moderate,2
+1175,No,Yes,Low,Moderate,2
+1176,No,Yes,Low,Moderate,2
+1177,No,Yes,Low,Moderate,2
+1178,No,Yes,Low,Moderate,2
+1179,No,Yes,Low,Moderate,2
+1180,No,Yes,Low,Moderate,2
+1181,No,Yes,Low,Moderate,2
+1182,No,Yes,Low,Moderate,2
+1183,No,Yes,Low,Moderate,2
+1184,No,Yes,Low,Moderate,2
+1185,No,Yes,Low,Moderate,2
+1186,No,Yes,Low,Moderate,2
+1187,No,Yes,Low,Moderate,2
+1188,No,Yes,Low,Moderate,2
+1189,No,Yes,Low,Moderate,2
+1190,No,Yes,Low,Moderate,2
+1191,No,Yes,Low,Moderate,2
+1192,No,Yes,Low,Moderate,2
+1193,No,Yes,Low,Moderate,2
+1194,No,Yes,Low,Moderate,2
+1195,No,Yes,Low,Moderate,2
+1196,No,Yes,Low,Moderate,2
+1197,No,Yes,Low,Moderate,2
+1198,No,Yes,Low,Moderate,2
+1199,No,Yes,Low,Moderate,2
+1200,No,Yes,Low,Moderate,2
+1201,No,Yes,Low,Moderate,2
+1202,No,Yes,Low,Moderate,2
+1203,No,Yes,Low,Moderate,2
+1204,No,Yes,Low,Moderate,2
+1205,No,Yes,Low,Moderate,2
+1206,No,Yes,Low,Moderate,2
+1207,No,Yes,Low,Moderate,2
+1208,No,Yes,Low,Moderate,2
+1209,No,Yes,Low,Moderate,2
+1210,No,Yes,Low,Moderate,2
+1211,No,Yes,Low,High,3
+1212,No,Yes,Low,High,3
+1213,No,Yes,Low,High,3
+1214,No,Yes,Low,High,3
+1215,No,Yes,Low,High,3
+1216,No,Yes,Low,High,3
+1217,No,Yes,Low,High,3
+1218,No,Yes,Low,High,3
+1219,No,Yes,Low,High,3
+1220,No,Yes,Low,High,3
+1221,No,Yes,Low,High,3
+1222,No,Yes,Low,High,3
+1223,No,Yes,Low,High,3
+1224,No,Yes,Low,High,3
+1225,No,Yes,Low,High,3
+1226,No,Yes,Low,High,3
+1227,No,Yes,Low,High,3
+1228,No,Yes,Low,High,3
+1229,No,Yes,Low,High,3
+1230,No,Yes,Low,High,3
+1231,No,Yes,Low,High,3
+1232,No,Yes,Low,High,3
+1233,No,Yes,Low,High,3
+1234,No,Yes,Low,High,3
+1235,No,Yes,Low,High,3
+1236,No,Yes,Low,High,3
+1237,No,Yes,Low,High,3
+1238,No,Yes,Low,High,3
+1239,No,Yes,Low,High,3
+1240,No,Yes,Low,High,3
+1241,No,Yes,Low,High,3
+1242,No,Yes,Low,High,3
+1243,No,Yes,Low,High,3
+1244,No,Yes,Low,High,3
+1245,No,Yes,Low,High,3
+1246,No,Yes,Low,High,3
+1247,No,Yes,Low,High,3
+1248,No,Yes,Low,High,3
+1249,No,Yes,Low,High,3
+1250,No,Yes,Low,High,3
+1251,No,Yes,Low,High,3
+1252,No,Yes,Low,High,3
+1253,No,Yes,Low,High,3
+1254,No,Yes,Low,High,3
+1255,No,Yes,Low,High,3
+1256,No,Yes,Low,High,3
+1257,No,Yes,Low,High,3
+1258,No,Yes,Low,High,3
+1259,No,Yes,Low,High,3
+1260,No,Yes,Low,High,3
+1261,No,Yes,Low,High,3
+1262,No,Yes,Low,High,3
+1263,No,Yes,Low,High,3
+1264,No,Yes,Low,High,3
+1265,No,Yes,Low,High,3
+1266,No,Yes,Low,High,3
+1267,No,Yes,Low,High,3
+1268,No,Yes,Low,High,3
+1269,No,Yes,Low,High,3
+1270,No,Yes,Moderate,Low,1
+1271,No,Yes,Moderate,Low,1
+1272,No,Yes,Moderate,Low,1
+1273,No,Yes,Moderate,Low,1
+1274,No,Yes,Moderate,Low,1
+1275,No,Yes,Moderate,Low,1
+1276,No,Yes,Moderate,Low,1
+1277,No,Yes,Moderate,Low,1
+1278,No,Yes,Moderate,Low,1
+1279,No,Yes,Moderate,Low,1
+1280,No,Yes,Moderate,Low,1
+1281,No,Yes,Moderate,Low,1
+1282,No,Yes,Moderate,Low,1
+1283,No,Yes,Moderate,Low,1
+1284,No,Yes,Moderate,Low,1
+1285,No,Yes,Moderate,Low,1
+1286,No,Yes,Moderate,Low,1
+1287,No,Yes,Moderate,Low,1
+1288,No,Yes,Moderate,Low,1
+1289,No,Yes,Moderate,Low,1
+1290,No,Yes,Moderate,Low,1
+1291,No,Yes,Moderate,Low,1
+1292,No,Yes,Moderate,Low,1
+1293,No,Yes,Moderate,Low,1
+1294,No,Yes,Moderate,Low,1
+1295,No,Yes,Moderate,Low,1
+1296,No,Yes,Moderate,Low,1
+1297,No,Yes,Moderate,Low,1
+1298,No,Yes,Moderate,Low,1
+1299,No,Yes,Moderate,Low,1
+1300,No,Yes,Moderate,Low,1
+1301,No,Yes,Moderate,Low,1
+1302,No,Yes,Moderate,Low,1
+1303,No,Yes,Moderate,Low,1
+1304,No,Yes,Moderate,Low,1
+1305,No,Yes,Moderate,Low,1
+1306,No,Yes,Moderate,Low,1
+1307,No,Yes,Moderate,Low,1
+1308,No,Yes,Moderate,Low,1
+1309,No,Yes,Moderate,Low,1
+1310,No,Yes,Moderate,Low,1
+1311,No,Yes,Moderate,Low,1
+1312,No,Yes,Moderate,Low,1
+1313,No,Yes,Moderate,Low,1
+1314,No,Yes,Moderate,Low,1
+1315,No,Yes,Moderate,Low,1
+1316,No,Yes,Moderate,Low,1
+1317,No,Yes,Moderate,Low,1
+1318,No,Yes,Moderate,Low,1
+1319,No,Yes,Moderate,Low,1
+1320,No,Yes,Moderate,Moderate,2
+1321,No,Yes,Moderate,Moderate,2
+1322,No,Yes,Moderate,Moderate,2
+1323,No,Yes,Moderate,Moderate,2
+1324,No,Yes,Moderate,Moderate,2
+1325,No,Yes,Moderate,Moderate,2
+1326,No,Yes,Moderate,Moderate,2
+1327,No,Yes,Moderate,Moderate,2
+1328,No,Yes,Moderate,Moderate,2
+1329,No,Yes,Moderate,Moderate,2
+1330,No,Yes,Moderate,Moderate,2
+1331,No,Yes,Moderate,Moderate,2
+1332,No,Yes,Moderate,Moderate,2
+1333,No,Yes,Moderate,Moderate,2
+1334,No,Yes,Moderate,Moderate,2
+1335,No,Yes,Moderate,Moderate,2
+1336,No,Yes,Moderate,Moderate,2
+1337,No,Yes,Moderate,Moderate,2
+1338,No,Yes,Moderate,Moderate,2
+1339,No,Yes,Moderate,Moderate,2
+1340,No,Yes,Moderate,Moderate,2
+1341,No,Yes,Moderate,Moderate,2
+1342,No,Yes,Moderate,Moderate,2
+1343,No,Yes,Moderate,Moderate,2
+1344,No,Yes,Moderate,Moderate,2
+1345,No,Yes,Moderate,Moderate,2
+1346,No,Yes,Moderate,Moderate,2
+1347,No,Yes,Moderate,Moderate,2
+1348,No,Yes,Moderate,Moderate,2
+1349,No,Yes,Moderate,Moderate,2
+1350,No,Yes,Moderate,Moderate,2
+1351,No,Yes,Moderate,Moderate,2
+1352,No,Yes,Moderate,Moderate,2
+1353,No,Yes,Moderate,Moderate,2
+1354,No,Yes,Moderate,Moderate,2
+1355,No,Yes,Moderate,Moderate,2
+1356,No,Yes,Moderate,Moderate,2
+1357,No,Yes,Moderate,Moderate,2
+1358,No,Yes,Moderate,Moderate,2
+1359,No,Yes,Moderate,Moderate,2
+1360,No,Yes,Moderate,Moderate,2
+1361,No,Yes,Moderate,Moderate,2
+1362,No,Yes,Moderate,Moderate,2
+1363,No,Yes,Moderate,High,3
+1364,No,Yes,Moderate,High,3
+1365,No,Yes,Moderate,High,3
+1366,No,Yes,Moderate,High,3
+1367,No,Yes,Moderate,High,3
+1368,No,Yes,Moderate,High,3
+1369,No,Yes,Moderate,High,3
+1370,No,Yes,Moderate,High,3
+1371,No,Yes,Moderate,High,3
+1372,No,Yes,Moderate,High,3
+1373,No,Yes,Moderate,High,3
+1374,No,Yes,Moderate,High,3
+1375,No,Yes,Moderate,High,3
+1376,No,Yes,Moderate,High,3
+1377,No,Yes,Moderate,High,3
+1378,No,Yes,Moderate,High,3
+1379,No,Yes,Moderate,High,3
+1380,No,Yes,Moderate,High,3
+1381,No,Yes,Moderate,High,3
+1382,No,Yes,Moderate,High,3
+1383,No,Yes,Moderate,High,3
+1384,No,Yes,Moderate,High,3
+1385,No,Yes,Moderate,High,3
+1386,No,Yes,Moderate,High,3
+1387,No,Yes,Moderate,High,3
+1388,No,Yes,Moderate,High,3
+1389,No,Yes,Moderate,High,3
+1390,No,Yes,Moderate,High,3
+1391,No,Yes,Moderate,High,3
+1392,No,Yes,Moderate,High,3
+1393,No,Yes,Moderate,High,3
+1394,No,Yes,Moderate,High,3
+1395,No,Yes,Moderate,High,3
+1396,No,Yes,Moderate,High,3
+1397,No,Yes,Moderate,High,3
+1398,No,Yes,Moderate,High,3
+1399,No,Yes,Moderate,High,3
+1400,No,Yes,Moderate,High,3
+1401,No,Yes,Moderate,High,3
+1402,No,Yes,Moderate,High,3
+1403,No,Yes,Moderate,High,3
+1404,No,Yes,Moderate,High,3
+1405,No,Yes,Moderate,High,3
+1406,No,Yes,Moderate,High,3
+1407,No,Yes,Moderate,High,3
+1408,No,Yes,Moderate,High,3
+1409,No,Yes,Moderate,High,3
+1410,No,Yes,Moderate,High,3
+1411,No,Yes,Moderate,High,3
+1412,No,Yes,Moderate,High,3
+1413,No,Yes,Moderate,High,3
+1414,No,Yes,Moderate,High,3
+1415,No,Yes,Moderate,High,3
+1416,No,Yes,Moderate,High,3
+1417,No,Yes,Moderate,High,3
+1418,No,Yes,Moderate,High,3
+1419,No,Yes,Moderate,High,3
+1420,No,Yes,Moderate,High,3
+1421,No,Yes,Moderate,High,3
+1422,No,Yes,High,Low,2
+1423,No,Yes,High,Low,2
+1424,No,Yes,High,Low,2
+1425,No,Yes,High,Low,2
+1426,No,Yes,High,Low,2
+1427,No,Yes,High,Low,2
+1428,No,Yes,High,Low,2
+1429,No,Yes,High,Low,2
+1430,No,Yes,High,Low,2
+1431,No,Yes,High,Low,2
+1432,No,Yes,High,Low,2
+1433,No,Yes,High,Low,2
+1434,No,Yes,High,Low,2
+1435,No,Yes,High,Low,2
+1436,No,Yes,High,Low,2
+1437,No,Yes,High,Low,2
+1438,No,Yes,High,Low,2
+1439,No,Yes,High,Low,2
+1440,No,Yes,High,Low,2
+1441,No,Yes,High,Low,2
+1442,No,Yes,High,Low,2
+1443,No,Yes,High,Low,2
+1444,No,Yes,High,Low,2
+1445,No,Yes,High,Low,2
+1446,No,Yes,High,Low,2
+1447,No,Yes,High,Low,2
+1448,No,Yes,High,Low,2
+1449,No,Yes,High,Low,2
+1450,No,Yes,High,Low,2
+1451,No,Yes,High,Low,2
+1452,No,Yes,High,Low,2
+1453,No,Yes,High,Low,2
+1454,No,Yes,High,Low,2
+1455,No,Yes,High,Low,2
+1456,No,Yes,High,Low,2
+1457,No,Yes,High,Low,2
+1458,No,Yes,High,Low,2
+1459,No,Yes,High,Low,2
+1460,No,Yes,High,Low,2
+1461,No,Yes,High,Low,2
+1462,No,Yes,High,Low,2
+1463,No,Yes,High,Low,2
+1464,No,Yes,High,Low,2
+1465,No,Yes,High,Moderate,3
+1466,No,Yes,High,Moderate,3
+1467,No,Yes,High,Moderate,3
+1468,No,Yes,High,Moderate,3
+1469,No,Yes,High,Moderate,3
+1470,No,Yes,High,Moderate,3
+1471,No,Yes,High,Moderate,3
+1472,No,Yes,High,Moderate,3
+1473,No,Yes,High,Moderate,3
+1474,No,Yes,High,Moderate,3
+1475,No,Yes,High,Moderate,3
+1476,No,Yes,High,Moderate,3
+1477,No,Yes,High,Moderate,3
+1478,No,Yes,High,Moderate,3
+1479,No,Yes,High,Moderate,3
+1480,No,Yes,High,Moderate,3
+1481,No,Yes,High,Moderate,3
+1482,No,Yes,High,Moderate,3
+1483,No,Yes,High,Moderate,3
+1484,No,Yes,High,Moderate,3
+1485,No,Yes,High,Moderate,3
+1486,No,Yes,High,Moderate,3
+1487,No,Yes,High,Moderate,3
+1488,No,Yes,High,Moderate,3
+1489,No,Yes,High,Moderate,3
+1490,No,Yes,High,Moderate,3
+1491,No,Yes,High,Moderate,3
+1492,No,Yes,High,Moderate,3
+1493,No,Yes,High,Moderate,3
+1494,No,Yes,High,Moderate,3
+1495,No,Yes,High,Moderate,3
+1496,No,Yes,High,Moderate,3
+1497,No,Yes,High,Moderate,3
+1498,No,Yes,High,Moderate,3
+1499,No,Yes,High,Moderate,3
+1500,No,Yes,High,Moderate,3
+1501,No,Yes,High,Moderate,3
+1502,No,Yes,High,Moderate,3
+1503,No,Yes,High,Moderate,3
+1504,No,Yes,High,Moderate,3
+1505,No,Yes,High,Moderate,3
+1506,No,Yes,High,Moderate,3
+1507,No,Yes,High,Moderate,3
+1508,No,Yes,High,Moderate,3
+1509,No,Yes,High,Moderate,3
+1510,No,Yes,High,Moderate,3
+1511,No,Yes,High,Moderate,3
+1512,No,Yes,High,Moderate,3
+1513,No,Yes,High,Moderate,3
+1514,No,Yes,High,Moderate,3
+1515,No,Yes,High,Moderate,3
+1516,No,Yes,High,Moderate,3
+1517,No,Yes,High,Moderate,3
+1518,No,Yes,High,Moderate,3
+1519,No,Yes,High,Moderate,3
+1520,No,Yes,High,Moderate,3
+1521,No,Yes,High,Moderate,3
+1522,No,Yes,High,Moderate,3
+1523,No,Yes,High,Moderate,3
+1524,No,Yes,High,High,4
+1525,No,Yes,High,High,4
+1526,No,Yes,High,High,4
+1527,No,Yes,High,High,4
+1528,No,Yes,High,High,4
+1529,No,Yes,High,High,4
+1530,No,Yes,High,High,4
+1531,No,Yes,High,High,4
+1532,No,Yes,High,High,4
+1533,No,Yes,High,High,4
+1534,No,Yes,High,High,4
+1535,No,Yes,High,High,4
+1536,No,Yes,High,High,4
+1537,No,Yes,High,High,4
+1538,No,Yes,High,High,4
+1539,No,Yes,High,High,4
+1540,No,Yes,High,High,4
+1541,No,Yes,High,High,4
+1542,No,Yes,High,High,4
+1543,No,Yes,High,High,4
+1544,No,Yes,High,High,4
+1545,No,Yes,High,High,4
+1546,No,Yes,High,High,4
+1547,No,Yes,High,High,4
+1548,No,Yes,High,High,4
+1549,No,Yes,High,High,4
+1550,No,Yes,High,High,4
+1551,No,Yes,High,High,4
+1552,No,Yes,High,High,4
+1553,No,Yes,High,High,4
+1554,No,Yes,High,High,4
+1555,No,Yes,High,High,4
+1556,No,Yes,High,High,4
+1557,No,Yes,High,High,4
+1558,No,Yes,High,High,4
+1559,No,Yes,High,High,4
+1560,No,Yes,High,High,4
+1561,No,Yes,High,High,4
+1562,No,Yes,High,High,4
+1563,No,Yes,High,High,4
+1564,No,Yes,High,High,4
+1565,No,Yes,High,High,4
+1566,No,Yes,High,High,4
+1567,No,Yes,High,High,4
+1568,No,Yes,High,High,4
+1569,No,Yes,High,High,4
+1570,No,Yes,High,High,4
+1571,No,Yes,High,High,4
+1572,No,Yes,High,High,4
+1573,No,Yes,High,High,4
+1574,No,Yes,High,High,4
+1575,No,Yes,High,High,4
+1576,No,Yes,High,High,4
+1577,No,Yes,High,High,4
+1578,No,Yes,High,High,4
+1579,No,Yes,High,High,4
+1580,No,Yes,High,High,4
+1581,No,Yes,High,High,4
+1582,No,Yes,High,High,4
+1583,No,Yes,High,High,4
+1584,No,Yes,High,High,4
+1585,No,Yes,High,High,4
+1586,No,Yes,High,High,4
+1587,No,Yes,High,High,4
+1588,No,Yes,High,High,4
+1589,No,Yes,High,High,4
+1590,No,Yes,High,High,4
+1591,No,Yes,High,High,4
+1592,No,Yes,High,High,4
+1593,No,Yes,High,High,4
+1594,No,Yes,High,High,4
+1595,No,Yes,High,High,4
+1596,No,Yes,High,High,4
+1597,No,Yes,High,High,4
+1598,No,Yes,High,High,4
+1599,No,Yes,High,High,4
+1600,No,Yes,High,High,4
+1601,No,Yes,High,High,4
+1602,No,Yes,High,High,4
+1603,No,Yes,High,High,4
+1604,No,Yes,High,High,4
+1605,No,Yes,High,High,4
+1606,No,Yes,High,High,4
+1607,May Be,No,Low,Low,0
+1608,May Be,No,Low,Low,0
+1609,May Be,No,Low,Low,0
+1610,May Be,No,Low,Low,0
+1611,May Be,No,Low,Low,0
+1612,May Be,No,Low,Low,0
+1613,May Be,No,Low,Low,0
+1614,May Be,No,Low,Low,0
+1615,May Be,No,Low,Low,0
+1616,May Be,No,Low,Low,0
+1617,May Be,No,Low,Low,0
+1618,May Be,No,Low,Low,0
+1619,May Be,No,Low,Low,0
+1620,May Be,No,Low,Low,0
+1621,May Be,No,Low,Low,0
+1622,May Be,No,Low,Low,0
+1623,May Be,No,Low,Low,0
+1624,May Be,No,Low,Low,0
+1625,May Be,No,Low,Low,0
+1626,May Be,No,Low,Low,0
+1627,May Be,No,Low,Low,0
+1628,May Be,No,Low,Low,0
+1629,May Be,No,Low,Low,0
+1630,May Be,No,Low,Low,0
+1631,May Be,No,Low,Low,0
+1632,May Be,No,Low,Low,0
+1633,May Be,No,Low,Low,0
+1634,May Be,No,Low,Low,0
+1635,May Be,No,Low,Low,0
+1636,May Be,No,Low,Low,0
+1637,May Be,No,Low,Low,0
+1638,May Be,No,Low,Low,0
+1639,May Be,No,Low,Low,0
+1640,May Be,No,Low,Low,0
+1641,May Be,No,Low,Low,0
+1642,May Be,No,Low,Low,0
+1643,May Be,No,Low,Low,0
+1644,May Be,No,Low,Low,0
+1645,May Be,No,Low,Low,0
+1646,May Be,No,Low,Low,0
+1647,May Be,No,Low,Low,0
+1648,May Be,No,Low,Low,0
+1649,May Be,No,Low,Low,0
+1650,May Be,No,Low,Low,0
+1651,May Be,No,Low,Low,0
+1652,May Be,No,Low,Low,0
+1653,May Be,No,Low,Low,0
+1654,May Be,No,Low,Low,0
+1655,May Be,No,Low,Low,0
+1656,May Be,No,Low,Low,0
+1657,May Be,No,Low,Low,0
+1658,May Be,No,Low,Low,0
+1659,May Be,No,Low,Low,0
+1660,May Be,No,Low,Low,0
+1661,May Be,No,Low,Low,0
+1662,May Be,No,Low,Low,0
+1663,May Be,No,Low,Low,0
+1664,May Be,No,Low,Low,0
+1665,May Be,No,Low,Low,0
+1666,May Be,No,Low,Low,0
+1667,May Be,No,Low,Low,0
+1668,May Be,No,Low,Low,0
+1669,May Be,No,Low,Low,0
+1670,May Be,No,Low,Low,0
+1671,May Be,No,Low,Low,0
+1672,May Be,No,Low,Low,0
+1673,May Be,No,Low,Low,0
+1674,May Be,No,Low,Low,0
+1675,May Be,No,Low,Low,0
+1676,May Be,No,Low,Low,0
+1677,May Be,No,Low,Low,0
+1678,May Be,No,Low,Low,0
+1679,May Be,No,Low,Low,0
+1680,May Be,No,Low,Low,0
+1681,May Be,No,Low,Low,0
+1682,May Be,No,Low,Low,0
+1683,May Be,No,Low,Low,0
+1684,May Be,No,Low,Low,0
+1685,May Be,No,Low,Low,0
+1686,May Be,No,Low,Low,0
+1687,May Be,No,Low,Low,0
+1688,May Be,No,Low,Low,0
+1689,May Be,No,Low,Low,0
+1690,May Be,No,Low,Low,0
+1691,May Be,No,Low,Low,0
+1692,May Be,No,Low,Low,0
+1693,May Be,No,Low,Low,0
+1694,May Be,No,Low,Low,0
+1695,May Be,No,Low,Low,0
+1696,May Be,No,Low,Low,0
+1697,May Be,No,Low,Low,0
+1698,May Be,No,Low,Low,0
+1699,May Be,No,Low,Low,0
+1700,May Be,No,Low,Low,0
+1701,May Be,No,Low,Low,0
+1702,May Be,No,Low,Low,0
+1703,May Be,No,Low,Low,0
+1704,May Be,No,Low,Low,0
+1705,May Be,No,Low,Low,0
+1706,May Be,No,Low,Low,0
+1707,May Be,No,Low,Low,0
+1708,May Be,No,Low,Low,0
+1709,May Be,No,Low,Low,0
+1710,May Be,No,Low,Low,0
+1711,May Be,No,Low,Low,0
+1712,May Be,No,Low,Low,0
+1713,May Be,No,Low,Low,0
+1714,May Be,No,Low,Low,0
+1715,May Be,No,Low,Low,0
+1716,May Be,No,Low,Low,0
+1717,May Be,No,Low,Low,0
+1718,May Be,No,Low,Moderate,0
+1719,May Be,No,Low,Moderate,0
+1720,May Be,No,Low,Moderate,0
+1721,May Be,No,Low,Moderate,0
+1722,May Be,No,Low,Moderate,0
+1723,May Be,No,Low,Moderate,0
+1724,May Be,No,Low,Moderate,0
+1725,May Be,No,Low,Moderate,0
+1726,May Be,No,Low,Moderate,0
+1727,May Be,No,Low,Moderate,0
+1728,May Be,No,Low,Moderate,0
+1729,May Be,No,Low,Moderate,0
+1730,May Be,No,Low,Moderate,0
+1731,May Be,No,Low,Moderate,0
+1732,May Be,No,Low,Moderate,0
+1733,May Be,No,Low,Moderate,0
+1734,May Be,No,Low,Moderate,0
+1735,May Be,No,Low,Moderate,0
+1736,May Be,No,Low,Moderate,0
+1737,May Be,No,Low,Moderate,0
+1738,May Be,No,Low,Moderate,0
+1739,May Be,No,Low,Moderate,0
+1740,May Be,No,Low,Moderate,0
+1741,May Be,No,Low,Moderate,0
+1742,May Be,No,Low,Moderate,0
+1743,May Be,No,Low,Moderate,0
+1744,May Be,No,Low,Moderate,0
+1745,May Be,No,Low,Moderate,0
+1746,May Be,No,Low,Moderate,0
+1747,May Be,No,Low,Moderate,0
+1748,May Be,No,Low,Moderate,0
+1749,May Be,No,Low,Moderate,0
+1750,May Be,No,Low,Moderate,0
+1751,May Be,No,Low,Moderate,0
+1752,May Be,No,Low,Moderate,0
+1753,May Be,No,Low,Moderate,0
+1754,May Be,No,Low,Moderate,0
+1755,May Be,No,Low,Moderate,0
+1756,May Be,No,Low,Moderate,0
+1757,May Be,No,Low,Moderate,0
+1758,May Be,No,Low,Moderate,0
+1759,May Be,No,Low,Moderate,0
+1760,May Be,No,Low,Moderate,0
+1761,May Be,No,Low,Moderate,0
+1762,May Be,No,Low,Moderate,0
+1763,May Be,No,Low,Moderate,0
+1764,May Be,No,Low,Moderate,0
+1765,May Be,No,Low,Moderate,0
+1766,May Be,No,Low,Moderate,0
+1767,May Be,No,Low,Moderate,0
+1768,May Be,No,Low,Moderate,0
+1769,May Be,No,Low,Moderate,0
+1770,May Be,No,Low,Moderate,0
+1771,May Be,No,Low,Moderate,0
+1772,May Be,No,Low,Moderate,0
+1773,May Be,No,Low,Moderate,0
+1774,May Be,No,Low,Moderate,0
+1775,May Be,No,Low,Moderate,0
+1776,May Be,No,Low,Moderate,0
+1777,May Be,No,Low,Moderate,0
+1778,May Be,No,Low,Moderate,0
+1779,May Be,No,Low,Moderate,0
+1780,May Be,No,Low,Moderate,0
+1781,May Be,No,Low,Moderate,0
+1782,May Be,No,Low,Moderate,0
+1783,May Be,No,Low,Moderate,0
+1784,May Be,No,Low,Moderate,0
+1785,May Be,No,Low,Moderate,0
+1786,May Be,No,Low,Moderate,0
+1787,May Be,No,Low,Moderate,0
+1788,May Be,No,Low,Moderate,0
+1789,May Be,No,Low,Moderate,0
+1790,May Be,No,Low,Moderate,0
+1791,May Be,No,Low,Moderate,0
+1792,May Be,No,Low,Moderate,0
+1793,May Be,No,Low,Moderate,0
+1794,May Be,No,Low,Moderate,0
+1795,May Be,No,Low,Moderate,0
+1796,May Be,No,Low,Moderate,0
+1797,May Be,No,Low,Moderate,0
+1798,May Be,No,Low,Moderate,0
+1799,May Be,No,Low,Moderate,0
+1800,May Be,No,Low,Moderate,0
+1801,May Be,No,Low,Moderate,0
+1802,May Be,No,Low,Moderate,0
+1803,May Be,No,Low,Moderate,0
+1804,May Be,No,Low,Moderate,0
+1805,May Be,No,Low,Moderate,0
+1806,May Be,No,Low,Moderate,0
+1807,May Be,No,Low,Moderate,0
+1808,May Be,No,Low,Moderate,0
+1809,May Be,No,Low,Moderate,0
+1810,May Be,No,Low,Moderate,0
+1811,May Be,No,Low,Moderate,0
+1812,May Be,No,Low,Moderate,0
+1813,May Be,No,Low,Moderate,0
+1814,May Be,No,Low,Moderate,0
+1815,May Be,No,Low,Moderate,0
+1816,May Be,No,Low,Moderate,0
+1817,May Be,No,Low,Moderate,0
+1818,May Be,No,Low,Moderate,0
+1819,May Be,No,Low,Moderate,0
+1820,May Be,No,Low,Moderate,0
+1821,May Be,No,Low,Moderate,0
+1822,May Be,No,Low,Moderate,0
+1823,May Be,No,Low,Moderate,0
+1824,May Be,No,Low,Moderate,0
+1825,May Be,No,Low,Moderate,0
+1826,May Be,No,Low,Moderate,0
+1827,May Be,No,Low,Moderate,0
+1828,May Be,No,Low,Moderate,0
+1829,May Be,No,Low,High,2
+1830,May Be,No,Low,High,2
+1831,May Be,No,Low,High,2
+1832,May Be,No,Low,High,2
+1833,May Be,No,Low,High,2
+1834,May Be,No,Low,High,2
+1835,May Be,No,Low,High,2
+1836,May Be,No,Low,High,2
+1837,May Be,No,Low,High,2
+1838,May Be,No,Low,High,2
+1839,May Be,No,Low,High,2
+1840,May Be,No,Low,High,2
+1841,May Be,No,Low,High,2
+1842,May Be,No,Low,High,2
+1843,May Be,No,Low,High,2
+1844,May Be,No,Low,High,2
+1845,May Be,No,Low,High,2
+1846,May Be,No,Low,High,2
+1847,May Be,No,Low,High,2
+1848,May Be,No,Low,High,2
+1849,May Be,No,Low,High,2
+1850,May Be,No,Low,High,2
+1851,May Be,No,Low,High,2
+1852,May Be,No,Low,High,2
+1853,May Be,No,Low,High,2
+1854,May Be,No,Low,High,2
+1855,May Be,No,Low,High,2
+1856,May Be,No,Low,High,2
+1857,May Be,No,Low,High,2
+1858,May Be,No,Low,High,2
+1859,May Be,No,Low,High,2
+1860,May Be,No,Low,High,2
+1861,May Be,No,Low,High,2
+1862,May Be,No,Low,High,2
+1863,May Be,No,Low,High,2
+1864,May Be,No,Low,High,2
+1865,May Be,No,Low,High,2
+1866,May Be,No,Low,High,2
+1867,May Be,No,Low,High,2
+1868,May Be,No,Low,High,2
+1869,May Be,No,Low,High,2
+1870,May Be,No,Low,High,2
+1871,May Be,No,Low,High,2
+1872,May Be,No,Moderate,Low,0
+1873,May Be,No,Moderate,Low,0
+1874,May Be,No,Moderate,Low,0
+1875,May Be,No,Moderate,Low,0
+1876,May Be,No,Moderate,Low,0
+1877,May Be,No,Moderate,Low,0
+1878,May Be,No,Moderate,Low,0
+1879,May Be,No,Moderate,Low,0
+1880,May Be,No,Moderate,Low,0
+1881,May Be,No,Moderate,Low,0
+1882,May Be,No,Moderate,Low,0
+1883,May Be,No,Moderate,Low,0
+1884,May Be,No,Moderate,Low,0
+1885,May Be,No,Moderate,Low,0
+1886,May Be,No,Moderate,Low,0
+1887,May Be,No,Moderate,Low,0
+1888,May Be,No,Moderate,Low,0
+1889,May Be,No,Moderate,Low,0
+1890,May Be,No,Moderate,Low,0
+1891,May Be,No,Moderate,Low,0
+1892,May Be,No,Moderate,Low,0
+1893,May Be,No,Moderate,Low,0
+1894,May Be,No,Moderate,Low,0
+1895,May Be,No,Moderate,Low,0
+1896,May Be,No,Moderate,Low,0
+1897,May Be,No,Moderate,Low,0
+1898,May Be,No,Moderate,Low,0
+1899,May Be,No,Moderate,Low,0
+1900,May Be,No,Moderate,Low,0
+1901,May Be,No,Moderate,Low,0
+1902,May Be,No,Moderate,Low,0
+1903,May Be,No,Moderate,Low,0
+1904,May Be,No,Moderate,Low,0
+1905,May Be,No,Moderate,Low,0
+1906,May Be,No,Moderate,Low,0
+1907,May Be,No,Moderate,Low,0
+1908,May Be,No,Moderate,Low,0
+1909,May Be,No,Moderate,Low,0
+1910,May Be,No,Moderate,Low,0
+1911,May Be,No,Moderate,Low,0
+1912,May Be,No,Moderate,Low,0
+1913,May Be,No,Moderate,Low,0
+1914,May Be,No,Moderate,Low,0
+1915,May Be,No,Moderate,Low,0
+1916,May Be,No,Moderate,Low,0
+1917,May Be,No,Moderate,Low,0
+1918,May Be,No,Moderate,Low,0
+1919,May Be,No,Moderate,Low,0
+1920,May Be,No,Moderate,Low,0
+1921,May Be,No,Moderate,Low,0
+1922,May Be,No,Moderate,Low,0
+1923,May Be,No,Moderate,Low,0
+1924,May Be,No,Moderate,Low,0
+1925,May Be,No,Moderate,Low,0
+1926,May Be,No,Moderate,Low,0
+1927,May Be,No,Moderate,Low,0
+1928,May Be,No,Moderate,Low,0
+1929,May Be,No,Moderate,Low,0
+1930,May Be,No,Moderate,Low,0
+1931,May Be,No,Moderate,Low,0
+1932,May Be,No,Moderate,Low,0
+1933,May Be,No,Moderate,Low,0
+1934,May Be,No,Moderate,Low,0
+1935,May Be,No,Moderate,Low,0
+1936,May Be,No,Moderate,Low,0
+1937,May Be,No,Moderate,Low,0
+1938,May Be,No,Moderate,Low,0
+1939,May Be,No,Moderate,Low,0
+1940,May Be,No,Moderate,Low,0
+1941,May Be,No,Moderate,Low,0
+1942,May Be,No,Moderate,Low,0
+1943,May Be,No,Moderate,Low,0
+1944,May Be,No,Moderate,Low,0
+1945,May Be,No,Moderate,Low,0
+1946,May Be,No,Moderate,Low,0
+1947,May Be,No,Moderate,Low,0
+1948,May Be,No,Moderate,Low,0
+1949,May Be,No,Moderate,Low,0
+1950,May Be,No,Moderate,Low,0
+1951,May Be,No,Moderate,Low,0
+1952,May Be,No,Moderate,Low,0
+1953,May Be,No,Moderate,Low,0
+1954,May Be,No,Moderate,Low,0
+1955,May Be,No,Moderate,Low,0
+1956,May Be,No,Moderate,Low,0
+1957,May Be,No,Moderate,Low,0
+1958,May Be,No,Moderate,Low,0
+1959,May Be,No,Moderate,Low,0
+1960,May Be,No,Moderate,Low,0
+1961,May Be,No,Moderate,Low,0
+1962,May Be,No,Moderate,Low,0
+1963,May Be,No,Moderate,Low,0
+1964,May Be,No,Moderate,Low,0
+1965,May Be,No,Moderate,Low,0
+1966,May Be,No,Moderate,Low,0
+1967,May Be,No,Moderate,Low,0
+1968,May Be,No,Moderate,Low,0
+1969,May Be,No,Moderate,Low,0
+1970,May Be,No,Moderate,Low,0
+1971,May Be,No,Moderate,Low,0
+1972,May Be,No,Moderate,Low,0
+1973,May Be,No,Moderate,Low,0
+1974,May Be,No,Moderate,Low,0
+1975,May Be,No,Moderate,Low,0
+1976,May Be,No,Moderate,Low,0
+1977,May Be,No,Moderate,Low,0
+1978,May Be,No,Moderate,Low,0
+1979,May Be,No,Moderate,Low,0
+1980,May Be,No,Moderate,Low,0
+1981,May Be,No,Moderate,Low,0
+1982,May Be,No,Moderate,Low,0
+1983,May Be,No,Moderate,Moderate,1
+1984,May Be,No,Moderate,Moderate,1
+1985,May Be,No,Moderate,Moderate,1
+1986,May Be,No,Moderate,Moderate,1
+1987,May Be,No,Moderate,Moderate,1
+1988,May Be,No,Moderate,Moderate,1
+1989,May Be,No,Moderate,Moderate,1
+1990,May Be,No,Moderate,Moderate,1
+1991,May Be,No,Moderate,Moderate,1
+1992,May Be,No,Moderate,Moderate,1
+1993,May Be,No,Moderate,Moderate,1
+1994,May Be,No,Moderate,Moderate,1
+1995,May Be,No,Moderate,Moderate,1
+1996,May Be,No,Moderate,Moderate,1
+1997,May Be,No,Moderate,Moderate,1
+1998,May Be,No,Moderate,Moderate,1
+1999,May Be,No,Moderate,Moderate,1
+2000,May Be,No,Moderate,Moderate,1
+2001,May Be,No,Moderate,Moderate,1
+2002,May Be,No,Moderate,Moderate,1
+2003,May Be,No,Moderate,Moderate,1
+2004,May Be,No,Moderate,Moderate,1
+2005,May Be,No,Moderate,Moderate,1
+2006,May Be,No,Moderate,Moderate,1
+2007,May Be,No,Moderate,Moderate,1
+2008,May Be,No,Moderate,Moderate,1
+2009,May Be,No,Moderate,Moderate,1
+2010,May Be,No,Moderate,Moderate,1
+2011,May Be,No,Moderate,Moderate,1
+2012,May Be,No,Moderate,Moderate,1
+2013,May Be,No,Moderate,Moderate,1
+2014,May Be,No,Moderate,Moderate,1
+2015,May Be,No,Moderate,Moderate,1
+2016,May Be,No,Moderate,Moderate,1
+2017,May Be,No,Moderate,Moderate,1
+2018,May Be,No,Moderate,Moderate,1
+2019,May Be,No,Moderate,Moderate,1
+2020,May Be,No,Moderate,Moderate,1
+2021,May Be,No,Moderate,Moderate,1
+2022,May Be,No,Moderate,Moderate,1
+2023,May Be,No,Moderate,Moderate,1
+2024,May Be,No,Moderate,Moderate,1
+2025,May Be,No,Moderate,Moderate,1
+2026,May Be,No,Moderate,Moderate,1
+2027,May Be,No,Moderate,Moderate,1
+2028,May Be,No,Moderate,Moderate,1
+2029,May Be,No,Moderate,Moderate,1
+2030,May Be,No,Moderate,Moderate,1
+2031,May Be,No,Moderate,Moderate,1
+2032,May Be,No,Moderate,Moderate,1
+2033,May Be,No,Moderate,High,3
+2034,May Be,No,Moderate,High,3
+2035,May Be,No,Moderate,High,3
+2036,May Be,No,Moderate,High,3
+2037,May Be,No,Moderate,High,3
+2038,May Be,No,Moderate,High,3
+2039,May Be,No,Moderate,High,3
+2040,May Be,No,Moderate,High,3
+2041,May Be,No,Moderate,High,3
+2042,May Be,No,Moderate,High,3
+2043,May Be,No,Moderate,High,3
+2044,May Be,No,Moderate,High,3
+2045,May Be,No,Moderate,High,3
+2046,May Be,No,Moderate,High,3
+2047,May Be,No,Moderate,High,3
+2048,May Be,No,Moderate,High,3
+2049,May Be,No,Moderate,High,3
+2050,May Be,No,Moderate,High,3
+2051,May Be,No,Moderate,High,3
+2052,May Be,No,Moderate,High,3
+2053,May Be,No,Moderate,High,3
+2054,May Be,No,Moderate,High,3
+2055,May Be,No,Moderate,High,3
+2056,May Be,No,Moderate,High,3
+2057,May Be,No,Moderate,High,3
+2058,May Be,No,Moderate,High,3
+2059,May Be,No,Moderate,High,3
+2060,May Be,No,Moderate,High,3
+2061,May Be,No,Moderate,High,3
+2062,May Be,No,Moderate,High,3
+2063,May Be,No,Moderate,High,3
+2064,May Be,No,Moderate,High,3
+2065,May Be,No,Moderate,High,3
+2066,May Be,No,Moderate,High,3
+2067,May Be,No,Moderate,High,3
+2068,May Be,No,Moderate,High,3
+2069,May Be,No,Moderate,High,3
+2070,May Be,No,Moderate,High,3
+2071,May Be,No,Moderate,High,3
+2072,May Be,No,Moderate,High,3
+2073,May Be,No,Moderate,High,3
+2074,May Be,No,Moderate,High,3
+2075,May Be,No,Moderate,High,3
+2076,May Be,No,Moderate,High,3
+2077,May Be,No,Moderate,High,3
+2078,May Be,No,Moderate,High,3
+2079,May Be,No,Moderate,High,3
+2080,May Be,No,Moderate,High,3
+2081,May Be,No,Moderate,High,3
+2082,May Be,No,Moderate,High,3
+2083,May Be,No,Moderate,High,3
+2084,May Be,No,Moderate,High,3
+2085,May Be,No,Moderate,High,3
+2086,May Be,No,Moderate,High,3
+2087,May Be,No,Moderate,High,3
+2088,May Be,No,Moderate,High,3
+2089,May Be,No,Moderate,High,3
+2090,May Be,No,Moderate,High,3
+2091,May Be,No,Moderate,High,3
+2092,May Be,No,High,Low,1
+2093,May Be,No,High,Low,1
+2094,May Be,No,High,Low,1
+2095,May Be,No,High,Low,1
+2096,May Be,No,High,Low,1
+2097,May Be,No,High,Low,1
+2098,May Be,No,High,Low,1
+2099,May Be,No,High,Low,1
+2100,May Be,No,High,Low,1
+2101,May Be,No,High,Low,1
+2102,May Be,No,High,Low,1
+2103,May Be,No,High,Low,1
+2104,May Be,No,High,Low,1
+2105,May Be,No,High,Low,1
+2106,May Be,No,High,Low,1
+2107,May Be,No,High,Low,1
+2108,May Be,No,High,Low,1
+2109,May Be,No,High,Low,1
+2110,May Be,No,High,Low,1
+2111,May Be,No,High,Low,1
+2112,May Be,No,High,Low,1
+2113,May Be,No,High,Low,1
+2114,May Be,No,High,Low,1
+2115,May Be,No,High,Low,1
+2116,May Be,No,High,Low,1
+2117,May Be,No,High,Low,1
+2118,May Be,No,High,Low,1
+2119,May Be,No,High,Low,1
+2120,May Be,No,High,Low,1
+2121,May Be,No,High,Low,1
+2122,May Be,No,High,Low,1
+2123,May Be,No,High,Low,1
+2124,May Be,No,High,Low,1
+2125,May Be,No,High,Low,1
+2126,May Be,No,High,Low,1
+2127,May Be,No,High,Low,1
+2128,May Be,No,High,Low,1
+2129,May Be,No,High,Low,1
+2130,May Be,No,High,Low,1
+2131,May Be,No,High,Low,1
+2132,May Be,No,High,Low,1
+2133,May Be,No,High,Low,1
+2134,May Be,No,High,Low,1
+2135,May Be,No,High,Low,1
+2136,May Be,No,High,Low,1
+2137,May Be,No,High,Low,1
+2138,May Be,No,High,Low,1
+2139,May Be,No,High,Low,1
+2140,May Be,No,High,Low,1
+2141,May Be,No,High,Low,1
+2142,May Be,No,High,Moderate,2
+2143,May Be,No,High,Moderate,2
+2144,May Be,No,High,Moderate,2
+2145,May Be,No,High,Moderate,2
+2146,May Be,No,High,Moderate,2
+2147,May Be,No,High,Moderate,2
+2148,May Be,No,High,Moderate,2
+2149,May Be,No,High,Moderate,2
+2150,May Be,No,High,Moderate,2
+2151,May Be,No,High,Moderate,2
+2152,May Be,No,High,Moderate,2
+2153,May Be,No,High,Moderate,2
+2154,May Be,No,High,Moderate,2
+2155,May Be,No,High,Moderate,2
+2156,May Be,No,High,Moderate,2
+2157,May Be,No,High,Moderate,2
+2158,May Be,No,High,Moderate,2
+2159,May Be,No,High,Moderate,2
+2160,May Be,No,High,Moderate,2
+2161,May Be,No,High,Moderate,2
+2162,May Be,No,High,Moderate,2
+2163,May Be,No,High,Moderate,2
+2164,May Be,No,High,Moderate,2
+2165,May Be,No,High,Moderate,2
+2166,May Be,No,High,Moderate,2
+2167,May Be,No,High,Moderate,2
+2168,May Be,No,High,Moderate,2
+2169,May Be,No,High,Moderate,2
+2170,May Be,No,High,Moderate,2
+2171,May Be,No,High,Moderate,2
+2172,May Be,No,High,Moderate,2
+2173,May Be,No,High,Moderate,2
+2174,May Be,No,High,Moderate,2
+2175,May Be,No,High,Moderate,2
+2176,May Be,No,High,Moderate,2
+2177,May Be,No,High,Moderate,2
+2178,May Be,No,High,Moderate,2
+2179,May Be,No,High,Moderate,2
+2180,May Be,No,High,Moderate,2
+2181,May Be,No,High,Moderate,2
+2182,May Be,No,High,Moderate,2
+2183,May Be,No,High,Moderate,2
+2184,May Be,No,High,Moderate,2
+2185,May Be,No,High,High,4
+2186,May Be,No,High,High,4
+2187,May Be,No,High,High,4
+2188,May Be,No,High,High,4
+2189,May Be,No,High,High,4
+2190,May Be,No,High,High,4
+2191,May Be,No,High,High,4
+2192,May Be,No,High,High,4
+2193,May Be,No,High,High,4
+2194,May Be,No,High,High,4
+2195,May Be,No,High,High,4
+2196,May Be,No,High,High,4
+2197,May Be,No,High,High,4
+2198,May Be,No,High,High,4
+2199,May Be,No,High,High,4
+2200,May Be,No,High,High,4
+2201,May Be,No,High,High,4
+2202,May Be,No,High,High,4
+2203,May Be,No,High,High,4
+2204,May Be,No,High,High,4
+2205,May Be,No,High,High,4
+2206,May Be,No,High,High,4
+2207,May Be,No,High,High,4
+2208,May Be,No,High,High,4
+2209,May Be,No,High,High,4
+2210,May Be,No,High,High,4
+2211,May Be,No,High,High,4
+2212,May Be,No,High,High,4
+2213,May Be,No,High,High,4
+2214,May Be,No,High,High,4
+2215,May Be,No,High,High,4
+2216,May Be,No,High,High,4
+2217,May Be,No,High,High,4
+2218,May Be,No,High,High,4
+2219,May Be,No,High,High,4
+2220,May Be,No,High,High,4
+2221,May Be,No,High,High,4
+2222,May Be,No,High,High,4
+2223,May Be,No,High,High,4
+2224,May Be,No,High,High,4
+2225,May Be,No,High,High,4
+2226,May Be,No,High,High,4
+2227,May Be,No,High,High,4
+2228,May Be,No,High,High,4
+2229,May Be,No,High,High,4
+2230,May Be,No,High,High,4
+2231,May Be,No,High,High,4
+2232,May Be,No,High,High,4
+2233,May Be,No,High,High,4
+2234,May Be,No,High,High,4
+2235,May Be,No,High,High,4
+2236,May Be,No,High,High,4
+2237,May Be,No,High,High,4
+2238,May Be,No,High,High,4
+2239,May Be,No,High,High,4
+2240,May Be,No,High,High,4
+2241,May Be,No,High,High,4
+2242,May Be,No,High,High,4
+2243,May Be,No,High,High,4
+2244,May Be,No,High,High,4
+2245,May Be,No,High,High,4
+2246,May Be,No,High,High,4
+2247,May Be,No,High,High,4
+2248,May Be,No,High,High,4
+2249,May Be,No,High,High,4
+2250,May Be,No,High,High,4
+2251,May Be,No,High,High,4
+2252,May Be,No,High,High,4
+2253,May Be,No,High,High,4
+2254,May Be,No,High,High,4
+2255,May Be,No,High,High,4
+2256,May Be,No,High,High,4
+2257,May Be,No,High,High,4
+2258,May Be,No,High,High,4
+2259,May Be,No,High,High,4
+2260,May Be,No,High,High,4
+2261,May Be,No,High,High,4
+2262,May Be,No,High,High,4
+2263,May Be,No,High,High,4
+2264,May Be,No,High,High,4
+2265,May Be,No,High,High,4
+2266,May Be,No,High,High,4
+2267,May Be,No,High,High,4
+2268,May Be,May Be,Low,Low,0
+2269,May Be,May Be,Low,Low,0
+2270,May Be,May Be,Low,Low,0
+2271,May Be,May Be,Low,Low,0
+2272,May Be,May Be,Low,Low,0
+2273,May Be,May Be,Low,Low,0
+2274,May Be,May Be,Low,Low,0
+2275,May Be,May Be,Low,Low,0
+2276,May Be,May Be,Low,Low,0
+2277,May Be,May Be,Low,Low,0
+2278,May Be,May Be,Low,Low,0
+2279,May Be,May Be,Low,Low,0
+2280,May Be,May Be,Low,Low,0
+2281,May Be,May Be,Low,Low,0
+2282,May Be,May Be,Low,Low,0
+2283,May Be,May Be,Low,Low,0
+2284,May Be,May Be,Low,Low,0
+2285,May Be,May Be,Low,Low,0
+2286,May Be,May Be,Low,Low,0
+2287,May Be,May Be,Low,Low,0
+2288,May Be,May Be,Low,Low,0
+2289,May Be,May Be,Low,Low,0
+2290,May Be,May Be,Low,Low,0
+2291,May Be,May Be,Low,Low,0
+2292,May Be,May Be,Low,Low,0
+2293,May Be,May Be,Low,Low,0
+2294,May Be,May Be,Low,Low,0
+2295,May Be,May Be,Low,Low,0
+2296,May Be,May Be,Low,Low,0
+2297,May Be,May Be,Low,Low,0
+2298,May Be,May Be,Low,Low,0
+2299,May Be,May Be,Low,Low,0
+2300,May Be,May Be,Low,Low,0
+2301,May Be,May Be,Low,Low,0
+2302,May Be,May Be,Low,Low,0
+2303,May Be,May Be,Low,Low,0
+2304,May Be,May Be,Low,Low,0
+2305,May Be,May Be,Low,Low,0
+2306,May Be,May Be,Low,Low,0
+2307,May Be,May Be,Low,Low,0
+2308,May Be,May Be,Low,Low,0
+2309,May Be,May Be,Low,Low,0
+2310,May Be,May Be,Low,Low,0
+2311,May Be,May Be,Low,Low,0
+2312,May Be,May Be,Low,Low,0
+2313,May Be,May Be,Low,Low,0
+2314,May Be,May Be,Low,Low,0
+2315,May Be,May Be,Low,Low,0
+2316,May Be,May Be,Low,Low,0
+2317,May Be,May Be,Low,Low,0
+2318,May Be,May Be,Low,Low,0
+2319,May Be,May Be,Low,Low,0
+2320,May Be,May Be,Low,Low,0
+2321,May Be,May Be,Low,Low,0
+2322,May Be,May Be,Low,Low,0
+2323,May Be,May Be,Low,Low,0
+2324,May Be,May Be,Low,Low,0
+2325,May Be,May Be,Low,Low,0
+2326,May Be,May Be,Low,Low,0
+2327,May Be,May Be,Low,Low,0
+2328,May Be,May Be,Low,Low,0
+2329,May Be,May Be,Low,Low,0
+2330,May Be,May Be,Low,Low,0
+2331,May Be,May Be,Low,Low,0
+2332,May Be,May Be,Low,Low,0
+2333,May Be,May Be,Low,Low,0
+2334,May Be,May Be,Low,Low,0
+2335,May Be,May Be,Low,Low,0
+2336,May Be,May Be,Low,Low,0
+2337,May Be,May Be,Low,Low,0
+2338,May Be,May Be,Low,Low,0
+2339,May Be,May Be,Low,Low,0
+2340,May Be,May Be,Low,Low,0
+2341,May Be,May Be,Low,Low,0
+2342,May Be,May Be,Low,Low,0
+2343,May Be,May Be,Low,Low,0
+2344,May Be,May Be,Low,Low,0
+2345,May Be,May Be,Low,Low,0
+2346,May Be,May Be,Low,Low,0
+2347,May Be,May Be,Low,Low,0
+2348,May Be,May Be,Low,Low,0
+2349,May Be,May Be,Low,Low,0
+2350,May Be,May Be,Low,Low,0
+2351,May Be,May Be,Low,Low,0
+2352,May Be,May Be,Low,Low,0
+2353,May Be,May Be,Low,Low,0
+2354,May Be,May Be,Low,Low,0
+2355,May Be,May Be,Low,Low,0
+2356,May Be,May Be,Low,Low,0
+2357,May Be,May Be,Low,Low,0
+2358,May Be,May Be,Low,Low,0
+2359,May Be,May Be,Low,Low,0
+2360,May Be,May Be,Low,Low,0
+2361,May Be,May Be,Low,Low,0
+2362,May Be,May Be,Low,Low,0
+2363,May Be,May Be,Low,Low,0
+2364,May Be,May Be,Low,Low,0
+2365,May Be,May Be,Low,Low,0
+2366,May Be,May Be,Low,Low,0
+2367,May Be,May Be,Low,Low,0
+2368,May Be,May Be,Low,Low,0
+2369,May Be,May Be,Low,Low,0
+2370,May Be,May Be,Low,Low,0
+2371,May Be,May Be,Low,Low,0
+2372,May Be,May Be,Low,Low,0
+2373,May Be,May Be,Low,Low,0
+2374,May Be,May Be,Low,Low,0
+2375,May Be,May Be,Low,Low,0
+2376,May Be,May Be,Low,Low,0
+2377,May Be,May Be,Low,Low,0
+2378,May Be,May Be,Low,Low,0
+2379,May Be,May Be,Low,Moderate,1
+2380,May Be,May Be,Low,Moderate,1
+2381,May Be,May Be,Low,Moderate,1
+2382,May Be,May Be,Low,Moderate,1
+2383,May Be,May Be,Low,Moderate,1
+2384,May Be,May Be,Low,Moderate,1
+2385,May Be,May Be,Low,Moderate,1
+2386,May Be,May Be,Low,Moderate,1
+2387,May Be,May Be,Low,Moderate,1
+2388,May Be,May Be,Low,Moderate,1
+2389,May Be,May Be,Low,Moderate,1
+2390,May Be,May Be,Low,Moderate,1
+2391,May Be,May Be,Low,Moderate,1
+2392,May Be,May Be,Low,Moderate,1
+2393,May Be,May Be,Low,Moderate,1
+2394,May Be,May Be,Low,Moderate,1
+2395,May Be,May Be,Low,Moderate,1
+2396,May Be,May Be,Low,Moderate,1
+2397,May Be,May Be,Low,Moderate,1
+2398,May Be,May Be,Low,Moderate,1
+2399,May Be,May Be,Low,Moderate,1
+2400,May Be,May Be,Low,Moderate,1
+2401,May Be,May Be,Low,Moderate,1
+2402,May Be,May Be,Low,Moderate,1
+2403,May Be,May Be,Low,Moderate,1
+2404,May Be,May Be,Low,Moderate,1
+2405,May Be,May Be,Low,Moderate,1
+2406,May Be,May Be,Low,Moderate,1
+2407,May Be,May Be,Low,Moderate,1
+2408,May Be,May Be,Low,Moderate,1
+2409,May Be,May Be,Low,Moderate,1
+2410,May Be,May Be,Low,Moderate,1
+2411,May Be,May Be,Low,Moderate,1
+2412,May Be,May Be,Low,Moderate,1
+2413,May Be,May Be,Low,Moderate,1
+2414,May Be,May Be,Low,Moderate,1
+2415,May Be,May Be,Low,Moderate,1
+2416,May Be,May Be,Low,Moderate,1
+2417,May Be,May Be,Low,Moderate,1
+2418,May Be,May Be,Low,Moderate,1
+2419,May Be,May Be,Low,Moderate,1
+2420,May Be,May Be,Low,Moderate,1
+2421,May Be,May Be,Low,Moderate,1
+2422,May Be,May Be,Low,Moderate,1
+2423,May Be,May Be,Low,Moderate,1
+2424,May Be,May Be,Low,Moderate,1
+2425,May Be,May Be,Low,Moderate,1
+2426,May Be,May Be,Low,Moderate,1
+2427,May Be,May Be,Low,Moderate,1
+2428,May Be,May Be,Low,Moderate,1
+2429,May Be,May Be,Low,High,2
+2430,May Be,May Be,Low,High,2
+2431,May Be,May Be,Low,High,2
+2432,May Be,May Be,Low,High,2
+2433,May Be,May Be,Low,High,2
+2434,May Be,May Be,Low,High,2
+2435,May Be,May Be,Low,High,2
+2436,May Be,May Be,Low,High,2
+2437,May Be,May Be,Low,High,2
+2438,May Be,May Be,Low,High,2
+2439,May Be,May Be,Low,High,2
+2440,May Be,May Be,Low,High,2
+2441,May Be,May Be,Low,High,2
+2442,May Be,May Be,Low,High,2
+2443,May Be,May Be,Low,High,2
+2444,May Be,May Be,Low,High,2
+2445,May Be,May Be,Low,High,2
+2446,May Be,May Be,Low,High,2
+2447,May Be,May Be,Low,High,2
+2448,May Be,May Be,Low,High,2
+2449,May Be,May Be,Low,High,2
+2450,May Be,May Be,Low,High,2
+2451,May Be,May Be,Low,High,2
+2452,May Be,May Be,Low,High,2
+2453,May Be,May Be,Low,High,2
+2454,May Be,May Be,Low,High,2
+2455,May Be,May Be,Low,High,2
+2456,May Be,May Be,Low,High,2
+2457,May Be,May Be,Low,High,2
+2458,May Be,May Be,Low,High,2
+2459,May Be,May Be,Low,High,2
+2460,May Be,May Be,Low,High,2
+2461,May Be,May Be,Low,High,2
+2462,May Be,May Be,Low,High,2
+2463,May Be,May Be,Low,High,2
+2464,May Be,May Be,Low,High,2
+2465,May Be,May Be,Low,High,2
+2466,May Be,May Be,Low,High,2
+2467,May Be,May Be,Low,High,2
+2468,May Be,May Be,Low,High,2
+2469,May Be,May Be,Low,High,2
+2470,May Be,May Be,Low,High,2
+2471,May Be,May Be,Low,High,2
+2472,May Be,May Be,Moderate,Low,1
+2473,May Be,May Be,Moderate,Low,1
+2474,May Be,May Be,Moderate,Low,1
+2475,May Be,May Be,Moderate,Low,1
+2476,May Be,May Be,Moderate,Low,1
+2477,May Be,May Be,Moderate,Low,1
+2478,May Be,May Be,Moderate,Low,1
+2479,May Be,May Be,Moderate,Low,1
+2480,May Be,May Be,Moderate,Low,1
+2481,May Be,May Be,Moderate,Low,1
+2482,May Be,May Be,Moderate,Low,1
+2483,May Be,May Be,Moderate,Low,1
+2484,May Be,May Be,Moderate,Low,1
+2485,May Be,May Be,Moderate,Low,1
+2486,May Be,May Be,Moderate,Low,1
+2487,May Be,May Be,Moderate,Low,1
+2488,May Be,May Be,Moderate,Low,1
+2489,May Be,May Be,Moderate,Low,1
+2490,May Be,May Be,Moderate,Low,1
+2491,May Be,May Be,Moderate,Low,1
+2492,May Be,May Be,Moderate,Low,1
+2493,May Be,May Be,Moderate,Low,1
+2494,May Be,May Be,Moderate,Low,1
+2495,May Be,May Be,Moderate,Low,1
+2496,May Be,May Be,Moderate,Low,1
+2497,May Be,May Be,Moderate,Low,1
+2498,May Be,May Be,Moderate,Low,1
+2499,May Be,May Be,Moderate,Low,1
+2500,May Be,May Be,Moderate,Low,1
+2501,May Be,May Be,Moderate,Low,1
+2502,May Be,May Be,Moderate,Low,1
+2503,May Be,May Be,Moderate,Low,1
+2504,May Be,May Be,Moderate,Low,1
+2505,May Be,May Be,Moderate,Low,1
+2506,May Be,May Be,Moderate,Low,1
+2507,May Be,May Be,Moderate,Low,1
+2508,May Be,May Be,Moderate,Low,1
+2509,May Be,May Be,Moderate,Low,1
+2510,May Be,May Be,Moderate,Low,1
+2511,May Be,May Be,Moderate,Low,1
+2512,May Be,May Be,Moderate,Low,1
+2513,May Be,May Be,Moderate,Low,1
+2514,May Be,May Be,Moderate,Low,1
+2515,May Be,May Be,Moderate,Low,1
+2516,May Be,May Be,Moderate,Low,1
+2517,May Be,May Be,Moderate,Low,1
+2518,May Be,May Be,Moderate,Low,1
+2519,May Be,May Be,Moderate,Low,1
+2520,May Be,May Be,Moderate,Low,1
+2521,May Be,May Be,Moderate,Low,1
+2522,May Be,May Be,Moderate,Moderate,2
+2523,May Be,May Be,Moderate,Moderate,2
+2524,May Be,May Be,Moderate,Moderate,2
+2525,May Be,May Be,Moderate,Moderate,2
+2526,May Be,May Be,Moderate,Moderate,2
+2527,May Be,May Be,Moderate,Moderate,2
+2528,May Be,May Be,Moderate,Moderate,2
+2529,May Be,May Be,Moderate,Moderate,2
+2530,May Be,May Be,Moderate,Moderate,2
+2531,May Be,May Be,Moderate,Moderate,2
+2532,May Be,May Be,Moderate,Moderate,2
+2533,May Be,May Be,Moderate,Moderate,2
+2534,May Be,May Be,Moderate,Moderate,2
+2535,May Be,May Be,Moderate,Moderate,2
+2536,May Be,May Be,Moderate,Moderate,2
+2537,May Be,May Be,Moderate,Moderate,2
+2538,May Be,May Be,Moderate,Moderate,2
+2539,May Be,May Be,Moderate,Moderate,2
+2540,May Be,May Be,Moderate,Moderate,2
+2541,May Be,May Be,Moderate,Moderate,2
+2542,May Be,May Be,Moderate,Moderate,2
+2543,May Be,May Be,Moderate,Moderate,2
+2544,May Be,May Be,Moderate,Moderate,2
+2545,May Be,May Be,Moderate,Moderate,2
+2546,May Be,May Be,Moderate,Moderate,2
+2547,May Be,May Be,Moderate,Moderate,2
+2548,May Be,May Be,Moderate,Moderate,2
+2549,May Be,May Be,Moderate,Moderate,2
+2550,May Be,May Be,Moderate,Moderate,2
+2551,May Be,May Be,Moderate,Moderate,2
+2552,May Be,May Be,Moderate,Moderate,2
+2553,May Be,May Be,Moderate,Moderate,2
+2554,May Be,May Be,Moderate,Moderate,2
+2555,May Be,May Be,Moderate,Moderate,2
+2556,May Be,May Be,Moderate,Moderate,2
+2557,May Be,May Be,Moderate,Moderate,2
+2558,May Be,May Be,Moderate,Moderate,2
+2559,May Be,May Be,Moderate,Moderate,2
+2560,May Be,May Be,Moderate,Moderate,2
+2561,May Be,May Be,Moderate,Moderate,2
+2562,May Be,May Be,Moderate,Moderate,2
+2563,May Be,May Be,Moderate,Moderate,2
+2564,May Be,May Be,Moderate,Moderate,2
+2565,May Be,May Be,Moderate,High,3
+2566,May Be,May Be,Moderate,High,3
+2567,May Be,May Be,Moderate,High,3
+2568,May Be,May Be,Moderate,High,3
+2569,May Be,May Be,Moderate,High,3
+2570,May Be,May Be,Moderate,High,3
+2571,May Be,May Be,Moderate,High,3
+2572,May Be,May Be,Moderate,High,3
+2573,May Be,May Be,Moderate,High,3
+2574,May Be,May Be,Moderate,High,3
+2575,May Be,May Be,Moderate,High,3
+2576,May Be,May Be,Moderate,High,3
+2577,May Be,May Be,Moderate,High,3
+2578,May Be,May Be,Moderate,High,3
+2579,May Be,May Be,Moderate,High,3
+2580,May Be,May Be,Moderate,High,3
+2581,May Be,May Be,Moderate,High,3
+2582,May Be,May Be,Moderate,High,3
+2583,May Be,May Be,Moderate,High,3
+2584,May Be,May Be,Moderate,High,3
+2585,May Be,May Be,Moderate,High,3
+2586,May Be,May Be,Moderate,High,3
+2587,May Be,May Be,Moderate,High,3
+2588,May Be,May Be,Moderate,High,3
+2589,May Be,May Be,Moderate,High,3
+2590,May Be,May Be,Moderate,High,3
+2591,May Be,May Be,Moderate,High,3
+2592,May Be,May Be,Moderate,High,3
+2593,May Be,May Be,Moderate,High,3
+2594,May Be,May Be,Moderate,High,3
+2595,May Be,May Be,Moderate,High,3
+2596,May Be,May Be,Moderate,High,3
+2597,May Be,May Be,Moderate,High,3
+2598,May Be,May Be,Moderate,High,3
+2599,May Be,May Be,Moderate,High,3
+2600,May Be,May Be,Moderate,High,3
+2601,May Be,May Be,Moderate,High,3
+2602,May Be,May Be,Moderate,High,3
+2603,May Be,May Be,Moderate,High,3
+2604,May Be,May Be,Moderate,High,3
+2605,May Be,May Be,Moderate,High,3
+2606,May Be,May Be,Moderate,High,3
+2607,May Be,May Be,Moderate,High,3
+2608,May Be,May Be,Moderate,High,3
+2609,May Be,May Be,Moderate,High,3
+2610,May Be,May Be,Moderate,High,3
+2611,May Be,May Be,Moderate,High,3
+2612,May Be,May Be,Moderate,High,3
+2613,May Be,May Be,Moderate,High,3
+2614,May Be,May Be,Moderate,High,3
+2615,May Be,May Be,Moderate,High,3
+2616,May Be,May Be,Moderate,High,3
+2617,May Be,May Be,Moderate,High,3
+2618,May Be,May Be,Moderate,High,3
+2619,May Be,May Be,Moderate,High,3
+2620,May Be,May Be,Moderate,High,3
+2621,May Be,May Be,Moderate,High,3
+2622,May Be,May Be,Moderate,High,3
+2623,May Be,May Be,Moderate,High,3
+2624,May Be,May Be,High,Low,2
+2625,May Be,May Be,High,Low,2
+2626,May Be,May Be,High,Low,2
+2627,May Be,May Be,High,Low,2
+2628,May Be,May Be,High,Low,2
+2629,May Be,May Be,High,Low,2
+2630,May Be,May Be,High,Low,2
+2631,May Be,May Be,High,Low,2
+2632,May Be,May Be,High,Low,2
+2633,May Be,May Be,High,Low,2
+2634,May Be,May Be,High,Low,2
+2635,May Be,May Be,High,Low,2
+2636,May Be,May Be,High,Low,2
+2637,May Be,May Be,High,Low,2
+2638,May Be,May Be,High,Low,2
+2639,May Be,May Be,High,Low,2
+2640,May Be,May Be,High,Low,2
+2641,May Be,May Be,High,Low,2
+2642,May Be,May Be,High,Low,2
+2643,May Be,May Be,High,Low,2
+2644,May Be,May Be,High,Low,2
+2645,May Be,May Be,High,Low,2
+2646,May Be,May Be,High,Low,2
+2647,May Be,May Be,High,Low,2
+2648,May Be,May Be,High,Low,2
+2649,May Be,May Be,High,Low,2
+2650,May Be,May Be,High,Low,2
+2651,May Be,May Be,High,Low,2
+2652,May Be,May Be,High,Low,2
+2653,May Be,May Be,High,Low,2
+2654,May Be,May Be,High,Low,2
+2655,May Be,May Be,High,Low,2
+2656,May Be,May Be,High,Low,2
+2657,May Be,May Be,High,Low,2
+2658,May Be,May Be,High,Low,2
+2659,May Be,May Be,High,Low,2
+2660,May Be,May Be,High,Low,2
+2661,May Be,May Be,High,Low,2
+2662,May Be,May Be,High,Low,2
+2663,May Be,May Be,High,Low,2
+2664,May Be,May Be,High,Low,2
+2665,May Be,May Be,High,Low,2
+2666,May Be,May Be,High,Low,2
+2667,May Be,May Be,High,Moderate,3
+2668,May Be,May Be,High,Moderate,3
+2669,May Be,May Be,High,Moderate,3
+2670,May Be,May Be,High,Moderate,3
+2671,May Be,May Be,High,Moderate,3
+2672,May Be,May Be,High,Moderate,3
+2673,May Be,May Be,High,Moderate,3
+2674,May Be,May Be,High,Moderate,3
+2675,May Be,May Be,High,Moderate,3
+2676,May Be,May Be,High,Moderate,3
+2677,May Be,May Be,High,Moderate,3
+2678,May Be,May Be,High,Moderate,3
+2679,May Be,May Be,High,Moderate,3
+2680,May Be,May Be,High,Moderate,3
+2681,May Be,May Be,High,Moderate,3
+2682,May Be,May Be,High,Moderate,3
+2683,May Be,May Be,High,Moderate,3
+2684,May Be,May Be,High,Moderate,3
+2685,May Be,May Be,High,Moderate,3
+2686,May Be,May Be,High,Moderate,3
+2687,May Be,May Be,High,Moderate,3
+2688,May Be,May Be,High,Moderate,3
+2689,May Be,May Be,High,Moderate,3
+2690,May Be,May Be,High,Moderate,3
+2691,May Be,May Be,High,Moderate,3
+2692,May Be,May Be,High,Moderate,3
+2693,May Be,May Be,High,Moderate,3
+2694,May Be,May Be,High,Moderate,3
+2695,May Be,May Be,High,Moderate,3
+2696,May Be,May Be,High,Moderate,3
+2697,May Be,May Be,High,Moderate,3
+2698,May Be,May Be,High,Moderate,3
+2699,May Be,May Be,High,Moderate,3
+2700,May Be,May Be,High,Moderate,3
+2701,May Be,May Be,High,Moderate,3
+2702,May Be,May Be,High,Moderate,3
+2703,May Be,May Be,High,Moderate,3
+2704,May Be,May Be,High,Moderate,3
+2705,May Be,May Be,High,Moderate,3
+2706,May Be,May Be,High,Moderate,3
+2707,May Be,May Be,High,Moderate,3
+2708,May Be,May Be,High,Moderate,3
+2709,May Be,May Be,High,Moderate,3
+2710,May Be,May Be,High,Moderate,3
+2711,May Be,May Be,High,Moderate,3
+2712,May Be,May Be,High,Moderate,3
+2713,May Be,May Be,High,Moderate,3
+2714,May Be,May Be,High,Moderate,3
+2715,May Be,May Be,High,Moderate,3
+2716,May Be,May Be,High,Moderate,3
+2717,May Be,May Be,High,Moderate,3
+2718,May Be,May Be,High,Moderate,3
+2719,May Be,May Be,High,Moderate,3
+2720,May Be,May Be,High,Moderate,3
+2721,May Be,May Be,High,Moderate,3
+2722,May Be,May Be,High,Moderate,3
+2723,May Be,May Be,High,Moderate,3
+2724,May Be,May Be,High,Moderate,3
+2725,May Be,May Be,High,Moderate,3
+2726,May Be,May Be,High,High,4
+2727,May Be,May Be,High,High,4
+2728,May Be,May Be,High,High,4
+2729,May Be,May Be,High,High,4
+2730,May Be,May Be,High,High,4
+2731,May Be,May Be,High,High,4
+2732,May Be,May Be,High,High,4
+2733,May Be,May Be,High,High,4
+2734,May Be,May Be,High,High,4
+2735,May Be,May Be,High,High,4
+2736,May Be,May Be,High,High,4
+2737,May Be,May Be,High,High,4
+2738,May Be,May Be,High,High,4
+2739,May Be,May Be,High,High,4
+2740,May Be,May Be,High,High,4
+2741,May Be,May Be,High,High,4
+2742,May Be,May Be,High,High,4
+2743,May Be,May Be,High,High,4
+2744,May Be,May Be,High,High,4
+2745,May Be,May Be,High,High,4
+2746,May Be,May Be,High,High,4
+2747,May Be,May Be,High,High,4
+2748,May Be,May Be,High,High,4
+2749,May Be,May Be,High,High,4
+2750,May Be,May Be,High,High,4
+2751,May Be,May Be,High,High,4
+2752,May Be,May Be,High,High,4
+2753,May Be,May Be,High,High,4
+2754,May Be,May Be,High,High,4
+2755,May Be,May Be,High,High,4
+2756,May Be,May Be,High,High,4
+2757,May Be,May Be,High,High,4
+2758,May Be,May Be,High,High,4
+2759,May Be,May Be,High,High,4
+2760,May Be,May Be,High,High,4
+2761,May Be,May Be,High,High,4
+2762,May Be,May Be,High,High,4
+2763,May Be,May Be,High,High,4
+2764,May Be,May Be,High,High,4
+2765,May Be,May Be,High,High,4
+2766,May Be,May Be,High,High,4
+2767,May Be,May Be,High,High,4
+2768,May Be,May Be,High,High,4
+2769,May Be,May Be,High,High,4
+2770,May Be,May Be,High,High,4
+2771,May Be,May Be,High,High,4
+2772,May Be,May Be,High,High,4
+2773,May Be,May Be,High,High,4
+2774,May Be,May Be,High,High,4
+2775,May Be,May Be,High,High,4
+2776,May Be,May Be,High,High,4
+2777,May Be,May Be,High,High,4
+2778,May Be,May Be,High,High,4
+2779,May Be,May Be,High,High,4
+2780,May Be,May Be,High,High,4
+2781,May Be,May Be,High,High,4
+2782,May Be,May Be,High,High,4
+2783,May Be,May Be,High,High,4
+2784,May Be,May Be,High,High,4
+2785,May Be,May Be,High,High,4
+2786,May Be,May Be,High,High,4
+2787,May Be,May Be,High,High,4
+2788,May Be,May Be,High,High,4
+2789,May Be,May Be,High,High,4
+2790,May Be,May Be,High,High,4
+2791,May Be,May Be,High,High,4
+2792,May Be,May Be,High,High,4
+2793,May Be,May Be,High,High,4
+2794,May Be,May Be,High,High,4
+2795,May Be,May Be,High,High,4
+2796,May Be,May Be,High,High,4
+2797,May Be,May Be,High,High,4
+2798,May Be,May Be,High,High,4
+2799,May Be,May Be,High,High,4
+2800,May Be,May Be,High,High,4
+2801,May Be,May Be,High,High,4
+2802,May Be,May Be,High,High,4
+2803,May Be,May Be,High,High,4
+2804,May Be,May Be,High,High,4
+2805,May Be,May Be,High,High,4
+2806,May Be,May Be,High,High,4
+2807,May Be,May Be,High,High,4
+2808,May Be,May Be,High,High,4
+2809,May Be,Yes,Low,Low,2
+2810,May Be,Yes,Low,Low,2
+2811,May Be,Yes,Low,Low,2
+2812,May Be,Yes,Low,Low,2
+2813,May Be,Yes,Low,Low,2
+2814,May Be,Yes,Low,Low,2
+2815,May Be,Yes,Low,Low,2
+2816,May Be,Yes,Low,Low,2
+2817,May Be,Yes,Low,Low,2
+2818,May Be,Yes,Low,Low,2
+2819,May Be,Yes,Low,Low,2
+2820,May Be,Yes,Low,Low,2
+2821,May Be,Yes,Low,Low,2
+2822,May Be,Yes,Low,Low,2
+2823,May Be,Yes,Low,Low,2
+2824,May Be,Yes,Low,Low,2
+2825,May Be,Yes,Low,Low,2
+2826,May Be,Yes,Low,Low,2
+2827,May Be,Yes,Low,Low,2
+2828,May Be,Yes,Low,Low,2
+2829,May Be,Yes,Low,Low,2
+2830,May Be,Yes,Low,Low,2
+2831,May Be,Yes,Low,Low,2
+2832,May Be,Yes,Low,Low,2
+2833,May Be,Yes,Low,Low,2
+2834,May Be,Yes,Low,Low,2
+2835,May Be,Yes,Low,Low,2
+2836,May Be,Yes,Low,Low,2
+2837,May Be,Yes,Low,Low,2
+2838,May Be,Yes,Low,Low,2
+2839,May Be,Yes,Low,Low,2
+2840,May Be,Yes,Low,Low,2
+2841,May Be,Yes,Low,Low,2
+2842,May Be,Yes,Low,Low,2
+2843,May Be,Yes,Low,Low,2
+2844,May Be,Yes,Low,Low,2
+2845,May Be,Yes,Low,Low,2
+2846,May Be,Yes,Low,Low,2
+2847,May Be,Yes,Low,Low,2
+2848,May Be,Yes,Low,Low,2
+2849,May Be,Yes,Low,Low,2
+2850,May Be,Yes,Low,Low,2
+2851,May Be,Yes,Low,Low,2
+2852,May Be,Yes,Low,Moderate,3
+2853,May Be,Yes,Low,Moderate,3
+2854,May Be,Yes,Low,Moderate,3
+2855,May Be,Yes,Low,Moderate,3
+2856,May Be,Yes,Low,Moderate,3
+2857,May Be,Yes,Low,Moderate,3
+2858,May Be,Yes,Low,Moderate,3
+2859,May Be,Yes,Low,Moderate,3
+2860,May Be,Yes,Low,Moderate,3
+2861,May Be,Yes,Low,Moderate,3
+2862,May Be,Yes,Low,Moderate,3
+2863,May Be,Yes,Low,Moderate,3
+2864,May Be,Yes,Low,Moderate,3
+2865,May Be,Yes,Low,Moderate,3
+2866,May Be,Yes,Low,Moderate,3
+2867,May Be,Yes,Low,Moderate,3
+2868,May Be,Yes,Low,Moderate,3
+2869,May Be,Yes,Low,Moderate,3
+2870,May Be,Yes,Low,Moderate,3
+2871,May Be,Yes,Low,Moderate,3
+2872,May Be,Yes,Low,Moderate,3
+2873,May Be,Yes,Low,Moderate,3
+2874,May Be,Yes,Low,Moderate,3
+2875,May Be,Yes,Low,Moderate,3
+2876,May Be,Yes,Low,Moderate,3
+2877,May Be,Yes,Low,Moderate,3
+2878,May Be,Yes,Low,Moderate,3
+2879,May Be,Yes,Low,Moderate,3
+2880,May Be,Yes,Low,Moderate,3
+2881,May Be,Yes,Low,Moderate,3
+2882,May Be,Yes,Low,Moderate,3
+2883,May Be,Yes,Low,Moderate,3
+2884,May Be,Yes,Low,Moderate,3
+2885,May Be,Yes,Low,Moderate,3
+2886,May Be,Yes,Low,Moderate,3
+2887,May Be,Yes,Low,Moderate,3
+2888,May Be,Yes,Low,Moderate,3
+2889,May Be,Yes,Low,Moderate,3
+2890,May Be,Yes,Low,Moderate,3
+2891,May Be,Yes,Low,Moderate,3
+2892,May Be,Yes,Low,Moderate,3
+2893,May Be,Yes,Low,Moderate,3
+2894,May Be,Yes,Low,Moderate,3
+2895,May Be,Yes,Low,Moderate,3
+2896,May Be,Yes,Low,Moderate,3
+2897,May Be,Yes,Low,Moderate,3
+2898,May Be,Yes,Low,Moderate,3
+2899,May Be,Yes,Low,Moderate,3
+2900,May Be,Yes,Low,Moderate,3
+2901,May Be,Yes,Low,Moderate,3
+2902,May Be,Yes,Low,Moderate,3
+2903,May Be,Yes,Low,Moderate,3
+2904,May Be,Yes,Low,Moderate,3
+2905,May Be,Yes,Low,Moderate,3
+2906,May Be,Yes,Low,Moderate,3
+2907,May Be,Yes,Low,Moderate,3
+2908,May Be,Yes,Low,Moderate,3
+2909,May Be,Yes,Low,Moderate,3
+2910,May Be,Yes,Low,Moderate,3
+2911,May Be,Yes,Low,High,4
+2912,May Be,Yes,Low,High,4
+2913,May Be,Yes,Low,High,4
+2914,May Be,Yes,Low,High,4
+2915,May Be,Yes,Low,High,4
+2916,May Be,Yes,Low,High,4
+2917,May Be,Yes,Low,High,4
+2918,May Be,Yes,Low,High,4
+2919,May Be,Yes,Low,High,4
+2920,May Be,Yes,Low,High,4
+2921,May Be,Yes,Low,High,4
+2922,May Be,Yes,Low,High,4
+2923,May Be,Yes,Low,High,4
+2924,May Be,Yes,Low,High,4
+2925,May Be,Yes,Low,High,4
+2926,May Be,Yes,Low,High,4
+2927,May Be,Yes,Low,High,4
+2928,May Be,Yes,Low,High,4
+2929,May Be,Yes,Low,High,4
+2930,May Be,Yes,Low,High,4
+2931,May Be,Yes,Low,High,4
+2932,May Be,Yes,Low,High,4
+2933,May Be,Yes,Low,High,4
+2934,May Be,Yes,Low,High,4
+2935,May Be,Yes,Low,High,4
+2936,May Be,Yes,Low,High,4
+2937,May Be,Yes,Low,High,4
+2938,May Be,Yes,Low,High,4
+2939,May Be,Yes,Low,High,4
+2940,May Be,Yes,Low,High,4
+2941,May Be,Yes,Low,High,4
+2942,May Be,Yes,Low,High,4
+2943,May Be,Yes,Low,High,4
+2944,May Be,Yes,Low,High,4
+2945,May Be,Yes,Low,High,4
+2946,May Be,Yes,Low,High,4
+2947,May Be,Yes,Low,High,4
+2948,May Be,Yes,Low,High,4
+2949,May Be,Yes,Low,High,4
+2950,May Be,Yes,Low,High,4
+2951,May Be,Yes,Low,High,4
+2952,May Be,Yes,Low,High,4
+2953,May Be,Yes,Low,High,4
+2954,May Be,Yes,Low,High,4
+2955,May Be,Yes,Low,High,4
+2956,May Be,Yes,Low,High,4
+2957,May Be,Yes,Low,High,4
+2958,May Be,Yes,Low,High,4
+2959,May Be,Yes,Low,High,4
+2960,May Be,Yes,Low,High,4
+2961,May Be,Yes,Low,High,4
+2962,May Be,Yes,Low,High,4
+2963,May Be,Yes,Low,High,4
+2964,May Be,Yes,Low,High,4
+2965,May Be,Yes,Low,High,4
+2966,May Be,Yes,Low,High,4
+2967,May Be,Yes,Low,High,4
+2968,May Be,Yes,Low,High,4
+2969,May Be,Yes,Low,High,4
+2970,May Be,Yes,Low,High,4
+2971,May Be,Yes,Low,High,4
+2972,May Be,Yes,Low,High,4
+2973,May Be,Yes,Low,High,4
+2974,May Be,Yes,Low,High,4
+2975,May Be,Yes,Low,High,4
+2976,May Be,Yes,Low,High,4
+2977,May Be,Yes,Low,High,4
+2978,May Be,Yes,Low,High,4
+2979,May Be,Yes,Low,High,4
+2980,May Be,Yes,Low,High,4
+2981,May Be,Yes,Low,High,4
+2982,May Be,Yes,Low,High,4
+2983,May Be,Yes,Low,High,4
+2984,May Be,Yes,Low,High,4
+2985,May Be,Yes,Low,High,4
+2986,May Be,Yes,Low,High,4
+2987,May Be,Yes,Low,High,4
+2988,May Be,Yes,Low,High,4
+2989,May Be,Yes,Low,High,4
+2990,May Be,Yes,Low,High,4
+2991,May Be,Yes,Low,High,4
+2992,May Be,Yes,Low,High,4
+2993,May Be,Yes,Low,High,4
+2994,May Be,Yes,Moderate,Low,1
+2995,May Be,Yes,Moderate,Low,1
+2996,May Be,Yes,Moderate,Low,1
+2997,May Be,Yes,Moderate,Low,1
+2998,May Be,Yes,Moderate,Low,1
+2999,May Be,Yes,Moderate,Low,1
+3000,May Be,Yes,Moderate,Low,1
+3001,May Be,Yes,Moderate,Low,1
+3002,May Be,Yes,Moderate,Low,1
+3003,May Be,Yes,Moderate,Low,1
+3004,May Be,Yes,Moderate,Low,1
+3005,May Be,Yes,Moderate,Low,1
+3006,May Be,Yes,Moderate,Low,1
+3007,May Be,Yes,Moderate,Low,1
+3008,May Be,Yes,Moderate,Low,1
+3009,May Be,Yes,Moderate,Low,1
+3010,May Be,Yes,Moderate,Low,1
+3011,May Be,Yes,Moderate,Low,1
+3012,May Be,Yes,Moderate,Low,1
+3013,May Be,Yes,Moderate,Low,1
+3014,May Be,Yes,Moderate,Low,1
+3015,May Be,Yes,Moderate,Low,1
+3016,May Be,Yes,Moderate,Low,1
+3017,May Be,Yes,Moderate,Low,1
+3018,May Be,Yes,Moderate,Low,1
+3019,May Be,Yes,Moderate,Low,1
+3020,May Be,Yes,Moderate,Low,1
+3021,May Be,Yes,Moderate,Low,1
+3022,May Be,Yes,Moderate,Low,1
+3023,May Be,Yes,Moderate,Low,1
+3024,May Be,Yes,Moderate,Low,1
+3025,May Be,Yes,Moderate,Low,1
+3026,May Be,Yes,Moderate,Low,1
+3027,May Be,Yes,Moderate,Low,1
+3028,May Be,Yes,Moderate,Low,1
+3029,May Be,Yes,Moderate,Low,1
+3030,May Be,Yes,Moderate,Low,1
+3031,May Be,Yes,Moderate,Low,1
+3032,May Be,Yes,Moderate,Low,1
+3033,May Be,Yes,Moderate,Low,1
+3034,May Be,Yes,Moderate,Low,1
+3035,May Be,Yes,Moderate,Low,1
+3036,May Be,Yes,Moderate,Low,1
+3037,May Be,Yes,Moderate,Low,1
+3038,May Be,Yes,Moderate,Low,1
+3039,May Be,Yes,Moderate,Low,1
+3040,May Be,Yes,Moderate,Low,1
+3041,May Be,Yes,Moderate,Low,1
+3042,May Be,Yes,Moderate,Low,1
+3043,May Be,Yes,Moderate,Low,1
+3044,May Be,Yes,Moderate,Moderate,2
+3045,May Be,Yes,Moderate,Moderate,2
+3046,May Be,Yes,Moderate,Moderate,2
+3047,May Be,Yes,Moderate,Moderate,2
+3048,May Be,Yes,Moderate,Moderate,2
+3049,May Be,Yes,Moderate,Moderate,2
+3050,May Be,Yes,Moderate,Moderate,2
+3051,May Be,Yes,Moderate,Moderate,2
+3052,May Be,Yes,Moderate,Moderate,2
+3053,May Be,Yes,Moderate,Moderate,2
+3054,May Be,Yes,Moderate,Moderate,2
+3055,May Be,Yes,Moderate,Moderate,2
+3056,May Be,Yes,Moderate,Moderate,2
+3057,May Be,Yes,Moderate,Moderate,2
+3058,May Be,Yes,Moderate,Moderate,2
+3059,May Be,Yes,Moderate,Moderate,2
+3060,May Be,Yes,Moderate,Moderate,2
+3061,May Be,Yes,Moderate,Moderate,2
+3062,May Be,Yes,Moderate,Moderate,2
+3063,May Be,Yes,Moderate,Moderate,2
+3064,May Be,Yes,Moderate,Moderate,2
+3065,May Be,Yes,Moderate,Moderate,2
+3066,May Be,Yes,Moderate,Moderate,2
+3067,May Be,Yes,Moderate,Moderate,2
+3068,May Be,Yes,Moderate,Moderate,2
+3069,May Be,Yes,Moderate,Moderate,2
+3070,May Be,Yes,Moderate,Moderate,2
+3071,May Be,Yes,Moderate,Moderate,2
+3072,May Be,Yes,Moderate,Moderate,2
+3073,May Be,Yes,Moderate,Moderate,2
+3074,May Be,Yes,Moderate,Moderate,2
+3075,May Be,Yes,Moderate,Moderate,2
+3076,May Be,Yes,Moderate,Moderate,2
+3077,May Be,Yes,Moderate,Moderate,2
+3078,May Be,Yes,Moderate,Moderate,2
+3079,May Be,Yes,Moderate,Moderate,2
+3080,May Be,Yes,Moderate,Moderate,2
+3081,May Be,Yes,Moderate,Moderate,2
+3082,May Be,Yes,Moderate,Moderate,2
+3083,May Be,Yes,Moderate,Moderate,2
+3084,May Be,Yes,Moderate,Moderate,2
+3085,May Be,Yes,Moderate,Moderate,2
+3086,May Be,Yes,Moderate,Moderate,2
+3087,May Be,Yes,Moderate,High,3
+3088,May Be,Yes,Moderate,High,3
+3089,May Be,Yes,Moderate,High,3
+3090,May Be,Yes,Moderate,High,3
+3091,May Be,Yes,Moderate,High,3
+3092,May Be,Yes,Moderate,High,3
+3093,May Be,Yes,Moderate,High,3
+3094,May Be,Yes,Moderate,High,3
+3095,May Be,Yes,Moderate,High,3
+3096,May Be,Yes,Moderate,High,3
+3097,May Be,Yes,Moderate,High,3
+3098,May Be,Yes,Moderate,High,3
+3099,May Be,Yes,Moderate,High,3
+3100,May Be,Yes,Moderate,High,3
+3101,May Be,Yes,Moderate,High,3
+3102,May Be,Yes,Moderate,High,3
+3103,May Be,Yes,Moderate,High,3
+3104,May Be,Yes,Moderate,High,3
+3105,May Be,Yes,Moderate,High,3
+3106,May Be,Yes,Moderate,High,3
+3107,May Be,Yes,Moderate,High,3
+3108,May Be,Yes,Moderate,High,3
+3109,May Be,Yes,Moderate,High,3
+3110,May Be,Yes,Moderate,High,3
+3111,May Be,Yes,Moderate,High,3
+3112,May Be,Yes,Moderate,High,3
+3113,May Be,Yes,Moderate,High,3
+3114,May Be,Yes,Moderate,High,3
+3115,May Be,Yes,Moderate,High,3
+3116,May Be,Yes,Moderate,High,3
+3117,May Be,Yes,Moderate,High,3
+3118,May Be,Yes,Moderate,High,3
+3119,May Be,Yes,Moderate,High,3
+3120,May Be,Yes,Moderate,High,3
+3121,May Be,Yes,Moderate,High,3
+3122,May Be,Yes,Moderate,High,3
+3123,May Be,Yes,Moderate,High,3
+3124,May Be,Yes,Moderate,High,3
+3125,May Be,Yes,Moderate,High,3
+3126,May Be,Yes,Moderate,High,3
+3127,May Be,Yes,Moderate,High,3
+3128,May Be,Yes,Moderate,High,3
+3129,May Be,Yes,Moderate,High,3
+3130,May Be,Yes,Moderate,High,3
+3131,May Be,Yes,Moderate,High,3
+3132,May Be,Yes,Moderate,High,3
+3133,May Be,Yes,Moderate,High,3
+3134,May Be,Yes,Moderate,High,3
+3135,May Be,Yes,Moderate,High,3
+3136,May Be,Yes,Moderate,High,3
+3137,May Be,Yes,Moderate,High,3
+3138,May Be,Yes,Moderate,High,3
+3139,May Be,Yes,Moderate,High,3
+3140,May Be,Yes,Moderate,High,3
+3141,May Be,Yes,Moderate,High,3
+3142,May Be,Yes,Moderate,High,3
+3143,May Be,Yes,Moderate,High,3
+3144,May Be,Yes,Moderate,High,3
+3145,May Be,Yes,Moderate,High,3
+3146,May Be,Yes,High,Low,1
+3147,May Be,Yes,High,Low,1
+3148,May Be,Yes,High,Low,1
+3149,May Be,Yes,High,Low,1
+3150,May Be,Yes,High,Low,1
+3151,May Be,Yes,High,Low,1
+3152,May Be,Yes,High,Low,1
+3153,May Be,Yes,High,Low,1
+3154,May Be,Yes,High,Low,1
+3155,May Be,Yes,High,Low,1
+3156,May Be,Yes,High,Low,1
+3157,May Be,Yes,High,Low,1
+3158,May Be,Yes,High,Low,1
+3159,May Be,Yes,High,Low,1
+3160,May Be,Yes,High,Low,1
+3161,May Be,Yes,High,Low,1
+3162,May Be,Yes,High,Low,1
+3163,May Be,Yes,High,Low,1
+3164,May Be,Yes,High,Low,1
+3165,May Be,Yes,High,Low,1
+3166,May Be,Yes,High,Low,1
+3167,May Be,Yes,High,Low,1
+3168,May Be,Yes,High,Low,1
+3169,May Be,Yes,High,Low,1
+3170,May Be,Yes,High,Low,1
+3171,May Be,Yes,High,Low,1
+3172,May Be,Yes,High,Low,1
+3173,May Be,Yes,High,Low,1
+3174,May Be,Yes,High,Low,1
+3175,May Be,Yes,High,Low,1
+3176,May Be,Yes,High,Low,1
+3177,May Be,Yes,High,Low,1
+3178,May Be,Yes,High,Low,1
+3179,May Be,Yes,High,Low,1
+3180,May Be,Yes,High,Low,1
+3181,May Be,Yes,High,Low,1
+3182,May Be,Yes,High,Low,1
+3183,May Be,Yes,High,Low,1
+3184,May Be,Yes,High,Low,1
+3185,May Be,Yes,High,Low,1
+3186,May Be,Yes,High,Low,1
+3187,May Be,Yes,High,Low,1
+3188,May Be,Yes,High,Low,1
+3189,May Be,Yes,High,Low,1
+3190,May Be,Yes,High,Low,1
+3191,May Be,Yes,High,Low,1
+3192,May Be,Yes,High,Low,1
+3193,May Be,Yes,High,Low,1
+3194,May Be,Yes,High,Low,1
+3195,May Be,Yes,High,Low,1
+3196,May Be,Yes,High,Moderate,2
+3197,May Be,Yes,High,Moderate,2
+3198,May Be,Yes,High,Moderate,2
+3199,May Be,Yes,High,Moderate,2
+3200,May Be,Yes,High,Moderate,2
+3201,May Be,Yes,High,Moderate,2
+3202,May Be,Yes,High,Moderate,2
+3203,May Be,Yes,High,Moderate,2
+3204,May Be,Yes,High,Moderate,2
+3205,May Be,Yes,High,Moderate,2
+3206,May Be,Yes,High,Moderate,2
+3207,May Be,Yes,High,Moderate,2
+3208,May Be,Yes,High,Moderate,2
+3209,May Be,Yes,High,Moderate,2
+3210,May Be,Yes,High,Moderate,2
+3211,May Be,Yes,High,Moderate,2
+3212,May Be,Yes,High,Moderate,2
+3213,May Be,Yes,High,Moderate,2
+3214,May Be,Yes,High,Moderate,2
+3215,May Be,Yes,High,Moderate,2
+3216,May Be,Yes,High,Moderate,2
+3217,May Be,Yes,High,Moderate,2
+3218,May Be,Yes,High,Moderate,2
+3219,May Be,Yes,High,Moderate,2
+3220,May Be,Yes,High,Moderate,2
+3221,May Be,Yes,High,Moderate,2
+3222,May Be,Yes,High,Moderate,2
+3223,May Be,Yes,High,Moderate,2
+3224,May Be,Yes,High,Moderate,2
+3225,May Be,Yes,High,Moderate,2
+3226,May Be,Yes,High,Moderate,2
+3227,May Be,Yes,High,Moderate,2
+3228,May Be,Yes,High,Moderate,2
+3229,May Be,Yes,High,Moderate,2
+3230,May Be,Yes,High,Moderate,2
+3231,May Be,Yes,High,Moderate,2
+3232,May Be,Yes,High,Moderate,2
+3233,May Be,Yes,High,Moderate,2
+3234,May Be,Yes,High,Moderate,2
+3235,May Be,Yes,High,Moderate,2
+3236,May Be,Yes,High,Moderate,2
+3237,May Be,Yes,High,Moderate,2
+3238,May Be,Yes,High,Moderate,2
+3239,May Be,Yes,High,High,4
+3240,May Be,Yes,High,High,4
+3241,May Be,Yes,High,High,4
+3242,May Be,Yes,High,High,4
+3243,May Be,Yes,High,High,4
+3244,May Be,Yes,High,High,4
+3245,May Be,Yes,High,High,4
+3246,May Be,Yes,High,High,4
+3247,May Be,Yes,High,High,4
+3248,May Be,Yes,High,High,4
+3249,May Be,Yes,High,High,4
+3250,May Be,Yes,High,High,4
+3251,May Be,Yes,High,High,4
+3252,May Be,Yes,High,High,4
+3253,May Be,Yes,High,High,4
+3254,May Be,Yes,High,High,4
+3255,May Be,Yes,High,High,4
+3256,May Be,Yes,High,High,4
+3257,May Be,Yes,High,High,4
+3258,May Be,Yes,High,High,4
+3259,May Be,Yes,High,High,4
+3260,May Be,Yes,High,High,4
+3261,May Be,Yes,High,High,4
+3262,May Be,Yes,High,High,4
+3263,May Be,Yes,High,High,4
+3264,May Be,Yes,High,High,4
+3265,May Be,Yes,High,High,4
+3266,May Be,Yes,High,High,4
+3267,May Be,Yes,High,High,4
+3268,May Be,Yes,High,High,4
+3269,May Be,Yes,High,High,4
+3270,May Be,Yes,High,High,4
+3271,May Be,Yes,High,High,4
+3272,May Be,Yes,High,High,4
+3273,May Be,Yes,High,High,4
+3274,May Be,Yes,High,High,4
+3275,May Be,Yes,High,High,4
+3276,May Be,Yes,High,High,4
+3277,May Be,Yes,High,High,4
+3278,May Be,Yes,High,High,4
+3279,May Be,Yes,High,High,4
+3280,May Be,Yes,High,High,4
+3281,May Be,Yes,High,High,4
+3282,May Be,Yes,High,High,4
+3283,May Be,Yes,High,High,4
+3284,May Be,Yes,High,High,4
+3285,May Be,Yes,High,High,4
+3286,May Be,Yes,High,High,4
+3287,May Be,Yes,High,High,4
+3288,May Be,Yes,High,High,4
+3289,May Be,Yes,High,High,4
+3290,May Be,Yes,High,High,4
+3291,May Be,Yes,High,High,4
+3292,May Be,Yes,High,High,4
+3293,May Be,Yes,High,High,4
+3294,May Be,Yes,High,High,4
+3295,May Be,Yes,High,High,4
+3296,May Be,Yes,High,High,4
+3297,May Be,Yes,High,High,4
+3298,May Be,Yes,High,High,4
+3299,May Be,Yes,High,High,4
+3300,May Be,Yes,High,High,4
+3301,May Be,Yes,High,High,4
+3302,May Be,Yes,High,High,4
+3303,May Be,Yes,High,High,4
+3304,May Be,Yes,High,High,4
+3305,May Be,Yes,High,High,4
+3306,May Be,Yes,High,High,4
+3307,May Be,Yes,High,High,4
+3308,May Be,Yes,High,High,4
+3309,May Be,Yes,High,High,4
+3310,May Be,Yes,High,High,4
+3311,May Be,Yes,High,High,4
+3312,May Be,Yes,High,High,4
+3313,May Be,Yes,High,High,4
+3314,May Be,Yes,High,High,4
+3315,May Be,Yes,High,High,4
+3316,May Be,Yes,High,High,4
+3317,May Be,Yes,High,High,4
+3318,May Be,Yes,High,High,4
+3319,May Be,Yes,High,High,4
+3320,May Be,Yes,High,High,4
+3321,May Be,Yes,High,High,4
+3322,Yes,No,Low,Low,0
+3323,Yes,No,Low,Low,0
+3324,Yes,No,Low,Low,0
+3325,Yes,No,Low,Low,0
+3326,Yes,No,Low,Low,0
+3327,Yes,No,Low,Low,0
+3328,Yes,No,Low,Low,0
+3329,Yes,No,Low,Low,0
+3330,Yes,No,Low,Low,0
+3331,Yes,No,Low,Low,0
+3332,Yes,No,Low,Low,0
+3333,Yes,No,Low,Low,0
+3334,Yes,No,Low,Low,0
+3335,Yes,No,Low,Low,0
+3336,Yes,No,Low,Low,0
+3337,Yes,No,Low,Low,0
+3338,Yes,No,Low,Low,0
+3339,Yes,No,Low,Low,0
+3340,Yes,No,Low,Low,0
+3341,Yes,No,Low,Low,0
+3342,Yes,No,Low,Low,0
+3343,Yes,No,Low,Low,0
+3344,Yes,No,Low,Low,0
+3345,Yes,No,Low,Low,0
+3346,Yes,No,Low,Low,0
+3347,Yes,No,Low,Low,0
+3348,Yes,No,Low,Low,0
+3349,Yes,No,Low,Low,0
+3350,Yes,No,Low,Low,0
+3351,Yes,No,Low,Low,0
+3352,Yes,No,Low,Low,0
+3353,Yes,No,Low,Low,0
+3354,Yes,No,Low,Low,0
+3355,Yes,No,Low,Low,0
+3356,Yes,No,Low,Low,0
+3357,Yes,No,Low,Low,0
+3358,Yes,No,Low,Low,0
+3359,Yes,No,Low,Low,0
+3360,Yes,No,Low,Low,0
+3361,Yes,No,Low,Low,0
+3362,Yes,No,Low,Low,0
+3363,Yes,No,Low,Low,0
+3364,Yes,No,Low,Low,0
+3365,Yes,No,Low,Low,0
+3366,Yes,No,Low,Low,0
+3367,Yes,No,Low,Low,0
+3368,Yes,No,Low,Low,0
+3369,Yes,No,Low,Low,0
+3370,Yes,No,Low,Low,0
+3371,Yes,No,Low,Low,0
+3372,Yes,No,Low,Low,0
+3373,Yes,No,Low,Low,0
+3374,Yes,No,Low,Low,0
+3375,Yes,No,Low,Low,0
+3376,Yes,No,Low,Low,0
+3377,Yes,No,Low,Low,0
+3378,Yes,No,Low,Low,0
+3379,Yes,No,Low,Low,0
+3380,Yes,No,Low,Low,0
+3381,Yes,No,Low,Low,0
+3382,Yes,No,Low,Low,0
+3383,Yes,No,Low,Low,0
+3384,Yes,No,Low,Low,0
+3385,Yes,No,Low,Low,0
+3386,Yes,No,Low,Low,0
+3387,Yes,No,Low,Low,0
+3388,Yes,No,Low,Low,0
+3389,Yes,No,Low,Low,0
+3390,Yes,No,Low,Low,0
+3391,Yes,No,Low,Low,0
+3392,Yes,No,Low,Low,0
+3393,Yes,No,Low,Low,0
+3394,Yes,No,Low,Low,0
+3395,Yes,No,Low,Low,0
+3396,Yes,No,Low,Low,0
+3397,Yes,No,Low,Low,0
+3398,Yes,No,Low,Low,0
+3399,Yes,No,Low,Low,0
+3400,Yes,No,Low,Low,0
+3401,Yes,No,Low,Low,0
+3402,Yes,No,Low,Low,0
+3403,Yes,No,Low,Low,0
+3404,Yes,No,Low,Low,0
+3405,Yes,No,Low,Low,0
+3406,Yes,No,Low,Low,0
+3407,Yes,No,Low,Low,0
+3408,Yes,No,Low,Low,0
+3409,Yes,No,Low,Low,0
+3410,Yes,No,Low,Low,0
+3411,Yes,No,Low,Low,0
+3412,Yes,No,Low,Low,0
+3413,Yes,No,Low,Low,0
+3414,Yes,No,Low,Low,0
+3415,Yes,No,Low,Low,0
+3416,Yes,No,Low,Low,0
+3417,Yes,No,Low,Low,0
+3418,Yes,No,Low,Low,0
+3419,Yes,No,Low,Low,0
+3420,Yes,No,Low,Low,0
+3421,Yes,No,Low,Low,0
+3422,Yes,No,Low,Low,0
+3423,Yes,No,Low,Low,0
+3424,Yes,No,Low,Low,0
+3425,Yes,No,Low,Low,0
+3426,Yes,No,Low,Low,0
+3427,Yes,No,Low,Low,0
+3428,Yes,No,Low,Low,0
+3429,Yes,No,Low,Low,0
+3430,Yes,No,Low,Low,0
+3431,Yes,No,Low,Low,0
+3432,Yes,No,Low,Low,0
+3433,Yes,No,Low,Moderate,1
+3434,Yes,No,Low,Moderate,1
+3435,Yes,No,Low,Moderate,1
+3436,Yes,No,Low,Moderate,1
+3437,Yes,No,Low,Moderate,1
+3438,Yes,No,Low,Moderate,1
+3439,Yes,No,Low,Moderate,1
+3440,Yes,No,Low,Moderate,1
+3441,Yes,No,Low,Moderate,1
+3442,Yes,No,Low,Moderate,1
+3443,Yes,No,Low,Moderate,1
+3444,Yes,No,Low,Moderate,1
+3445,Yes,No,Low,Moderate,1
+3446,Yes,No,Low,Moderate,1
+3447,Yes,No,Low,Moderate,1
+3448,Yes,No,Low,Moderate,1
+3449,Yes,No,Low,Moderate,1
+3450,Yes,No,Low,Moderate,1
+3451,Yes,No,Low,Moderate,1
+3452,Yes,No,Low,Moderate,1
+3453,Yes,No,Low,Moderate,1
+3454,Yes,No,Low,Moderate,1
+3455,Yes,No,Low,Moderate,1
+3456,Yes,No,Low,Moderate,1
+3457,Yes,No,Low,Moderate,1
+3458,Yes,No,Low,Moderate,1
+3459,Yes,No,Low,Moderate,1
+3460,Yes,No,Low,Moderate,1
+3461,Yes,No,Low,Moderate,1
+3462,Yes,No,Low,Moderate,1
+3463,Yes,No,Low,Moderate,1
+3464,Yes,No,Low,Moderate,1
+3465,Yes,No,Low,Moderate,1
+3466,Yes,No,Low,Moderate,1
+3467,Yes,No,Low,Moderate,1
+3468,Yes,No,Low,Moderate,1
+3469,Yes,No,Low,Moderate,1
+3470,Yes,No,Low,Moderate,1
+3471,Yes,No,Low,Moderate,1
+3472,Yes,No,Low,Moderate,1
+3473,Yes,No,Low,Moderate,1
+3474,Yes,No,Low,Moderate,1
+3475,Yes,No,Low,Moderate,1
+3476,Yes,No,Low,Moderate,1
+3477,Yes,No,Low,Moderate,1
+3478,Yes,No,Low,Moderate,1
+3479,Yes,No,Low,Moderate,1
+3480,Yes,No,Low,Moderate,1
+3481,Yes,No,Low,Moderate,1
+3482,Yes,No,Low,Moderate,1
+3483,Yes,No,Low,High,2
+3484,Yes,No,Low,High,2
+3485,Yes,No,Low,High,2
+3486,Yes,No,Low,High,2
+3487,Yes,No,Low,High,2
+3488,Yes,No,Low,High,2
+3489,Yes,No,Low,High,2
+3490,Yes,No,Low,High,2
+3491,Yes,No,Low,High,2
+3492,Yes,No,Low,High,2
+3493,Yes,No,Low,High,2
+3494,Yes,No,Low,High,2
+3495,Yes,No,Low,High,2
+3496,Yes,No,Low,High,2
+3497,Yes,No,Low,High,2
+3498,Yes,No,Low,High,2
+3499,Yes,No,Low,High,2
+3500,Yes,No,Low,High,2
+3501,Yes,No,Low,High,2
+3502,Yes,No,Low,High,2
+3503,Yes,No,Low,High,2
+3504,Yes,No,Low,High,2
+3505,Yes,No,Low,High,2
+3506,Yes,No,Low,High,2
+3507,Yes,No,Low,High,2
+3508,Yes,No,Low,High,2
+3509,Yes,No,Low,High,2
+3510,Yes,No,Low,High,2
+3511,Yes,No,Low,High,2
+3512,Yes,No,Low,High,2
+3513,Yes,No,Low,High,2
+3514,Yes,No,Low,High,2
+3515,Yes,No,Low,High,2
+3516,Yes,No,Low,High,2
+3517,Yes,No,Low,High,2
+3518,Yes,No,Low,High,2
+3519,Yes,No,Low,High,2
+3520,Yes,No,Low,High,2
+3521,Yes,No,Low,High,2
+3522,Yes,No,Low,High,2
+3523,Yes,No,Low,High,2
+3524,Yes,No,Low,High,2
+3525,Yes,No,Low,High,2
+3526,Yes,No,Moderate,Low,1
+3527,Yes,No,Moderate,Low,1
+3528,Yes,No,Moderate,Low,1
+3529,Yes,No,Moderate,Low,1
+3530,Yes,No,Moderate,Low,1
+3531,Yes,No,Moderate,Low,1
+3532,Yes,No,Moderate,Low,1
+3533,Yes,No,Moderate,Low,1
+3534,Yes,No,Moderate,Low,1
+3535,Yes,No,Moderate,Low,1
+3536,Yes,No,Moderate,Low,1
+3537,Yes,No,Moderate,Low,1
+3538,Yes,No,Moderate,Low,1
+3539,Yes,No,Moderate,Low,1
+3540,Yes,No,Moderate,Low,1
+3541,Yes,No,Moderate,Low,1
+3542,Yes,No,Moderate,Low,1
+3543,Yes,No,Moderate,Low,1
+3544,Yes,No,Moderate,Low,1
+3545,Yes,No,Moderate,Low,1
+3546,Yes,No,Moderate,Low,1
+3547,Yes,No,Moderate,Low,1
+3548,Yes,No,Moderate,Low,1
+3549,Yes,No,Moderate,Low,1
+3550,Yes,No,Moderate,Low,1
+3551,Yes,No,Moderate,Low,1
+3552,Yes,No,Moderate,Low,1
+3553,Yes,No,Moderate,Low,1
+3554,Yes,No,Moderate,Low,1
+3555,Yes,No,Moderate,Low,1
+3556,Yes,No,Moderate,Low,1
+3557,Yes,No,Moderate,Low,1
+3558,Yes,No,Moderate,Low,1
+3559,Yes,No,Moderate,Low,1
+3560,Yes,No,Moderate,Low,1
+3561,Yes,No,Moderate,Low,1
+3562,Yes,No,Moderate,Low,1
+3563,Yes,No,Moderate,Low,1
+3564,Yes,No,Moderate,Low,1
+3565,Yes,No,Moderate,Low,1
+3566,Yes,No,Moderate,Low,1
+3567,Yes,No,Moderate,Low,1
+3568,Yes,No,Moderate,Low,1
+3569,Yes,No,Moderate,Low,1
+3570,Yes,No,Moderate,Low,1
+3571,Yes,No,Moderate,Low,1
+3572,Yes,No,Moderate,Low,1
+3573,Yes,No,Moderate,Low,1
+3574,Yes,No,Moderate,Low,1
+3575,Yes,No,Moderate,Low,1
+3576,Yes,No,Moderate,Moderate,2
+3577,Yes,No,Moderate,Moderate,2
+3578,Yes,No,Moderate,Moderate,2
+3579,Yes,No,Moderate,Moderate,2
+3580,Yes,No,Moderate,Moderate,2
+3581,Yes,No,Moderate,Moderate,2
+3582,Yes,No,Moderate,Moderate,2
+3583,Yes,No,Moderate,Moderate,2
+3584,Yes,No,Moderate,Moderate,2
+3585,Yes,No,Moderate,Moderate,2
+3586,Yes,No,Moderate,Moderate,2
+3587,Yes,No,Moderate,Moderate,2
+3588,Yes,No,Moderate,Moderate,2
+3589,Yes,No,Moderate,Moderate,2
+3590,Yes,No,Moderate,Moderate,2
+3591,Yes,No,Moderate,Moderate,2
+3592,Yes,No,Moderate,Moderate,2
+3593,Yes,No,Moderate,Moderate,2
+3594,Yes,No,Moderate,Moderate,2
+3595,Yes,No,Moderate,Moderate,2
+3596,Yes,No,Moderate,Moderate,2
+3597,Yes,No,Moderate,Moderate,2
+3598,Yes,No,Moderate,Moderate,2
+3599,Yes,No,Moderate,Moderate,2
+3600,Yes,No,Moderate,Moderate,2
+3601,Yes,No,Moderate,Moderate,2
+3602,Yes,No,Moderate,Moderate,2
+3603,Yes,No,Moderate,Moderate,2
+3604,Yes,No,Moderate,Moderate,2
+3605,Yes,No,Moderate,Moderate,2
+3606,Yes,No,Moderate,Moderate,2
+3607,Yes,No,Moderate,Moderate,2
+3608,Yes,No,Moderate,Moderate,2
+3609,Yes,No,Moderate,Moderate,2
+3610,Yes,No,Moderate,Moderate,2
+3611,Yes,No,Moderate,Moderate,2
+3612,Yes,No,Moderate,Moderate,2
+3613,Yes,No,Moderate,Moderate,2
+3614,Yes,No,Moderate,Moderate,2
+3615,Yes,No,Moderate,Moderate,2
+3616,Yes,No,Moderate,Moderate,2
+3617,Yes,No,Moderate,Moderate,2
+3618,Yes,No,Moderate,Moderate,2
+3619,Yes,No,Moderate,High,3
+3620,Yes,No,Moderate,High,3
+3621,Yes,No,Moderate,High,3
+3622,Yes,No,Moderate,High,3
+3623,Yes,No,Moderate,High,3
+3624,Yes,No,Moderate,High,3
+3625,Yes,No,Moderate,High,3
+3626,Yes,No,Moderate,High,3
+3627,Yes,No,Moderate,High,3
+3628,Yes,No,Moderate,High,3
+3629,Yes,No,Moderate,High,3
+3630,Yes,No,Moderate,High,3
+3631,Yes,No,Moderate,High,3
+3632,Yes,No,Moderate,High,3
+3633,Yes,No,Moderate,High,3
+3634,Yes,No,Moderate,High,3
+3635,Yes,No,Moderate,High,3
+3636,Yes,No,Moderate,High,3
+3637,Yes,No,Moderate,High,3
+3638,Yes,No,Moderate,High,3
+3639,Yes,No,Moderate,High,3
+3640,Yes,No,Moderate,High,3
+3641,Yes,No,Moderate,High,3
+3642,Yes,No,Moderate,High,3
+3643,Yes,No,Moderate,High,3
+3644,Yes,No,Moderate,High,3
+3645,Yes,No,Moderate,High,3
+3646,Yes,No,Moderate,High,3
+3647,Yes,No,Moderate,High,3
+3648,Yes,No,Moderate,High,3
+3649,Yes,No,Moderate,High,3
+3650,Yes,No,Moderate,High,3
+3651,Yes,No,Moderate,High,3
+3652,Yes,No,Moderate,High,3
+3653,Yes,No,Moderate,High,3
+3654,Yes,No,Moderate,High,3
+3655,Yes,No,Moderate,High,3
+3656,Yes,No,Moderate,High,3
+3657,Yes,No,Moderate,High,3
+3658,Yes,No,Moderate,High,3
+3659,Yes,No,Moderate,High,3
+3660,Yes,No,Moderate,High,3
+3661,Yes,No,Moderate,High,3
+3662,Yes,No,Moderate,High,3
+3663,Yes,No,Moderate,High,3
+3664,Yes,No,Moderate,High,3
+3665,Yes,No,Moderate,High,3
+3666,Yes,No,Moderate,High,3
+3667,Yes,No,Moderate,High,3
+3668,Yes,No,Moderate,High,3
+3669,Yes,No,Moderate,High,3
+3670,Yes,No,Moderate,High,3
+3671,Yes,No,Moderate,High,3
+3672,Yes,No,Moderate,High,3
+3673,Yes,No,Moderate,High,3
+3674,Yes,No,Moderate,High,3
+3675,Yes,No,Moderate,High,3
+3676,Yes,No,Moderate,High,3
+3677,Yes,No,Moderate,High,3
+3678,Yes,No,High,Low,2
+3679,Yes,No,High,Low,2
+3680,Yes,No,High,Low,2
+3681,Yes,No,High,Low,2
+3682,Yes,No,High,Low,2
+3683,Yes,No,High,Low,2
+3684,Yes,No,High,Low,2
+3685,Yes,No,High,Low,2
+3686,Yes,No,High,Low,2
+3687,Yes,No,High,Low,2
+3688,Yes,No,High,Low,2
+3689,Yes,No,High,Low,2
+3690,Yes,No,High,Low,2
+3691,Yes,No,High,Low,2
+3692,Yes,No,High,Low,2
+3693,Yes,No,High,Low,2
+3694,Yes,No,High,Low,2
+3695,Yes,No,High,Low,2
+3696,Yes,No,High,Low,2
+3697,Yes,No,High,Low,2
+3698,Yes,No,High,Low,2
+3699,Yes,No,High,Low,2
+3700,Yes,No,High,Low,2
+3701,Yes,No,High,Low,2
+3702,Yes,No,High,Low,2
+3703,Yes,No,High,Low,2
+3704,Yes,No,High,Low,2
+3705,Yes,No,High,Low,2
+3706,Yes,No,High,Low,2
+3707,Yes,No,High,Low,2
+3708,Yes,No,High,Low,2
+3709,Yes,No,High,Low,2
+3710,Yes,No,High,Low,2
+3711,Yes,No,High,Low,2
+3712,Yes,No,High,Low,2
+3713,Yes,No,High,Low,2
+3714,Yes,No,High,Low,2
+3715,Yes,No,High,Low,2
+3716,Yes,No,High,Low,2
+3717,Yes,No,High,Low,2
+3718,Yes,No,High,Low,2
+3719,Yes,No,High,Low,2
+3720,Yes,No,High,Low,2
+3721,Yes,No,High,Moderate,3
+3722,Yes,No,High,Moderate,3
+3723,Yes,No,High,Moderate,3
+3724,Yes,No,High,Moderate,3
+3725,Yes,No,High,Moderate,3
+3726,Yes,No,High,Moderate,3
+3727,Yes,No,High,Moderate,3
+3728,Yes,No,High,Moderate,3
+3729,Yes,No,High,Moderate,3
+3730,Yes,No,High,Moderate,3
+3731,Yes,No,High,Moderate,3
+3732,Yes,No,High,Moderate,3
+3733,Yes,No,High,Moderate,3
+3734,Yes,No,High,Moderate,3
+3735,Yes,No,High,Moderate,3
+3736,Yes,No,High,Moderate,3
+3737,Yes,No,High,Moderate,3
+3738,Yes,No,High,Moderate,3
+3739,Yes,No,High,Moderate,3
+3740,Yes,No,High,Moderate,3
+3741,Yes,No,High,Moderate,3
+3742,Yes,No,High,Moderate,3
+3743,Yes,No,High,Moderate,3
+3744,Yes,No,High,Moderate,3
+3745,Yes,No,High,Moderate,3
+3746,Yes,No,High,Moderate,3
+3747,Yes,No,High,Moderate,3
+3748,Yes,No,High,Moderate,3
+3749,Yes,No,High,Moderate,3
+3750,Yes,No,High,Moderate,3
+3751,Yes,No,High,Moderate,3
+3752,Yes,No,High,Moderate,3
+3753,Yes,No,High,Moderate,3
+3754,Yes,No,High,Moderate,3
+3755,Yes,No,High,Moderate,3
+3756,Yes,No,High,Moderate,3
+3757,Yes,No,High,Moderate,3
+3758,Yes,No,High,Moderate,3
+3759,Yes,No,High,Moderate,3
+3760,Yes,No,High,Moderate,3
+3761,Yes,No,High,Moderate,3
+3762,Yes,No,High,Moderate,3
+3763,Yes,No,High,Moderate,3
+3764,Yes,No,High,Moderate,3
+3765,Yes,No,High,Moderate,3
+3766,Yes,No,High,Moderate,3
+3767,Yes,No,High,Moderate,3
+3768,Yes,No,High,Moderate,3
+3769,Yes,No,High,Moderate,3
+3770,Yes,No,High,Moderate,3
+3771,Yes,No,High,Moderate,3
+3772,Yes,No,High,Moderate,3
+3773,Yes,No,High,Moderate,3
+3774,Yes,No,High,Moderate,3
+3775,Yes,No,High,Moderate,3
+3776,Yes,No,High,Moderate,3
+3777,Yes,No,High,Moderate,3
+3778,Yes,No,High,Moderate,3
+3779,Yes,No,High,Moderate,3
+3780,Yes,No,High,High,4
+3781,Yes,No,High,High,4
+3782,Yes,No,High,High,4
+3783,Yes,No,High,High,4
+3784,Yes,No,High,High,4
+3785,Yes,No,High,High,4
+3786,Yes,No,High,High,4
+3787,Yes,No,High,High,4
+3788,Yes,No,High,High,4
+3789,Yes,No,High,High,4
+3790,Yes,No,High,High,4
+3791,Yes,No,High,High,4
+3792,Yes,No,High,High,4
+3793,Yes,No,High,High,4
+3794,Yes,No,High,High,4
+3795,Yes,No,High,High,4
+3796,Yes,No,High,High,4
+3797,Yes,No,High,High,4
+3798,Yes,No,High,High,4
+3799,Yes,No,High,High,4
+3800,Yes,No,High,High,4
+3801,Yes,No,High,High,4
+3802,Yes,No,High,High,4
+3803,Yes,No,High,High,4
+3804,Yes,No,High,High,4
+3805,Yes,No,High,High,4
+3806,Yes,No,High,High,4
+3807,Yes,No,High,High,4
+3808,Yes,No,High,High,4
+3809,Yes,No,High,High,4
+3810,Yes,No,High,High,4
+3811,Yes,No,High,High,4
+3812,Yes,No,High,High,4
+3813,Yes,No,High,High,4
+3814,Yes,No,High,High,4
+3815,Yes,No,High,High,4
+3816,Yes,No,High,High,4
+3817,Yes,No,High,High,4
+3818,Yes,No,High,High,4
+3819,Yes,No,High,High,4
+3820,Yes,No,High,High,4
+3821,Yes,No,High,High,4
+3822,Yes,No,High,High,4
+3823,Yes,No,High,High,4
+3824,Yes,No,High,High,4
+3825,Yes,No,High,High,4
+3826,Yes,No,High,High,4
+3827,Yes,No,High,High,4
+3828,Yes,No,High,High,4
+3829,Yes,No,High,High,4
+3830,Yes,No,High,High,4
+3831,Yes,No,High,High,4
+3832,Yes,No,High,High,4
+3833,Yes,No,High,High,4
+3834,Yes,No,High,High,4
+3835,Yes,No,High,High,4
+3836,Yes,No,High,High,4
+3837,Yes,No,High,High,4
+3838,Yes,No,High,High,4
+3839,Yes,No,High,High,4
+3840,Yes,No,High,High,4
+3841,Yes,No,High,High,4
+3842,Yes,No,High,High,4
+3843,Yes,No,High,High,4
+3844,Yes,No,High,High,4
+3845,Yes,No,High,High,4
+3846,Yes,No,High,High,4
+3847,Yes,No,High,High,4
+3848,Yes,No,High,High,4
+3849,Yes,No,High,High,4
+3850,Yes,No,High,High,4
+3851,Yes,No,High,High,4
+3852,Yes,No,High,High,4
+3853,Yes,No,High,High,4
+3854,Yes,No,High,High,4
+3855,Yes,No,High,High,4
+3856,Yes,No,High,High,4
+3857,Yes,No,High,High,4
+3858,Yes,No,High,High,4
+3859,Yes,No,High,High,4
+3860,Yes,No,High,High,4
+3861,Yes,No,High,High,4
+3862,Yes,No,High,High,4
+3863,Yes,May Be,Low,Low,1
+3864,Yes,May Be,Low,Low,1
+3865,Yes,May Be,Low,Low,1
+3866,Yes,May Be,Low,Low,1
+3867,Yes,May Be,Low,Low,1
+3868,Yes,May Be,Low,Low,1
+3869,Yes,May Be,Low,Low,1
+3870,Yes,May Be,Low,Low,1
+3871,Yes,May Be,Low,Low,1
+3872,Yes,May Be,Low,Low,1
+3873,Yes,May Be,Low,Low,1
+3874,Yes,May Be,Low,Low,1
+3875,Yes,May Be,Low,Low,1
+3876,Yes,May Be,Low,Low,1
+3877,Yes,May Be,Low,Low,1
+3878,Yes,May Be,Low,Low,1
+3879,Yes,May Be,Low,Low,1
+3880,Yes,May Be,Low,Low,1
+3881,Yes,May Be,Low,Low,1
+3882,Yes,May Be,Low,Low,1
+3883,Yes,May Be,Low,Low,1
+3884,Yes,May Be,Low,Low,1
+3885,Yes,May Be,Low,Low,1
+3886,Yes,May Be,Low,Low,1
+3887,Yes,May Be,Low,Low,1
+3888,Yes,May Be,Low,Low,1
+3889,Yes,May Be,Low,Low,1
+3890,Yes,May Be,Low,Low,1
+3891,Yes,May Be,Low,Low,1
+3892,Yes,May Be,Low,Low,1
+3893,Yes,May Be,Low,Low,1
+3894,Yes,May Be,Low,Low,1
+3895,Yes,May Be,Low,Low,1
+3896,Yes,May Be,Low,Low,1
+3897,Yes,May Be,Low,Low,1
+3898,Yes,May Be,Low,Low,1
+3899,Yes,May Be,Low,Low,1
+3900,Yes,May Be,Low,Low,1
+3901,Yes,May Be,Low,Low,1
+3902,Yes,May Be,Low,Low,1
+3903,Yes,May Be,Low,Low,1
+3904,Yes,May Be,Low,Low,1
+3905,Yes,May Be,Low,Low,1
+3906,Yes,May Be,Low,Low,1
+3907,Yes,May Be,Low,Low,1
+3908,Yes,May Be,Low,Low,1
+3909,Yes,May Be,Low,Low,1
+3910,Yes,May Be,Low,Low,1
+3911,Yes,May Be,Low,Low,1
+3912,Yes,May Be,Low,Low,1
+3913,Yes,May Be,Low,Moderate,2
+3914,Yes,May Be,Low,Moderate,2
+3915,Yes,May Be,Low,Moderate,2
+3916,Yes,May Be,Low,Moderate,2
+3917,Yes,May Be,Low,Moderate,2
+3918,Yes,May Be,Low,Moderate,2
+3919,Yes,May Be,Low,Moderate,2
+3920,Yes,May Be,Low,Moderate,2
+3921,Yes,May Be,Low,Moderate,2
+3922,Yes,May Be,Low,Moderate,2
+3923,Yes,May Be,Low,Moderate,2
+3924,Yes,May Be,Low,Moderate,2
+3925,Yes,May Be,Low,Moderate,2
+3926,Yes,May Be,Low,Moderate,2
+3927,Yes,May Be,Low,Moderate,2
+3928,Yes,May Be,Low,Moderate,2
+3929,Yes,May Be,Low,Moderate,2
+3930,Yes,May Be,Low,Moderate,2
+3931,Yes,May Be,Low,Moderate,2
+3932,Yes,May Be,Low,Moderate,2
+3933,Yes,May Be,Low,Moderate,2
+3934,Yes,May Be,Low,Moderate,2
+3935,Yes,May Be,Low,Moderate,2
+3936,Yes,May Be,Low,Moderate,2
+3937,Yes,May Be,Low,Moderate,2
+3938,Yes,May Be,Low,Moderate,2
+3939,Yes,May Be,Low,Moderate,2
+3940,Yes,May Be,Low,Moderate,2
+3941,Yes,May Be,Low,Moderate,2
+3942,Yes,May Be,Low,Moderate,2
+3943,Yes,May Be,Low,Moderate,2
+3944,Yes,May Be,Low,Moderate,2
+3945,Yes,May Be,Low,Moderate,2
+3946,Yes,May Be,Low,Moderate,2
+3947,Yes,May Be,Low,Moderate,2
+3948,Yes,May Be,Low,Moderate,2
+3949,Yes,May Be,Low,Moderate,2
+3950,Yes,May Be,Low,Moderate,2
+3951,Yes,May Be,Low,Moderate,2
+3952,Yes,May Be,Low,Moderate,2
+3953,Yes,May Be,Low,Moderate,2
+3954,Yes,May Be,Low,Moderate,2
+3955,Yes,May Be,Low,Moderate,2
+3956,Yes,May Be,Low,High,3
+3957,Yes,May Be,Low,High,3
+3958,Yes,May Be,Low,High,3
+3959,Yes,May Be,Low,High,3
+3960,Yes,May Be,Low,High,3
+3961,Yes,May Be,Low,High,3
+3962,Yes,May Be,Low,High,3
+3963,Yes,May Be,Low,High,3
+3964,Yes,May Be,Low,High,3
+3965,Yes,May Be,Low,High,3
+3966,Yes,May Be,Low,High,3
+3967,Yes,May Be,Low,High,3
+3968,Yes,May Be,Low,High,3
+3969,Yes,May Be,Low,High,3
+3970,Yes,May Be,Low,High,3
+3971,Yes,May Be,Low,High,3
+3972,Yes,May Be,Low,High,3
+3973,Yes,May Be,Low,High,3
+3974,Yes,May Be,Low,High,3
+3975,Yes,May Be,Low,High,3
+3976,Yes,May Be,Low,High,3
+3977,Yes,May Be,Low,High,3
+3978,Yes,May Be,Low,High,3
+3979,Yes,May Be,Low,High,3
+3980,Yes,May Be,Low,High,3
+3981,Yes,May Be,Low,High,3
+3982,Yes,May Be,Low,High,3
+3983,Yes,May Be,Low,High,3
+3984,Yes,May Be,Low,High,3
+3985,Yes,May Be,Low,High,3
+3986,Yes,May Be,Low,High,3
+3987,Yes,May Be,Low,High,3
+3988,Yes,May Be,Low,High,3
+3989,Yes,May Be,Low,High,3
+3990,Yes,May Be,Low,High,3
+3991,Yes,May Be,Low,High,3
+3992,Yes,May Be,Low,High,3
+3993,Yes,May Be,Low,High,3
+3994,Yes,May Be,Low,High,3
+3995,Yes,May Be,Low,High,3
+3996,Yes,May Be,Low,High,3
+3997,Yes,May Be,Low,High,3
+3998,Yes,May Be,Low,High,3
+3999,Yes,May Be,Low,High,3
+4000,Yes,May Be,Low,High,3
+4001,Yes,May Be,Low,High,3
+4002,Yes,May Be,Low,High,3
+4003,Yes,May Be,Low,High,3
+4004,Yes,May Be,Low,High,3
+4005,Yes,May Be,Low,High,3
+4006,Yes,May Be,Low,High,3
+4007,Yes,May Be,Low,High,3
+4008,Yes,May Be,Low,High,3
+4009,Yes,May Be,Low,High,3
+4010,Yes,May Be,Low,High,3
+4011,Yes,May Be,Low,High,3
+4012,Yes,May Be,Low,High,3
+4013,Yes,May Be,Low,High,3
+4014,Yes,May Be,Low,High,3
+4015,Yes,May Be,Moderate,Low,2
+4016,Yes,May Be,Moderate,Low,2
+4017,Yes,May Be,Moderate,Low,2
+4018,Yes,May Be,Moderate,Low,2
+4019,Yes,May Be,Moderate,Low,2
+4020,Yes,May Be,Moderate,Low,2
+4021,Yes,May Be,Moderate,Low,2
+4022,Yes,May Be,Moderate,Low,2
+4023,Yes,May Be,Moderate,Low,2
+4024,Yes,May Be,Moderate,Low,2
+4025,Yes,May Be,Moderate,Low,2
+4026,Yes,May Be,Moderate,Low,2
+4027,Yes,May Be,Moderate,Low,2
+4028,Yes,May Be,Moderate,Low,2
+4029,Yes,May Be,Moderate,Low,2
+4030,Yes,May Be,Moderate,Low,2
+4031,Yes,May Be,Moderate,Low,2
+4032,Yes,May Be,Moderate,Low,2
+4033,Yes,May Be,Moderate,Low,2
+4034,Yes,May Be,Moderate,Low,2
+4035,Yes,May Be,Moderate,Low,2
+4036,Yes,May Be,Moderate,Low,2
+4037,Yes,May Be,Moderate,Low,2
+4038,Yes,May Be,Moderate,Low,2
+4039,Yes,May Be,Moderate,Low,2
+4040,Yes,May Be,Moderate,Low,2
+4041,Yes,May Be,Moderate,Low,2
+4042,Yes,May Be,Moderate,Low,2
+4043,Yes,May Be,Moderate,Low,2
+4044,Yes,May Be,Moderate,Low,2
+4045,Yes,May Be,Moderate,Low,2
+4046,Yes,May Be,Moderate,Low,2
+4047,Yes,May Be,Moderate,Low,2
+4048,Yes,May Be,Moderate,Low,2
+4049,Yes,May Be,Moderate,Low,2
+4050,Yes,May Be,Moderate,Low,2
+4051,Yes,May Be,Moderate,Low,2
+4052,Yes,May Be,Moderate,Low,2
+4053,Yes,May Be,Moderate,Low,2
+4054,Yes,May Be,Moderate,Low,2
+4055,Yes,May Be,Moderate,Low,2
+4056,Yes,May Be,Moderate,Low,2
+4057,Yes,May Be,Moderate,Low,2
+4058,Yes,May Be,Moderate,Moderate,3
+4059,Yes,May Be,Moderate,Moderate,3
+4060,Yes,May Be,Moderate,Moderate,3
+4061,Yes,May Be,Moderate,Moderate,3
+4062,Yes,May Be,Moderate,Moderate,3
+4063,Yes,May Be,Moderate,Moderate,3
+4064,Yes,May Be,Moderate,Moderate,3
+4065,Yes,May Be,Moderate,Moderate,3
+4066,Yes,May Be,Moderate,Moderate,3
+4067,Yes,May Be,Moderate,Moderate,3
+4068,Yes,May Be,Moderate,Moderate,3
+4069,Yes,May Be,Moderate,Moderate,3
+4070,Yes,May Be,Moderate,Moderate,3
+4071,Yes,May Be,Moderate,Moderate,3
+4072,Yes,May Be,Moderate,Moderate,3
+4073,Yes,May Be,Moderate,Moderate,3
+4074,Yes,May Be,Moderate,Moderate,3
+4075,Yes,May Be,Moderate,Moderate,3
+4076,Yes,May Be,Moderate,Moderate,3
+4077,Yes,May Be,Moderate,Moderate,3
+4078,Yes,May Be,Moderate,Moderate,3
+4079,Yes,May Be,Moderate,Moderate,3
+4080,Yes,May Be,Moderate,Moderate,3
+4081,Yes,May Be,Moderate,Moderate,3
+4082,Yes,May Be,Moderate,Moderate,3
+4083,Yes,May Be,Moderate,Moderate,3
+4084,Yes,May Be,Moderate,Moderate,3
+4085,Yes,May Be,Moderate,Moderate,3
+4086,Yes,May Be,Moderate,Moderate,3
+4087,Yes,May Be,Moderate,Moderate,3
+4088,Yes,May Be,Moderate,Moderate,3
+4089,Yes,May Be,Moderate,Moderate,3
+4090,Yes,May Be,Moderate,Moderate,3
+4091,Yes,May Be,Moderate,Moderate,3
+4092,Yes,May Be,Moderate,Moderate,3
+4093,Yes,May Be,Moderate,Moderate,3
+4094,Yes,May Be,Moderate,Moderate,3
+4095,Yes,May Be,Moderate,Moderate,3
+4096,Yes,May Be,Moderate,Moderate,3
+4097,Yes,May Be,Moderate,Moderate,3
+4098,Yes,May Be,Moderate,Moderate,3
+4099,Yes,May Be,Moderate,Moderate,3
+4100,Yes,May Be,Moderate,Moderate,3
+4101,Yes,May Be,Moderate,Moderate,3
+4102,Yes,May Be,Moderate,Moderate,3
+4103,Yes,May Be,Moderate,Moderate,3
+4104,Yes,May Be,Moderate,Moderate,3
+4105,Yes,May Be,Moderate,Moderate,3
+4106,Yes,May Be,Moderate,Moderate,3
+4107,Yes,May Be,Moderate,Moderate,3
+4108,Yes,May Be,Moderate,Moderate,3
+4109,Yes,May Be,Moderate,Moderate,3
+4110,Yes,May Be,Moderate,Moderate,3
+4111,Yes,May Be,Moderate,Moderate,3
+4112,Yes,May Be,Moderate,Moderate,3
+4113,Yes,May Be,Moderate,Moderate,3
+4114,Yes,May Be,Moderate,Moderate,3
+4115,Yes,May Be,Moderate,Moderate,3
+4116,Yes,May Be,Moderate,Moderate,3
+4117,Yes,May Be,Moderate,High,4
+4118,Yes,May Be,Moderate,High,4
+4119,Yes,May Be,Moderate,High,4
+4120,Yes,May Be,Moderate,High,4
+4121,Yes,May Be,Moderate,High,4
+4122,Yes,May Be,Moderate,High,4
+4123,Yes,May Be,Moderate,High,4
+4124,Yes,May Be,Moderate,High,4
+4125,Yes,May Be,Moderate,High,4
+4126,Yes,May Be,Moderate,High,4
+4127,Yes,May Be,Moderate,High,4
+4128,Yes,May Be,Moderate,High,4
+4129,Yes,May Be,Moderate,High,4
+4130,Yes,May Be,Moderate,High,4
+4131,Yes,May Be,Moderate,High,4
+4132,Yes,May Be,Moderate,High,4
+4133,Yes,May Be,Moderate,High,4
+4134,Yes,May Be,Moderate,High,4
+4135,Yes,May Be,Moderate,High,4
+4136,Yes,May Be,Moderate,High,4
+4137,Yes,May Be,Moderate,High,4
+4138,Yes,May Be,Moderate,High,4
+4139,Yes,May Be,Moderate,High,4
+4140,Yes,May Be,Moderate,High,4
+4141,Yes,May Be,Moderate,High,4
+4142,Yes,May Be,Moderate,High,4
+4143,Yes,May Be,Moderate,High,4
+4144,Yes,May Be,Moderate,High,4
+4145,Yes,May Be,Moderate,High,4
+4146,Yes,May Be,Moderate,High,4
+4147,Yes,May Be,Moderate,High,4
+4148,Yes,May Be,Moderate,High,4
+4149,Yes,May Be,Moderate,High,4
+4150,Yes,May Be,Moderate,High,4
+4151,Yes,May Be,Moderate,High,4
+4152,Yes,May Be,Moderate,High,4
+4153,Yes,May Be,Moderate,High,4
+4154,Yes,May Be,Moderate,High,4
+4155,Yes,May Be,Moderate,High,4
+4156,Yes,May Be,Moderate,High,4
+4157,Yes,May Be,Moderate,High,4
+4158,Yes,May Be,Moderate,High,4
+4159,Yes,May Be,Moderate,High,4
+4160,Yes,May Be,Moderate,High,4
+4161,Yes,May Be,Moderate,High,4
+4162,Yes,May Be,Moderate,High,4
+4163,Yes,May Be,Moderate,High,4
+4164,Yes,May Be,Moderate,High,4
+4165,Yes,May Be,Moderate,High,4
+4166,Yes,May Be,Moderate,High,4
+4167,Yes,May Be,Moderate,High,4
+4168,Yes,May Be,Moderate,High,4
+4169,Yes,May Be,Moderate,High,4
+4170,Yes,May Be,Moderate,High,4
+4171,Yes,May Be,Moderate,High,4
+4172,Yes,May Be,Moderate,High,4
+4173,Yes,May Be,Moderate,High,4
+4174,Yes,May Be,Moderate,High,4
+4175,Yes,May Be,Moderate,High,4
+4176,Yes,May Be,Moderate,High,4
+4177,Yes,May Be,Moderate,High,4
+4178,Yes,May Be,Moderate,High,4
+4179,Yes,May Be,Moderate,High,4
+4180,Yes,May Be,Moderate,High,4
+4181,Yes,May Be,Moderate,High,4
+4182,Yes,May Be,Moderate,High,4
+4183,Yes,May Be,Moderate,High,4
+4184,Yes,May Be,Moderate,High,4
+4185,Yes,May Be,Moderate,High,4
+4186,Yes,May Be,Moderate,High,4
+4187,Yes,May Be,Moderate,High,4
+4188,Yes,May Be,Moderate,High,4
+4189,Yes,May Be,Moderate,High,4
+4190,Yes,May Be,Moderate,High,4
+4191,Yes,May Be,Moderate,High,4
+4192,Yes,May Be,Moderate,High,4
+4193,Yes,May Be,Moderate,High,4
+4194,Yes,May Be,Moderate,High,4
+4195,Yes,May Be,Moderate,High,4
+4196,Yes,May Be,Moderate,High,4
+4197,Yes,May Be,Moderate,High,4
+4198,Yes,May Be,Moderate,High,4
+4199,Yes,May Be,Moderate,High,4
+4200,Yes,May Be,High,Low,3
+4201,Yes,May Be,High,Low,3
+4202,Yes,May Be,High,Low,3
+4203,Yes,May Be,High,Low,3
+4204,Yes,May Be,High,Low,3
+4205,Yes,May Be,High,Low,3
+4206,Yes,May Be,High,Low,3
+4207,Yes,May Be,High,Low,3
+4208,Yes,May Be,High,Low,3
+4209,Yes,May Be,High,Low,3
+4210,Yes,May Be,High,Low,3
+4211,Yes,May Be,High,Low,3
+4212,Yes,May Be,High,Low,3
+4213,Yes,May Be,High,Low,3
+4214,Yes,May Be,High,Low,3
+4215,Yes,May Be,High,Low,3
+4216,Yes,May Be,High,Low,3
+4217,Yes,May Be,High,Low,3
+4218,Yes,May Be,High,Low,3
+4219,Yes,May Be,High,Low,3
+4220,Yes,May Be,High,Low,3
+4221,Yes,May Be,High,Low,3
+4222,Yes,May Be,High,Low,3
+4223,Yes,May Be,High,Low,3
+4224,Yes,May Be,High,Low,3
+4225,Yes,May Be,High,Low,3
+4226,Yes,May Be,High,Low,3
+4227,Yes,May Be,High,Low,3
+4228,Yes,May Be,High,Low,3
+4229,Yes,May Be,High,Low,3
+4230,Yes,May Be,High,Low,3
+4231,Yes,May Be,High,Low,3
+4232,Yes,May Be,High,Low,3
+4233,Yes,May Be,High,Low,3
+4234,Yes,May Be,High,Low,3
+4235,Yes,May Be,High,Low,3
+4236,Yes,May Be,High,Low,3
+4237,Yes,May Be,High,Low,3
+4238,Yes,May Be,High,Low,3
+4239,Yes,May Be,High,Low,3
+4240,Yes,May Be,High,Low,3
+4241,Yes,May Be,High,Low,3
+4242,Yes,May Be,High,Low,3
+4243,Yes,May Be,High,Low,3
+4244,Yes,May Be,High,Low,3
+4245,Yes,May Be,High,Low,3
+4246,Yes,May Be,High,Low,3
+4247,Yes,May Be,High,Low,3
+4248,Yes,May Be,High,Low,3
+4249,Yes,May Be,High,Low,3
+4250,Yes,May Be,High,Low,3
+4251,Yes,May Be,High,Low,3
+4252,Yes,May Be,High,Low,3
+4253,Yes,May Be,High,Low,3
+4254,Yes,May Be,High,Low,3
+4255,Yes,May Be,High,Low,3
+4256,Yes,May Be,High,Low,3
+4257,Yes,May Be,High,Low,3
+4258,Yes,May Be,High,Low,3
+4259,Yes,May Be,High,Moderate,4
+4260,Yes,May Be,High,Moderate,4
+4261,Yes,May Be,High,Moderate,4
+4262,Yes,May Be,High,Moderate,4
+4263,Yes,May Be,High,Moderate,4
+4264,Yes,May Be,High,Moderate,4
+4265,Yes,May Be,High,Moderate,4
+4266,Yes,May Be,High,Moderate,4
+4267,Yes,May Be,High,Moderate,4
+4268,Yes,May Be,High,Moderate,4
+4269,Yes,May Be,High,Moderate,4
+4270,Yes,May Be,High,Moderate,4
+4271,Yes,May Be,High,Moderate,4
+4272,Yes,May Be,High,Moderate,4
+4273,Yes,May Be,High,Moderate,4
+4274,Yes,May Be,High,Moderate,4
+4275,Yes,May Be,High,Moderate,4
+4276,Yes,May Be,High,Moderate,4
+4277,Yes,May Be,High,Moderate,4
+4278,Yes,May Be,High,Moderate,4
+4279,Yes,May Be,High,Moderate,4
+4280,Yes,May Be,High,Moderate,4
+4281,Yes,May Be,High,Moderate,4
+4282,Yes,May Be,High,Moderate,4
+4283,Yes,May Be,High,Moderate,4
+4284,Yes,May Be,High,Moderate,4
+4285,Yes,May Be,High,Moderate,4
+4286,Yes,May Be,High,Moderate,4
+4287,Yes,May Be,High,Moderate,4
+4288,Yes,May Be,High,Moderate,4
+4289,Yes,May Be,High,Moderate,4
+4290,Yes,May Be,High,Moderate,4
+4291,Yes,May Be,High,Moderate,4
+4292,Yes,May Be,High,Moderate,4
+4293,Yes,May Be,High,Moderate,4
+4294,Yes,May Be,High,Moderate,4
+4295,Yes,May Be,High,Moderate,4
+4296,Yes,May Be,High,Moderate,4
+4297,Yes,May Be,High,Moderate,4
+4298,Yes,May Be,High,Moderate,4
+4299,Yes,May Be,High,Moderate,4
+4300,Yes,May Be,High,Moderate,4
+4301,Yes,May Be,High,Moderate,4
+4302,Yes,May Be,High,Moderate,4
+4303,Yes,May Be,High,Moderate,4
+4304,Yes,May Be,High,Moderate,4
+4305,Yes,May Be,High,Moderate,4
+4306,Yes,May Be,High,Moderate,4
+4307,Yes,May Be,High,Moderate,4
+4308,Yes,May Be,High,Moderate,4
+4309,Yes,May Be,High,Moderate,4
+4310,Yes,May Be,High,Moderate,4
+4311,Yes,May Be,High,Moderate,4
+4312,Yes,May Be,High,Moderate,4
+4313,Yes,May Be,High,Moderate,4
+4314,Yes,May Be,High,Moderate,4
+4315,Yes,May Be,High,Moderate,4
+4316,Yes,May Be,High,Moderate,4
+4317,Yes,May Be,High,Moderate,4
+4318,Yes,May Be,High,Moderate,4
+4319,Yes,May Be,High,Moderate,4
+4320,Yes,May Be,High,Moderate,4
+4321,Yes,May Be,High,Moderate,4
+4322,Yes,May Be,High,Moderate,4
+4323,Yes,May Be,High,Moderate,4
+4324,Yes,May Be,High,Moderate,4
+4325,Yes,May Be,High,Moderate,4
+4326,Yes,May Be,High,Moderate,4
+4327,Yes,May Be,High,Moderate,4
+4328,Yes,May Be,High,Moderate,4
+4329,Yes,May Be,High,Moderate,4
+4330,Yes,May Be,High,Moderate,4
+4331,Yes,May Be,High,Moderate,4
+4332,Yes,May Be,High,Moderate,4
+4333,Yes,May Be,High,Moderate,4
+4334,Yes,May Be,High,Moderate,4
+4335,Yes,May Be,High,Moderate,4
+4336,Yes,May Be,High,Moderate,4
+4337,Yes,May Be,High,Moderate,4
+4338,Yes,May Be,High,Moderate,4
+4339,Yes,May Be,High,Moderate,4
+4340,Yes,May Be,High,Moderate,4
+4341,Yes,May Be,High,Moderate,4
+4342,Yes,May Be,High,High,4
+4343,Yes,May Be,High,High,4
+4344,Yes,May Be,High,High,4
+4345,Yes,May Be,High,High,4
+4346,Yes,May Be,High,High,4
+4347,Yes,May Be,High,High,4
+4348,Yes,May Be,High,High,4
+4349,Yes,May Be,High,High,4
+4350,Yes,May Be,High,High,4
+4351,Yes,May Be,High,High,4
+4352,Yes,May Be,High,High,4
+4353,Yes,May Be,High,High,4
+4354,Yes,May Be,High,High,4
+4355,Yes,May Be,High,High,4
+4356,Yes,May Be,High,High,4
+4357,Yes,May Be,High,High,4
+4358,Yes,May Be,High,High,4
+4359,Yes,May Be,High,High,4
+4360,Yes,May Be,High,High,4
+4361,Yes,May Be,High,High,4
+4362,Yes,May Be,High,High,4
+4363,Yes,May Be,High,High,4
+4364,Yes,May Be,High,High,4
+4365,Yes,May Be,High,High,4
+4366,Yes,May Be,High,High,4
+4367,Yes,May Be,High,High,4
+4368,Yes,May Be,High,High,4
+4369,Yes,May Be,High,High,4
+4370,Yes,May Be,High,High,4
+4371,Yes,May Be,High,High,4
+4372,Yes,May Be,High,High,4
+4373,Yes,May Be,High,High,4
+4374,Yes,May Be,High,High,4
+4375,Yes,May Be,High,High,4
+4376,Yes,May Be,High,High,4
+4377,Yes,May Be,High,High,4
+4378,Yes,May Be,High,High,4
+4379,Yes,May Be,High,High,4
+4380,Yes,May Be,High,High,4
+4381,Yes,May Be,High,High,4
+4382,Yes,May Be,High,High,4
+4383,Yes,May Be,High,High,4
+4384,Yes,May Be,High,High,4
+4385,Yes,May Be,High,High,4
+4386,Yes,May Be,High,High,4
+4387,Yes,May Be,High,High,4
+4388,Yes,May Be,High,High,4
+4389,Yes,May Be,High,High,4
+4390,Yes,May Be,High,High,4
+4391,Yes,May Be,High,High,4
+4392,Yes,May Be,High,High,4
+4393,Yes,May Be,High,High,4
+4394,Yes,May Be,High,High,4
+4395,Yes,May Be,High,High,4
+4396,Yes,May Be,High,High,4
+4397,Yes,May Be,High,High,4
+4398,Yes,May Be,High,High,4
+4399,Yes,May Be,High,High,4
+4400,Yes,May Be,High,High,4
+4401,Yes,May Be,High,High,4
+4402,Yes,May Be,High,High,4
+4403,Yes,May Be,High,High,4
+4404,Yes,May Be,High,High,4
+4405,Yes,May Be,High,High,4
+4406,Yes,May Be,High,High,4
+4407,Yes,May Be,High,High,4
+4408,Yes,May Be,High,High,4
+4409,Yes,May Be,High,High,4
+4410,Yes,May Be,High,High,4
+4411,Yes,May Be,High,High,4
+4412,Yes,May Be,High,High,4
+4413,Yes,May Be,High,High,4
+4414,Yes,May Be,High,High,4
+4415,Yes,May Be,High,High,4
+4416,Yes,May Be,High,High,4
+4417,Yes,May Be,High,High,4
+4418,Yes,May Be,High,High,4
+4419,Yes,May Be,High,High,4
+4420,Yes,May Be,High,High,4
+4421,Yes,May Be,High,High,4
+4422,Yes,May Be,High,High,4
+4423,Yes,May Be,High,High,4
+4424,Yes,May Be,High,High,4
+4425,Yes,Yes,Low,Low,1
+4426,Yes,Yes,Low,Low,1
+4427,Yes,Yes,Low,Low,1
+4428,Yes,Yes,Low,Low,1
+4429,Yes,Yes,Low,Low,1
+4430,Yes,Yes,Low,Low,1
+4431,Yes,Yes,Low,Low,1
+4432,Yes,Yes,Low,Low,1
+4433,Yes,Yes,Low,Low,1
+4434,Yes,Yes,Low,Low,1
+4435,Yes,Yes,Low,Low,1
+4436,Yes,Yes,Low,Low,1
+4437,Yes,Yes,Low,Low,1
+4438,Yes,Yes,Low,Low,1
+4439,Yes,Yes,Low,Low,1
+4440,Yes,Yes,Low,Low,1
+4441,Yes,Yes,Low,Low,1
+4442,Yes,Yes,Low,Low,1
+4443,Yes,Yes,Low,Low,1
+4444,Yes,Yes,Low,Low,1
+4445,Yes,Yes,Low,Low,1
+4446,Yes,Yes,Low,Low,1
+4447,Yes,Yes,Low,Low,1
+4448,Yes,Yes,Low,Low,1
+4449,Yes,Yes,Low,Low,1
+4450,Yes,Yes,Low,Low,1
+4451,Yes,Yes,Low,Low,1
+4452,Yes,Yes,Low,Low,1
+4453,Yes,Yes,Low,Low,1
+4454,Yes,Yes,Low,Low,1
+4455,Yes,Yes,Low,Low,1
+4456,Yes,Yes,Low,Low,1
+4457,Yes,Yes,Low,Low,1
+4458,Yes,Yes,Low,Low,1
+4459,Yes,Yes,Low,Low,1
+4460,Yes,Yes,Low,Low,1
+4461,Yes,Yes,Low,Low,1
+4462,Yes,Yes,Low,Low,1
+4463,Yes,Yes,Low,Low,1
+4464,Yes,Yes,Low,Low,1
+4465,Yes,Yes,Low,Low,1
+4466,Yes,Yes,Low,Low,1
+4467,Yes,Yes,Low,Low,1
+4468,Yes,Yes,Low,Low,1
+4469,Yes,Yes,Low,Low,1
+4470,Yes,Yes,Low,Low,1
+4471,Yes,Yes,Low,Low,1
+4472,Yes,Yes,Low,Low,1
+4473,Yes,Yes,Low,Low,1
+4474,Yes,Yes,Low,Low,1
+4475,Yes,Yes,Low,Moderate,2
+4476,Yes,Yes,Low,Moderate,2
+4477,Yes,Yes,Low,Moderate,2
+4478,Yes,Yes,Low,Moderate,2
+4479,Yes,Yes,Low,Moderate,2
+4480,Yes,Yes,Low,Moderate,2
+4481,Yes,Yes,Low,Moderate,2
+4482,Yes,Yes,Low,Moderate,2
+4483,Yes,Yes,Low,Moderate,2
+4484,Yes,Yes,Low,Moderate,2
+4485,Yes,Yes,Low,Moderate,2
+4486,Yes,Yes,Low,Moderate,2
+4487,Yes,Yes,Low,Moderate,2
+4488,Yes,Yes,Low,Moderate,2
+4489,Yes,Yes,Low,Moderate,2
+4490,Yes,Yes,Low,Moderate,2
+4491,Yes,Yes,Low,Moderate,2
+4492,Yes,Yes,Low,Moderate,2
+4493,Yes,Yes,Low,Moderate,2
+4494,Yes,Yes,Low,Moderate,2
+4495,Yes,Yes,Low,Moderate,2
+4496,Yes,Yes,Low,Moderate,2
+4497,Yes,Yes,Low,Moderate,2
+4498,Yes,Yes,Low,Moderate,2
+4499,Yes,Yes,Low,Moderate,2
+4500,Yes,Yes,Low,Moderate,2
+4501,Yes,Yes,Low,Moderate,2
+4502,Yes,Yes,Low,Moderate,2
+4503,Yes,Yes,Low,Moderate,2
+4504,Yes,Yes,Low,Moderate,2
+4505,Yes,Yes,Low,Moderate,2
+4506,Yes,Yes,Low,Moderate,2
+4507,Yes,Yes,Low,Moderate,2
+4508,Yes,Yes,Low,Moderate,2
+4509,Yes,Yes,Low,Moderate,2
+4510,Yes,Yes,Low,Moderate,2
+4511,Yes,Yes,Low,Moderate,2
+4512,Yes,Yes,Low,Moderate,2
+4513,Yes,Yes,Low,Moderate,2
+4514,Yes,Yes,Low,Moderate,2
+4515,Yes,Yes,Low,Moderate,2
+4516,Yes,Yes,Low,Moderate,2
+4517,Yes,Yes,Low,Moderate,2
+4518,Yes,Yes,Low,High,3
+4519,Yes,Yes,Low,High,3
+4520,Yes,Yes,Low,High,3
+4521,Yes,Yes,Low,High,3
+4522,Yes,Yes,Low,High,3
+4523,Yes,Yes,Low,High,3
+4524,Yes,Yes,Low,High,3
+4525,Yes,Yes,Low,High,3
+4526,Yes,Yes,Low,High,3
+4527,Yes,Yes,Low,High,3
+4528,Yes,Yes,Low,High,3
+4529,Yes,Yes,Low,High,3
+4530,Yes,Yes,Low,High,3
+4531,Yes,Yes,Low,High,3
+4532,Yes,Yes,Low,High,3
+4533,Yes,Yes,Low,High,3
+4534,Yes,Yes,Low,High,3
+4535,Yes,Yes,Low,High,3
+4536,Yes,Yes,Low,High,3
+4537,Yes,Yes,Low,High,3
+4538,Yes,Yes,Low,High,3
+4539,Yes,Yes,Low,High,3
+4540,Yes,Yes,Low,High,3
+4541,Yes,Yes,Low,High,3
+4542,Yes,Yes,Low,High,3
+4543,Yes,Yes,Low,High,3
+4544,Yes,Yes,Low,High,3
+4545,Yes,Yes,Low,High,3
+4546,Yes,Yes,Low,High,3
+4547,Yes,Yes,Low,High,3
+4548,Yes,Yes,Low,High,3
+4549,Yes,Yes,Low,High,3
+4550,Yes,Yes,Low,High,3
+4551,Yes,Yes,Low,High,3
+4552,Yes,Yes,Low,High,3
+4553,Yes,Yes,Low,High,3
+4554,Yes,Yes,Low,High,3
+4555,Yes,Yes,Low,High,3
+4556,Yes,Yes,Low,High,3
+4557,Yes,Yes,Low,High,3
+4558,Yes,Yes,Low,High,3
+4559,Yes,Yes,Low,High,3
+4560,Yes,Yes,Low,High,3
+4561,Yes,Yes,Low,High,3
+4562,Yes,Yes,Low,High,3
+4563,Yes,Yes,Low,High,3
+4564,Yes,Yes,Low,High,3
+4565,Yes,Yes,Low,High,3
+4566,Yes,Yes,Low,High,3
+4567,Yes,Yes,Low,High,3
+4568,Yes,Yes,Low,High,3
+4569,Yes,Yes,Low,High,3
+4570,Yes,Yes,Low,High,3
+4571,Yes,Yes,Low,High,3
+4572,Yes,Yes,Low,High,3
+4573,Yes,Yes,Low,High,3
+4574,Yes,Yes,Low,High,3
+4575,Yes,Yes,Low,High,3
+4576,Yes,Yes,Low,High,3
+4577,Yes,Yes,Moderate,Low,2
+4578,Yes,Yes,Moderate,Low,2
+4579,Yes,Yes,Moderate,Low,2
+4580,Yes,Yes,Moderate,Low,2
+4581,Yes,Yes,Moderate,Low,2
+4582,Yes,Yes,Moderate,Low,2
+4583,Yes,Yes,Moderate,Low,2
+4584,Yes,Yes,Moderate,Low,2
+4585,Yes,Yes,Moderate,Low,2
+4586,Yes,Yes,Moderate,Low,2
+4587,Yes,Yes,Moderate,Low,2
+4588,Yes,Yes,Moderate,Low,2
+4589,Yes,Yes,Moderate,Low,2
+4590,Yes,Yes,Moderate,Low,2
+4591,Yes,Yes,Moderate,Low,2
+4592,Yes,Yes,Moderate,Low,2
+4593,Yes,Yes,Moderate,Low,2
+4594,Yes,Yes,Moderate,Low,2
+4595,Yes,Yes,Moderate,Low,2
+4596,Yes,Yes,Moderate,Low,2
+4597,Yes,Yes,Moderate,Low,2
+4598,Yes,Yes,Moderate,Low,2
+4599,Yes,Yes,Moderate,Low,2
+4600,Yes,Yes,Moderate,Low,2
+4601,Yes,Yes,Moderate,Low,2
+4602,Yes,Yes,Moderate,Low,2
+4603,Yes,Yes,Moderate,Low,2
+4604,Yes,Yes,Moderate,Low,2
+4605,Yes,Yes,Moderate,Low,2
+4606,Yes,Yes,Moderate,Low,2
+4607,Yes,Yes,Moderate,Low,2
+4608,Yes,Yes,Moderate,Low,2
+4609,Yes,Yes,Moderate,Low,2
+4610,Yes,Yes,Moderate,Low,2
+4611,Yes,Yes,Moderate,Low,2
+4612,Yes,Yes,Moderate,Low,2
+4613,Yes,Yes,Moderate,Low,2
+4614,Yes,Yes,Moderate,Low,2
+4615,Yes,Yes,Moderate,Low,2
+4616,Yes,Yes,Moderate,Low,2
+4617,Yes,Yes,Moderate,Low,2
+4618,Yes,Yes,Moderate,Low,2
+4619,Yes,Yes,Moderate,Low,2
+4620,Yes,Yes,Moderate,Moderate,3
+4621,Yes,Yes,Moderate,Moderate,3
+4622,Yes,Yes,Moderate,Moderate,3
+4623,Yes,Yes,Moderate,Moderate,3
+4624,Yes,Yes,Moderate,Moderate,3
+4625,Yes,Yes,Moderate,Moderate,3
+4626,Yes,Yes,Moderate,Moderate,3
+4627,Yes,Yes,Moderate,Moderate,3
+4628,Yes,Yes,Moderate,Moderate,3
+4629,Yes,Yes,Moderate,Moderate,3
+4630,Yes,Yes,Moderate,Moderate,3
+4631,Yes,Yes,Moderate,Moderate,3
+4632,Yes,Yes,Moderate,Moderate,3
+4633,Yes,Yes,Moderate,Moderate,3
+4634,Yes,Yes,Moderate,Moderate,3
+4635,Yes,Yes,Moderate,Moderate,3
+4636,Yes,Yes,Moderate,Moderate,3
+4637,Yes,Yes,Moderate,Moderate,3
+4638,Yes,Yes,Moderate,Moderate,3
+4639,Yes,Yes,Moderate,Moderate,3
+4640,Yes,Yes,Moderate,Moderate,3
+4641,Yes,Yes,Moderate,Moderate,3
+4642,Yes,Yes,Moderate,Moderate,3
+4643,Yes,Yes,Moderate,Moderate,3
+4644,Yes,Yes,Moderate,Moderate,3
+4645,Yes,Yes,Moderate,Moderate,3
+4646,Yes,Yes,Moderate,Moderate,3
+4647,Yes,Yes,Moderate,Moderate,3
+4648,Yes,Yes,Moderate,Moderate,3
+4649,Yes,Yes,Moderate,Moderate,3
+4650,Yes,Yes,Moderate,Moderate,3
+4651,Yes,Yes,Moderate,Moderate,3
+4652,Yes,Yes,Moderate,Moderate,3
+4653,Yes,Yes,Moderate,Moderate,3
+4654,Yes,Yes,Moderate,Moderate,3
+4655,Yes,Yes,Moderate,Moderate,3
+4656,Yes,Yes,Moderate,Moderate,3
+4657,Yes,Yes,Moderate,Moderate,3
+4658,Yes,Yes,Moderate,Moderate,3
+4659,Yes,Yes,Moderate,Moderate,3
+4660,Yes,Yes,Moderate,Moderate,3
+4661,Yes,Yes,Moderate,Moderate,3
+4662,Yes,Yes,Moderate,Moderate,3
+4663,Yes,Yes,Moderate,Moderate,3
+4664,Yes,Yes,Moderate,Moderate,3
+4665,Yes,Yes,Moderate,Moderate,3
+4666,Yes,Yes,Moderate,Moderate,3
+4667,Yes,Yes,Moderate,Moderate,3
+4668,Yes,Yes,Moderate,Moderate,3
+4669,Yes,Yes,Moderate,Moderate,3
+4670,Yes,Yes,Moderate,Moderate,3
+4671,Yes,Yes,Moderate,Moderate,3
+4672,Yes,Yes,Moderate,Moderate,3
+4673,Yes,Yes,Moderate,Moderate,3
+4674,Yes,Yes,Moderate,Moderate,3
+4675,Yes,Yes,Moderate,Moderate,3
+4676,Yes,Yes,Moderate,Moderate,3
+4677,Yes,Yes,Moderate,Moderate,3
+4678,Yes,Yes,Moderate,Moderate,3
+4679,Yes,Yes,Moderate,High,4
+4680,Yes,Yes,Moderate,High,4
+4681,Yes,Yes,Moderate,High,4
+4682,Yes,Yes,Moderate,High,4
+4683,Yes,Yes,Moderate,High,4
+4684,Yes,Yes,Moderate,High,4
+4685,Yes,Yes,Moderate,High,4
+4686,Yes,Yes,Moderate,High,4
+4687,Yes,Yes,Moderate,High,4
+4688,Yes,Yes,Moderate,High,4
+4689,Yes,Yes,Moderate,High,4
+4690,Yes,Yes,Moderate,High,4
+4691,Yes,Yes,Moderate,High,4
+4692,Yes,Yes,Moderate,High,4
+4693,Yes,Yes,Moderate,High,4
+4694,Yes,Yes,Moderate,High,4
+4695,Yes,Yes,Moderate,High,4
+4696,Yes,Yes,Moderate,High,4
+4697,Yes,Yes,Moderate,High,4
+4698,Yes,Yes,Moderate,High,4
+4699,Yes,Yes,Moderate,High,4
+4700,Yes,Yes,Moderate,High,4
+4701,Yes,Yes,Moderate,High,4
+4702,Yes,Yes,Moderate,High,4
+4703,Yes,Yes,Moderate,High,4
+4704,Yes,Yes,Moderate,High,4
+4705,Yes,Yes,Moderate,High,4
+4706,Yes,Yes,Moderate,High,4
+4707,Yes,Yes,Moderate,High,4
+4708,Yes,Yes,Moderate,High,4
+4709,Yes,Yes,Moderate,High,4
+4710,Yes,Yes,Moderate,High,4
+4711,Yes,Yes,Moderate,High,4
+4712,Yes,Yes,Moderate,High,4
+4713,Yes,Yes,Moderate,High,4
+4714,Yes,Yes,Moderate,High,4
+4715,Yes,Yes,Moderate,High,4
+4716,Yes,Yes,Moderate,High,4
+4717,Yes,Yes,Moderate,High,4
+4718,Yes,Yes,Moderate,High,4
+4719,Yes,Yes,Moderate,High,4
+4720,Yes,Yes,Moderate,High,4
+4721,Yes,Yes,Moderate,High,4
+4722,Yes,Yes,Moderate,High,4
+4723,Yes,Yes,Moderate,High,4
+4724,Yes,Yes,Moderate,High,4
+4725,Yes,Yes,Moderate,High,4
+4726,Yes,Yes,Moderate,High,4
+4727,Yes,Yes,Moderate,High,4
+4728,Yes,Yes,Moderate,High,4
+4729,Yes,Yes,Moderate,High,4
+4730,Yes,Yes,Moderate,High,4
+4731,Yes,Yes,Moderate,High,4
+4732,Yes,Yes,Moderate,High,4
+4733,Yes,Yes,Moderate,High,4
+4734,Yes,Yes,Moderate,High,4
+4735,Yes,Yes,Moderate,High,4
+4736,Yes,Yes,Moderate,High,4
+4737,Yes,Yes,Moderate,High,4
+4738,Yes,Yes,Moderate,High,4
+4739,Yes,Yes,Moderate,High,4
+4740,Yes,Yes,Moderate,High,4
+4741,Yes,Yes,Moderate,High,4
+4742,Yes,Yes,Moderate,High,4
+4743,Yes,Yes,Moderate,High,4
+4744,Yes,Yes,Moderate,High,4
+4745,Yes,Yes,Moderate,High,4
+4746,Yes,Yes,Moderate,High,4
+4747,Yes,Yes,Moderate,High,4
+4748,Yes,Yes,Moderate,High,4
+4749,Yes,Yes,Moderate,High,4
+4750,Yes,Yes,Moderate,High,4
+4751,Yes,Yes,Moderate,High,4
+4752,Yes,Yes,Moderate,High,4
+4753,Yes,Yes,Moderate,High,4
+4754,Yes,Yes,Moderate,High,4
+4755,Yes,Yes,Moderate,High,4
+4756,Yes,Yes,Moderate,High,4
+4757,Yes,Yes,Moderate,High,4
+4758,Yes,Yes,Moderate,High,4
+4759,Yes,Yes,Moderate,High,4
+4760,Yes,Yes,Moderate,High,4
+4761,Yes,Yes,Moderate,High,4
+4762,Yes,Yes,High,Low,3
+4763,Yes,Yes,High,Low,3
+4764,Yes,Yes,High,Low,3
+4765,Yes,Yes,High,Low,3
+4766,Yes,Yes,High,Low,3
+4767,Yes,Yes,High,Low,3
+4768,Yes,Yes,High,Low,3
+4769,Yes,Yes,High,Low,3
+4770,Yes,Yes,High,Low,3
+4771,Yes,Yes,High,Low,3
+4772,Yes,Yes,High,Low,3
+4773,Yes,Yes,High,Low,3
+4774,Yes,Yes,High,Low,3
+4775,Yes,Yes,High,Low,3
+4776,Yes,Yes,High,Low,3
+4777,Yes,Yes,High,Low,3
+4778,Yes,Yes,High,Low,3
+4779,Yes,Yes,High,Low,3
+4780,Yes,Yes,High,Low,3
+4781,Yes,Yes,High,Low,3
+4782,Yes,Yes,High,Low,3
+4783,Yes,Yes,High,Low,3
+4784,Yes,Yes,High,Low,3
+4785,Yes,Yes,High,Low,3
+4786,Yes,Yes,High,Low,3
+4787,Yes,Yes,High,Low,3
+4788,Yes,Yes,High,Low,3
+4789,Yes,Yes,High,Low,3
+4790,Yes,Yes,High,Low,3
+4791,Yes,Yes,High,Low,3
+4792,Yes,Yes,High,Low,3
+4793,Yes,Yes,High,Low,3
+4794,Yes,Yes,High,Low,3
+4795,Yes,Yes,High,Low,3
+4796,Yes,Yes,High,Low,3
+4797,Yes,Yes,High,Low,3
+4798,Yes,Yes,High,Low,3
+4799,Yes,Yes,High,Low,3
+4800,Yes,Yes,High,Low,3
+4801,Yes,Yes,High,Low,3
+4802,Yes,Yes,High,Low,3
+4803,Yes,Yes,High,Low,3
+4804,Yes,Yes,High,Low,3
+4805,Yes,Yes,High,Low,3
+4806,Yes,Yes,High,Low,3
+4807,Yes,Yes,High,Low,3
+4808,Yes,Yes,High,Low,3
+4809,Yes,Yes,High,Low,3
+4810,Yes,Yes,High,Low,3
+4811,Yes,Yes,High,Low,3
+4812,Yes,Yes,High,Low,3
+4813,Yes,Yes,High,Low,3
+4814,Yes,Yes,High,Low,3
+4815,Yes,Yes,High,Low,3
+4816,Yes,Yes,High,Low,3
+4817,Yes,Yes,High,Low,3
+4818,Yes,Yes,High,Low,3
+4819,Yes,Yes,High,Low,3
+4820,Yes,Yes,High,Low,3
+4821,Yes,Yes,High,Moderate,4
+4822,Yes,Yes,High,Moderate,4
+4823,Yes,Yes,High,Moderate,4
+4824,Yes,Yes,High,Moderate,4
+4825,Yes,Yes,High,Moderate,4
+4826,Yes,Yes,High,Moderate,4
+4827,Yes,Yes,High,Moderate,4
+4828,Yes,Yes,High,Moderate,4
+4829,Yes,Yes,High,Moderate,4
+4830,Yes,Yes,High,Moderate,4
+4831,Yes,Yes,High,Moderate,4
+4832,Yes,Yes,High,Moderate,4
+4833,Yes,Yes,High,Moderate,4
+4834,Yes,Yes,High,Moderate,4
+4835,Yes,Yes,High,Moderate,4
+4836,Yes,Yes,High,Moderate,4
+4837,Yes,Yes,High,Moderate,4
+4838,Yes,Yes,High,Moderate,4
+4839,Yes,Yes,High,Moderate,4
+4840,Yes,Yes,High,Moderate,4
+4841,Yes,Yes,High,Moderate,4
+4842,Yes,Yes,High,Moderate,4
+4843,Yes,Yes,High,Moderate,4
+4844,Yes,Yes,High,Moderate,4
+4845,Yes,Yes,High,Moderate,4
+4846,Yes,Yes,High,Moderate,4
+4847,Yes,Yes,High,Moderate,4
+4848,Yes,Yes,High,Moderate,4
+4849,Yes,Yes,High,Moderate,4
+4850,Yes,Yes,High,Moderate,4
+4851,Yes,Yes,High,Moderate,4
+4852,Yes,Yes,High,Moderate,4
+4853,Yes,Yes,High,Moderate,4
+4854,Yes,Yes,High,Moderate,4
+4855,Yes,Yes,High,Moderate,4
+4856,Yes,Yes,High,Moderate,4
+4857,Yes,Yes,High,Moderate,4
+4858,Yes,Yes,High,Moderate,4
+4859,Yes,Yes,High,Moderate,4
+4860,Yes,Yes,High,Moderate,4
+4861,Yes,Yes,High,Moderate,4
+4862,Yes,Yes,High,Moderate,4
+4863,Yes,Yes,High,Moderate,4
+4864,Yes,Yes,High,Moderate,4
+4865,Yes,Yes,High,Moderate,4
+4866,Yes,Yes,High,Moderate,4
+4867,Yes,Yes,High,Moderate,4
+4868,Yes,Yes,High,Moderate,4
+4869,Yes,Yes,High,Moderate,4
+4870,Yes,Yes,High,Moderate,4
+4871,Yes,Yes,High,Moderate,4
+4872,Yes,Yes,High,Moderate,4
+4873,Yes,Yes,High,Moderate,4
+4874,Yes,Yes,High,Moderate,4
+4875,Yes,Yes,High,Moderate,4
+4876,Yes,Yes,High,Moderate,4
+4877,Yes,Yes,High,Moderate,4
+4878,Yes,Yes,High,Moderate,4
+4879,Yes,Yes,High,Moderate,4
+4880,Yes,Yes,High,Moderate,4
+4881,Yes,Yes,High,Moderate,4
+4882,Yes,Yes,High,Moderate,4
+4883,Yes,Yes,High,Moderate,4
+4884,Yes,Yes,High,Moderate,4
+4885,Yes,Yes,High,Moderate,4
+4886,Yes,Yes,High,Moderate,4
+4887,Yes,Yes,High,Moderate,4
+4888,Yes,Yes,High,Moderate,4
+4889,Yes,Yes,High,Moderate,4
+4890,Yes,Yes,High,Moderate,4
+4891,Yes,Yes,High,Moderate,4
+4892,Yes,Yes,High,Moderate,4
+4893,Yes,Yes,High,Moderate,4
+4894,Yes,Yes,High,Moderate,4
+4895,Yes,Yes,High,Moderate,4
+4896,Yes,Yes,High,Moderate,4
+4897,Yes,Yes,High,Moderate,4
+4898,Yes,Yes,High,Moderate,4
+4899,Yes,Yes,High,Moderate,4
+4900,Yes,Yes,High,Moderate,4
+4901,Yes,Yes,High,Moderate,4
+4902,Yes,Yes,High,Moderate,4
+4903,Yes,Yes,High,Moderate,4
+4904,Yes,Yes,High,High,4
+4905,Yes,Yes,High,High,4
+4906,Yes,Yes,High,High,4
+4907,Yes,Yes,High,High,4
+4908,Yes,Yes,High,High,4
+4909,Yes,Yes,High,High,4
+4910,Yes,Yes,High,High,4
+4911,Yes,Yes,High,High,4
+4912,Yes,Yes,High,High,4
+4913,Yes,Yes,High,High,4
+4914,Yes,Yes,High,High,4
+4915,Yes,Yes,High,High,4
+4916,Yes,Yes,High,High,4
+4917,Yes,Yes,High,High,4
+4918,Yes,Yes,High,High,4
+4919,Yes,Yes,High,High,4
+4920,Yes,Yes,High,High,4
+4921,Yes,Yes,High,High,4
+4922,Yes,Yes,High,High,4
+4923,Yes,Yes,High,High,4
+4924,Yes,Yes,High,High,4
+4925,Yes,Yes,High,High,4
+4926,Yes,Yes,High,High,4
+4927,Yes,Yes,High,High,4
+4928,Yes,Yes,High,High,4
+4929,Yes,Yes,High,High,4
+4930,Yes,Yes,High,High,4
+4931,Yes,Yes,High,High,4
+4932,Yes,Yes,High,High,4
+4933,Yes,Yes,High,High,4
+4934,Yes,Yes,High,High,4
+4935,Yes,Yes,High,High,4
+4936,Yes,Yes,High,High,4
+4937,Yes,Yes,High,High,4
+4938,Yes,Yes,High,High,4
+4939,Yes,Yes,High,High,4
+4940,Yes,Yes,High,High,4
+4941,Yes,Yes,High,High,4
+4942,Yes,Yes,High,High,4
+4943,Yes,Yes,High,High,4
+4944,Yes,Yes,High,High,4
+4945,Yes,Yes,High,High,4
+4946,Yes,Yes,High,High,4
+4947,Yes,Yes,High,High,4
+4948,Yes,Yes,High,High,4
+4949,Yes,Yes,High,High,4
+4950,Yes,Yes,High,High,4
+4951,Yes,Yes,High,High,4
+4952,Yes,Yes,High,High,4
+4953,Yes,Yes,High,High,4
+4954,Yes,Yes,High,High,4
+4955,Yes,Yes,High,High,4
+4956,Yes,Yes,High,High,4
+4957,Yes,Yes,High,High,4
+4958,Yes,Yes,High,High,4
+4959,Yes,Yes,High,High,4
+4960,Yes,Yes,High,High,4
+4961,Yes,Yes,High,High,4
+4962,Yes,Yes,High,High,4
+4963,Yes,Yes,High,High,4
+4964,Yes,Yes,High,High,4
+4965,Yes,Yes,High,High,4
+4966,Yes,Yes,High,High,4
+4967,Yes,Yes,High,High,4
+4968,Yes,Yes,High,High,4
+4969,Yes,Yes,High,High,4
+4970,Yes,Yes,High,High,4
+4971,Yes,Yes,High,High,4
+4972,Yes,Yes,High,High,4
+4973,Yes,Yes,High,High,4
+4974,Yes,Yes,High,High,4
+4975,Yes,Yes,High,High,4
+4976,Yes,Yes,High,High,4
+4977,Yes,Yes,High,High,4
+4978,Yes,Yes,High,High,4
+4979,Yes,Yes,High,High,4
+4980,Yes,Yes,High,High,4
+4981,Yes,Yes,High,High,4
+4982,Yes,Yes,High,High,4
+4983,Yes,Yes,High,High,4
+4984,Yes,Yes,High,High,4
+4985,Yes,Yes,High,High,4
+4986,Yes,Yes,High,High,4
