@@ -1,0 +1,506 @@
+,LOCATION,CAMERA,POLICE,VISIBILTY,POPULATION,SAFETY
+0,Bus Stand,Yes,Yes,Low,Moderate,2
+1,Bus Stand,Yes,Yes,Low,High,3
+2,Bus Stand,Yes,Yes,Low,Moderate,3
+3,Bus Stand,Yes,Yes,Low,High,4
+4,Bus Stand,Yes,Yes,Moderate,Moderate,3
+5,Bus Stand,Yes,Yes,Moderate,High,4
+6,Bus Stand,Yes,Yes,High,Moderate,4
+7,Bus Stand,Yes,Yes,High,High,4
+8,Bus Stand,Yes,Yes,High,Moderate,4
+9,Bus Stand,Yes,Yes,High,High,4
+10,Shri Aurobindo International School,Yes,Yes,Low,Low,0
+11,Shri Aurobindo International School,Yes,Yes,Low,Moderate,2
+12,Shri Aurobindo International School,Yes,Yes,Low,High,4
+13,Shri Aurobindo International School,Yes,Yes,Low,Low,0
+14,Shri Aurobindo International School,Yes,Yes,Low,Moderate,2
+15,Shri Aurobindo International School,Yes,Yes,Low,High,4
+16,Shri Aurobindo International School,Yes,Yes,Moderate,Low,1
+17,Shri Aurobindo International School,Yes,Yes,Moderate,Moderate,3
+18,Shri Aurobindo International School,Yes,Yes,Moderate,High,4
+19,Shri Aurobindo International School,Yes,Yes,High,Low,2
+20,Shri Aurobindo International School,Yes,Yes,High,Moderate,3
+21,Shri Aurobindo International School,Yes,Yes,High,High,4
+22,Shri Aurobindo International School,Yes,Yes,High,Low,2
+23,Shri Aurobindo International School,Yes,Yes,High,Moderate,3
+24,Shri Aurobindo International School,Yes,Yes,High,High,4
+25,Saanjh Kendra Patiala,May Be,No,Low,Low,0
+26,Saanjh Kendra Patiala,May Be,No,Low,Moderate,0
+27,Saanjh Kendra Patiala,May Be,No,Low,High,0
+28,Saanjh Kendra Patiala,May Be,No,Low,Low,0
+29,Saanjh Kendra Patiala,May Be,No,Low,Moderate,1
+30,Saanjh Kendra Patiala,May Be,No,Low,High,2
+31,Saanjh Kendra Patiala,May Be,No,Moderate,Low,1
+32,Saanjh Kendra Patiala,May Be,No,Moderate,Moderate,2
+33,Saanjh Kendra Patiala,May Be,No,Moderate,High,3
+34,Saanjh Kendra Patiala,May Be,No,High,Low,1
+35,Saanjh Kendra Patiala,May Be,No,High,Moderate,3
+36,Saanjh Kendra Patiala,May Be,No,High,High,4
+37,Saanjh Kendra Patiala,May Be,No,High,Low,3
+38,Saanjh Kendra Patiala,May Be,No,High,Moderate,3
+39,Saanjh Kendra Patiala,May Be,No,High,High,4
+40,Police Station Lahori Gate,Yes,Yes,Low,Low,1
+41,Police Station Lahori Gate,Yes,Yes,Low,Moderate,4
+42,Police Station Lahori Gate,Yes,Yes,Low,High,4
+43,Police Station Lahori Gate,Yes,Yes,Low,Low,2
+44,Police Station Lahori Gate,Yes,Yes,Low,Moderate,4
+45,Police Station Lahori Gate,Yes,Yes,Low,High,4
+46,Police Station Lahori Gate,Yes,Yes,Moderate,Low,3
+47,Police Station Lahori Gate,Yes,Yes,Moderate,Moderate,4
+48,Police Station Lahori Gate,Yes,Yes,Moderate,High,4
+49,Police Station Lahori Gate,Yes,Yes,High,Low,4
+50,Police Station Lahori Gate,Yes,Yes,High,Moderate,4
+51,Police Station Lahori Gate,Yes,Yes,High,High,4
+52,Police Station Lahori Gate,Yes,Yes,High,Low,4
+53,Police Station Lahori Gate,Yes,Yes,High,Moderate,4
+54,Police Station Lahori Gate,Yes,Yes,High,High,4
+55,Sirhindi Gate,Yes,May Be,Low,Low,1
+56,Sirhindi Gate,Yes,May Be,Low,Moderate,2
+57,Sirhindi Gate,Yes,May Be,Low,High,3
+58,Sirhindi Gate,Yes,May Be,Low,Low,1
+59,Sirhindi Gate,Yes,May Be,Low,Moderate,2
+60,Sirhindi Gate,Yes,May Be,Low,High,3
+61,Sirhindi Gate,Yes,May Be,Moderate,Low,2
+62,Sirhindi Gate,Yes,May Be,Moderate,Moderate,3
+63,Sirhindi Gate,Yes,May Be,Moderate,High,4
+64,Sirhindi Gate,Yes,May Be,High,Low,3
+65,Sirhindi Gate,Yes,May Be,High,Moderate,4
+66,Sirhindi Gate,Yes,May Be,High,High,4
+67,Sirhindi Gate,Yes,May Be,High,Low,3
+68,Sirhindi Gate,Yes,May Be,High,Moderate,4
+69,Sirhindi Gate,Yes,May Be,High,High,4
+70,PRTC Patiala Depot,Yes,No,Low,Low,0
+71,PRTC Patiala Depot,Yes,No,Low,Moderate,1
+72,PRTC Patiala Depot,Yes,No,Low,High,2
+73,PRTC Patiala Depot,Yes,No,Low,Low,1
+74,PRTC Patiala Depot,Yes,No,Low,Moderate,2
+75,PRTC Patiala Depot,Yes,No,Low,High,3
+76,PRTC Patiala Depot,Yes,No,Moderate,Low,2
+77,PRTC Patiala Depot,Yes,No,Moderate,Moderate,3
+78,PRTC Patiala Depot,Yes,No,Moderate,High,4
+79,PRTC Patiala Depot,Yes,No,High,Low,3
+80,PRTC Patiala Depot,Yes,No,High,Moderate,4
+81,PRTC Patiala Depot,Yes,No,High,High,4
+82,PRTC Patiala Depot,Yes,No,High,Low,3
+83,PRTC Patiala Depot,Yes,No,High,Moderate,4
+84,PRTC Patiala Depot,Yes,No,High,High,4
+85,Ancient Hanuman Mandir,May Be,May Be,Low,Low,0
+86,Ancient Hanuman Mandir,May Be,May Be,Low,Moderate,1
+87,Ancient Hanuman Mandir,May Be,May Be,Low,High,2
+88,Ancient Hanuman Mandir,May Be,May Be,Low,Low,1
+89,Ancient Hanuman Mandir,May Be,May Be,Low,Moderate,2
+90,Ancient Hanuman Mandir,May Be,May Be,Low,High,3
+91,Ancient Hanuman Mandir,May Be,May Be,Moderate,Low,2
+92,Ancient Hanuman Mandir,May Be,May Be,Moderate,Moderate,4
+93,Ancient Hanuman Mandir,May Be,May Be,Moderate,High,4
+94,Ancient Hanuman Mandir,May Be,May Be,High,Low,3
+95,Ancient Hanuman Mandir,May Be,May Be,High,Moderate,4
+96,Ancient Hanuman Mandir,May Be,May Be,High,High,4
+97,Ancient Hanuman Mandir,May Be,May Be,High,Low,4
+98,Ancient Hanuman Mandir,May Be,May Be,High,Moderate,4
+99,Ancient Hanuman Mandir,May Be,May Be,High,High,4
+100,Aggarsain Hospital Patiala,Yes,Yes,Low,Low,2
+101,Aggarsain Hospital Patiala,Yes,Yes,Low,Moderate,3
+102,Aggarsain Hospital Patiala,Yes,Yes,Low,High,4
+103,Aggarsain Hospital Patiala,Yes,Yes,Low,Low,3
+104,Aggarsain Hospital Patiala,Yes,Yes,Low,Moderate,4
+105,Aggarsain Hospital Patiala,Yes,Yes,Low,High,4
+106,Aggarsain Hospital Patiala,Yes,Yes,Moderate,Low,3
+107,Aggarsain Hospital Patiala,Yes,Yes,Moderate,Moderate,4
+108,Aggarsain Hospital Patiala,Yes,Yes,Moderate,High,4
+109,Aggarsain Hospital Patiala,Yes,Yes,High,Low,4
+110,Aggarsain Hospital Patiala,Yes,Yes,High,Moderate,4
+111,Aggarsain Hospital Patiala,Yes,Yes,High,High,4
+112,Aggarsain Hospital Patiala,Yes,Yes,High,Low,4
+113,Aggarsain Hospital Patiala,Yes,Yes,High,Moderate,4
+114,Aggarsain Hospital Patiala,Yes,Yes,High,High,4
+115,SDKS Bhawan,Yes,May Be,Low,Low,1
+116,SDKS Bhawan,Yes,May Be,Low,Moderate,2
+117,SDKS Bhawan,Yes,May Be,Low,High,3
+118,SDKS Bhawan,Yes,May Be,Low,Low,1
+119,SDKS Bhawan,Yes,May Be,Low,Moderate,2
+120,SDKS Bhawan,Yes,May Be,Low,High,3
+121,SDKS Bhawan,Yes,May Be,Moderate,Low,2
+122,SDKS Bhawan,Yes,May Be,Moderate,Moderate,3
+123,SDKS Bhawan,Yes,May Be,Moderate,High,4
+124,SDKS Bhawan,Yes,May Be,High,Low,3
+125,SDKS Bhawan,Yes,May Be,High,Moderate,4
+126,SDKS Bhawan,Yes,May Be,High,High,4
+127,SDKS Bhawan,Yes,May Be,High,Low,3
+128,SDKS Bhawan,Yes,May Be,High,Moderate,4
+129,SDKS Bhawan,Yes,May Be,High,High,4
+130,Pal Petrol Pump,Yes,May Be,Low,Low,0
+131,Pal Petrol Pump,Yes,May Be,Low,Moderate,1
+132,Pal Petrol Pump,Yes,May Be,Low,High,2
+133,Pal Petrol Pump,Yes,May Be,Low,Low,1
+134,Pal Petrol Pump,Yes,May Be,Low,Moderate,2
+135,Pal Petrol Pump,Yes,May Be,Low,High,3
+136,Pal Petrol Pump,Yes,May Be,Moderate,Low,2
+137,Pal Petrol Pump,Yes,May Be,Moderate,Moderate,3
+138,Pal Petrol Pump,Yes,May Be,Moderate,High,4
+139,Pal Petrol Pump,Yes,May Be,High,Low,3
+140,Pal Petrol Pump,Yes,May Be,High,Moderate,4
+141,Pal Petrol Pump,Yes,May Be,High,High,4
+142,Pal Petrol Pump,Yes,May Be,High,Low,3
+143,Pal Petrol Pump,Yes,May Be,High,Moderate,4
+144,Pal Petrol Pump,Yes,May Be,High,High,4
+145,"Maruti Suzuki Cars, Hira Automobile",Yes,No,Low,Low,0
+146,"Maruti Suzuki Cars, Hira Automobile",Yes,No,Low,Moderate,1
+147,"Maruti Suzuki Cars, Hira Automobile",Yes,No,Low,High,2
+148,"Maruti Suzuki Cars, Hira Automobile",Yes,No,Low,Low,0
+149,"Maruti Suzuki Cars, Hira Automobile",Yes,No,Low,Moderate,2
+150,"Maruti Suzuki Cars, Hira Automobile",Yes,No,Low,High,3
+151,"Maruti Suzuki Cars, Hira Automobile",Yes,No,Moderate,Low,1
+152,"Maruti Suzuki Cars, Hira Automobile",Yes,No,Moderate,Moderate,2
+153,"Maruti Suzuki Cars, Hira Automobile",Yes,No,Moderate,High,3
+154,"Maruti Suzuki Cars, Hira Automobile",Yes,No,High,Low,2
+155,"Maruti Suzuki Cars, Hira Automobile",Yes,No,High,Moderate,3
+156,"Maruti Suzuki Cars, Hira Automobile",Yes,No,High,High,4
+157,"Maruti Suzuki Cars, Hira Automobile",Yes,No,High,Low,3
+158,"Maruti Suzuki Cars, Hira Automobile",Yes,No,High,Moderate,4
+159,"Maruti Suzuki Cars, Hira Automobile",Yes,No,High,High,4
+160,Hotel Eqbal Inn,Yes,Yes,Low,Low,0
+161,Hotel Eqbal Inn,Yes,Yes,Low,Moderate,0
+162,Hotel Eqbal Inn,Yes,Yes,Low,High,1
+163,Hotel Eqbal Inn,Yes,Yes,Low,Low,1
+164,Hotel Eqbal Inn,Yes,Yes,Low,Moderate,2
+165,Hotel Eqbal Inn,Yes,Yes,Low,High,3
+166,Hotel Eqbal Inn,Yes,Yes,Moderate,Low,2
+167,Hotel Eqbal Inn,Yes,Yes,Moderate,Moderate,3
+168,Hotel Eqbal Inn,Yes,Yes,Moderate,High,4
+169,Hotel Eqbal Inn,Yes,Yes,High,Low,3
+170,Hotel Eqbal Inn,Yes,Yes,High,Moderate,4
+171,Hotel Eqbal Inn,Yes,Yes,High,High,4
+172,Hotel Eqbal Inn,Yes,Yes,High,Low,3
+173,Hotel Eqbal Inn,Yes,Yes,High,Moderate,4
+174,Hotel Eqbal Inn,Yes,Yes,High,High,4
+175,Hotel Uttam residency,Yes,No,Low,Low,0
+176,Hotel Uttam residency,Yes,No,Low,Moderate,0
+177,Hotel Uttam residency,Yes,No,Low,High,1
+178,Hotel Uttam residency,Yes,No,Low,Low,0
+179,Hotel Uttam residency,Yes,No,Low,Moderate,1
+180,Hotel Uttam residency,Yes,No,Low,High,2
+181,Hotel Uttam residency,Yes,No,Moderate,Low,1
+182,Hotel Uttam residency,Yes,No,Moderate,Moderate,2
+183,Hotel Uttam residency,Yes,No,Moderate,High,3
+184,Hotel Uttam residency,Yes,No,High,Low,3
+185,Hotel Uttam residency,Yes,No,High,Moderate,4
+186,Hotel Uttam residency,Yes,No,High,High,4
+187,Hotel Uttam residency,Yes,No,High,Low,3
+188,Hotel Uttam residency,Yes,No,High,Moderate,4
+189,Hotel Uttam residency,Yes,No,High,High,4
+190,Kartar Singh,No,No,Low,Low,0
+191,Kartar Singh,No,No,Low,Moderate,0
+192,Kartar Singh,No,No,Low,High,1
+193,Kartar Singh,No,No,Low,Low,0
+194,Kartar Singh,No,No,Low,Moderate,1
+195,Kartar Singh,No,No,Low,High,2
+196,Kartar Singh,No,No,Moderate,Low,1
+197,Kartar Singh,No,No,Moderate,Moderate,1
+198,Kartar Singh,No,No,Moderate,High,2
+199,Kartar Singh,No,No,High,Low,0
+200,Kartar Singh,No,No,High,Moderate,1
+201,Kartar Singh,No,No,High,High,2
+202,Kartar Singh,No,No,High,Low,0
+203,Kartar Singh,No,No,High,Moderate,1
+204,Kartar Singh,No,No,High,High,2
+205,Tarsem Furniture House,No,May Be,Low,Low,0
+206,Tarsem Furniture House,No,May Be,Low,Moderate,0
+207,Tarsem Furniture House,No,May Be,Low,High,1
+208,Tarsem Furniture House,No,May Be,Low,Low,0
+209,Tarsem Furniture House,No,May Be,Low,Moderate,1
+210,Tarsem Furniture House,No,May Be,Low,High,2
+211,Tarsem Furniture House,No,May Be,Moderate,Low,1
+212,Tarsem Furniture House,No,May Be,Moderate,Moderate,1
+213,Tarsem Furniture House,No,May Be,Moderate,High,2
+214,Tarsem Furniture House,No,May Be,High,Low,0
+215,Tarsem Furniture House,No,May Be,High,Moderate,1
+216,Tarsem Furniture House,No,May Be,High,High,2
+217,Tarsem Furniture House,No,May Be,High,Low,0
+218,Tarsem Furniture House,No,May Be,High,Moderate,1
+219,Tarsem Furniture House,No,May Be,High,High,2
+220,"MPF Showroom, Amar tyre works",No,No,Low,Low,0
+221,"MPF Showroom, Amar tyre works",No,No,Low,Moderate,0
+222,"MPF Showroom, Amar tyre works",No,No,Low,High,1
+223,"MPF Showroom, Amar tyre works",No,No,Low,Low,0
+224,"MPF Showroom, Amar tyre works",No,No,Low,Moderate,1
+225,"MPF Showroom, Amar tyre works",No,No,Low,High,2
+226,"MPF Showroom, Amar tyre works",No,No,Moderate,Low,1
+227,"MPF Showroom, Amar tyre works",No,No,Moderate,Moderate,1
+228,"MPF Showroom, Amar tyre works",No,No,Moderate,High,2
+229,"MPF Showroom, Amar tyre works",No,No,High,Low,0
+230,"MPF Showroom, Amar tyre works",No,No,High,Moderate,1
+231,"MPF Showroom, Amar tyre works",No,No,High,High,2
+232,"MPF Showroom, Amar tyre works",No,No,High,Low,0
+233,"MPF Showroom, Amar tyre works",No,No,High,Moderate,1
+234,"MPF Showroom, Amar tyre works",No,No,High,High,2
+235,Harman Airconditioners Daikin Shoppe,May Be,No,Low,Low,0
+236,Harman Airconditioners Daikin Shoppe,May Be,No,Low,Moderate,0
+237,Harman Airconditioners Daikin Shoppe,May Be,No,Low,High,1
+238,Harman Airconditioners Daikin Shoppe,May Be,No,Low,Low,0
+239,Harman Airconditioners Daikin Shoppe,May Be,No,Low,Moderate,0
+240,Harman Airconditioners Daikin Shoppe,May Be,No,Low,High,1
+241,Harman Airconditioners Daikin Shoppe,May Be,No,Moderate,Low,0
+242,Harman Airconditioners Daikin Shoppe,May Be,No,Moderate,Moderate,1
+243,Harman Airconditioners Daikin Shoppe,May Be,No,Moderate,High,2
+244,Harman Airconditioners Daikin Shoppe,May Be,No,High,Low,0
+245,Harman Airconditioners Daikin Shoppe,May Be,No,High,Moderate,1
+246,Harman Airconditioners Daikin Shoppe,May Be,No,High,High,2
+247,Harman Airconditioners Daikin Shoppe,May Be,No,High,Low,0
+248,Harman Airconditioners Daikin Shoppe,May Be,No,High,Moderate,1
+249,Harman Airconditioners Daikin Shoppe,May Be,No,High,High,2
+250,Jain Petrol Pump,May Be,No,Low,Low,0
+251,Jain Petrol Pump,May Be,No,Low,Moderate,1
+252,Jain Petrol Pump,May Be,No,Low,High,2
+253,Jain Petrol Pump,May Be,No,Low,Low,0
+254,Jain Petrol Pump,May Be,No,Low,Moderate,1
+255,Jain Petrol Pump,May Be,No,Low,High,2
+256,Jain Petrol Pump,May Be,No,Moderate,Low,1
+257,Jain Petrol Pump,May Be,No,Moderate,Moderate,2
+258,Jain Petrol Pump,May Be,No,Moderate,High,3
+259,Jain Petrol Pump,May Be,No,High,Low,2
+260,Jain Petrol Pump,May Be,No,High,Moderate,3
+261,Jain Petrol Pump,May Be,No,High,High,4
+262,Jain Petrol Pump,May Be,No,High,Low,3
+263,Jain Petrol Pump,May Be,No,High,Moderate,4
+264,Jain Petrol Pump,May Be,No,High,High,4
+265,Massy world(multibrand showroom),Yes,No,Low,Low,0
+266,Massy world(multibrand showroom),Yes,No,Low,Moderate,1
+267,Massy world(multibrand showroom),Yes,No,Low,High,1
+268,Massy world(multibrand showroom),Yes,No,Low,Low,1
+269,Massy world(multibrand showroom),Yes,No,Low,Moderate,2
+270,Massy world(multibrand showroom),Yes,No,Low,High,3
+271,Massy world(multibrand showroom),Yes,No,Moderate,Low,2
+272,Massy world(multibrand showroom),Yes,No,Moderate,Moderate,3
+273,Massy world(multibrand showroom),Yes,No,Moderate,High,4
+274,Massy world(multibrand showroom),Yes,No,High,Low,3
+275,Massy world(multibrand showroom),Yes,No,High,Moderate,4
+276,Massy world(multibrand showroom),Yes,No,High,High,4
+277,Massy world(multibrand showroom),Yes,No,High,Low,4
+278,Massy world(multibrand showroom),Yes,No,High,Moderate,4
+279,Massy world(multibrand showroom),Yes,No,High,High,4
+280,Duroflex Store - Comfort Zone,No,No,Low,Low,0
+281,Duroflex Store - Comfort Zone,No,No,Low,Moderate,0
+282,Duroflex Store - Comfort Zone,No,No,Low,High,1
+283,Duroflex Store - Comfort Zone,No,No,Low,Low,0
+284,Duroflex Store - Comfort Zone,No,No,Low,Moderate,1
+285,Duroflex Store - Comfort Zone,No,No,Low,High,2
+286,Duroflex Store - Comfort Zone,No,No,Moderate,Low,1
+287,Duroflex Store - Comfort Zone,No,No,Moderate,Moderate,1
+288,Duroflex Store - Comfort Zone,No,No,Moderate,High,2
+289,Duroflex Store - Comfort Zone,No,No,High,Low,0
+290,Duroflex Store - Comfort Zone,No,No,High,Moderate,1
+291,Duroflex Store - Comfort Zone,No,No,High,High,2
+292,Duroflex Store - Comfort Zone,No,No,High,Low,0
+293,Duroflex Store - Comfort Zone,No,No,High,Moderate,1
+294,Duroflex Store - Comfort Zone,No,No,High,High,2
+295,The Grand Square,Yes,No,Low,Low,0
+296,The Grand Square,Yes,No,Low,Moderate,1
+297,The Grand Square,Yes,No,Low,High,1
+298,The Grand Square,Yes,No,Low,Low,0
+299,The Grand Square,Yes,No,Low,Moderate,1
+300,The Grand Square,Yes,No,Low,High,2
+301,The Grand Square,Yes,No,Moderate,Low,0
+302,The Grand Square,Yes,No,Moderate,Moderate,2
+303,The Grand Square,Yes,No,Moderate,High,3
+304,The Grand Square,Yes,No,High,Low,1
+305,The Grand Square,Yes,No,High,Moderate,3
+306,The Grand Square,Yes,No,High,High,4
+307,The Grand Square,Yes,No,High,Low,3
+308,The Grand Square,Yes,No,High,Moderate,4
+309,The Grand Square,Yes,No,High,High,4
+310,Ahuja Furniture,May Be,No,Low,Low,0
+311,Ahuja Furniture,May Be,No,Low,Moderate,0
+312,Ahuja Furniture,May Be,No,Low,High,1
+313,Ahuja Furniture,May Be,No,Low,Low,0
+314,Ahuja Furniture,May Be,No,Low,Moderate,1
+315,Ahuja Furniture,May Be,No,Low,High,1
+316,Ahuja Furniture,May Be,No,Moderate,Low,0
+317,Ahuja Furniture,May Be,No,Moderate,Moderate,1
+318,Ahuja Furniture,May Be,No,Moderate,High,2
+319,Ahuja Furniture,May Be,No,High,Low,2
+320,Ahuja Furniture,May Be,No,High,Moderate,3
+321,Ahuja Furniture,May Be,No,High,High,4
+322,Ahuja Furniture,May Be,No,High,Low,2
+323,Ahuja Furniture,May Be,No,High,Moderate,3
+324,Ahuja Furniture,May Be,No,High,High,4
+325,Vardhman Janhit Rasoi,No,No,Low,Low,0
+326,Vardhman Janhit Rasoi,No,No,Low,Moderate,1
+327,Vardhman Janhit Rasoi,No,No,Low,High,1
+328,Vardhman Janhit Rasoi,No,No,Low,Low,0
+329,Vardhman Janhit Rasoi,No,No,Low,Moderate,1
+330,Vardhman Janhit Rasoi,No,No,Low,High,2
+331,Vardhman Janhit Rasoi,No,No,Moderate,Low,1
+332,Vardhman Janhit Rasoi,No,No,Moderate,Moderate,2
+333,Vardhman Janhit Rasoi,No,No,Moderate,High,3
+334,Vardhman Janhit Rasoi,No,No,High,Low,1
+335,Vardhman Janhit Rasoi,No,No,High,Moderate,2
+336,Vardhman Janhit Rasoi,No,No,High,High,3
+337,Vardhman Janhit Rasoi,No,No,High,Low,2
+338,Vardhman Janhit Rasoi,No,No,High,Moderate,3
+339,Vardhman Janhit Rasoi,No,No,High,High,4
+340,Vardhman Steels and Metals,Yes,No,Low,Low,0
+341,Vardhman Steels and Metals,Yes,No,Low,Moderate,1
+342,Vardhman Steels and Metals,Yes,No,Low,High,1
+343,Vardhman Steels and Metals,Yes,No,Low,Low,0
+344,Vardhman Steels and Metals,Yes,No,Low,Moderate,1
+345,Vardhman Steels and Metals,Yes,No,Low,High,2
+346,Vardhman Steels and Metals,Yes,No,Moderate,Low,1
+347,Vardhman Steels and Metals,Yes,No,Moderate,Moderate,2
+348,Vardhman Steels and Metals,Yes,No,Moderate,High,3
+349,Vardhman Steels and Metals,Yes,No,High,Low,1
+350,Vardhman Steels and Metals,Yes,No,High,Moderate,2
+351,Vardhman Steels and Metals,Yes,No,High,High,3
+352,Vardhman Steels and Metals,Yes,No,High,Low,2
+353,Vardhman Steels and Metals,Yes,No,High,Moderate,3
+354,Vardhman Steels and Metals,Yes,No,High,High,4
+355,Burger King,Yes,No,Low,Low,0
+356,Burger King,Yes,No,Low,Moderate,0
+357,Burger King,Yes,No,Low,High,1
+358,Burger King,Yes,No,Low,Low,0
+359,Burger King,Yes,No,Low,Moderate,1
+360,Burger King,Yes,No,Low,High,2
+361,Burger King,Yes,No,Moderate,Low,1
+362,Burger King,Yes,No,Moderate,Moderate,2
+363,Burger King,Yes,No,Moderate,High,3
+364,Burger King,Yes,No,High,Low,1
+365,Burger King,Yes,No,High,Moderate,2
+366,Burger King,Yes,No,High,High,3
+367,Burger King,Yes,No,High,Low,2
+368,Burger King,Yes,No,High,Moderate,3
+369,Burger King,Yes,No,High,High,4
+370,Verka milk bar,No,No,Low,Low,0
+371,Verka milk bar,No,No,Low,Moderate,0
+372,Verka milk bar,No,No,Low,High,1
+373,Verka milk bar,No,No,Low,Low,0
+374,Verka milk bar,No,No,Low,Moderate,1
+375,Verka milk bar,No,No,Low,High,1
+376,Verka milk bar,No,No,Moderate,Low,1
+377,Verka milk bar,No,No,Moderate,Moderate,2
+378,Verka milk bar,No,No,Moderate,High,3
+379,Verka milk bar,No,No,High,Low,1
+380,Verka milk bar,No,No,High,Moderate,2
+381,Verka milk bar,No,No,High,High,3
+382,Verka milk bar,No,No,High,Low,2
+383,Verka milk bar,No,No,High,Moderate,3
+384,Verka milk bar,No,No,High,High,4
+385,Bypass flyover park,Yes,Yes,Low,Low,0
+386,Bypass flyover park,Yes,Yes,Low,Moderate,1
+387,Bypass flyover park,Yes,Yes,Low,High,2
+388,Bypass flyover park,Yes,Yes,Low,Low,1
+389,Bypass flyover park,Yes,Yes,Low,Moderate,2
+390,Bypass flyover park,Yes,Yes,Low,High,3
+391,Bypass flyover park,Yes,Yes,Moderate,Low,2
+392,Bypass flyover park,Yes,Yes,Moderate,Moderate,3
+393,Bypass flyover park,Yes,Yes,Moderate,High,3
+394,Bypass flyover park,Yes,Yes,High,Low,3
+395,Bypass flyover park,Yes,Yes,High,Moderate,4
+396,Bypass flyover park,Yes,Yes,High,High,4
+397,Bypass flyover park,Yes,Yes,High,Low,3
+398,Bypass flyover park,Yes,Yes,High,Moderate,4
+399,Bypass flyover park,Yes,Yes,High,High,4
+400,Vardhman Mahaveer Health Care,Yes,May Be,Low,Low,0
+401,Vardhman Mahaveer Health Care,Yes,May Be,Low,Moderate,1
+402,Vardhman Mahaveer Health Care,Yes,May Be,Low,High,2
+403,Vardhman Mahaveer Health Care,Yes,May Be,Low,Low,1
+404,Vardhman Mahaveer Health Care,Yes,May Be,Low,Moderate,2
+405,Vardhman Mahaveer Health Care,Yes,May Be,Low,High,3
+406,Vardhman Mahaveer Health Care,Yes,May Be,Moderate,Low,2
+407,Vardhman Mahaveer Health Care,Yes,May Be,Moderate,Moderate,3
+408,Vardhman Mahaveer Health Care,Yes,May Be,Moderate,High,4
+409,Vardhman Mahaveer Health Care,Yes,May Be,High,Low,3
+410,Vardhman Mahaveer Health Care,Yes,May Be,High,Moderate,4
+411,Vardhman Mahaveer Health Care,Yes,May Be,High,High,4
+412,Vardhman Mahaveer Health Care,Yes,May Be,High,Low,3
+413,Vardhman Mahaveer Health Care,Yes,May Be,High,Moderate,4
+414,Vardhman Mahaveer Health Care,Yes,May Be,High,High,4
+415,Barbeque Nation - Patiala,May Be,May Be,Low,Low,0
+416,Barbeque Nation - Patiala,May Be,May Be,Low,Moderate,0
+417,Barbeque Nation - Patiala,May Be,May Be,Low,High,1
+418,Barbeque Nation - Patiala,May Be,May Be,Low,Low,0
+419,Barbeque Nation - Patiala,May Be,May Be,Low,Moderate,1
+420,Barbeque Nation - Patiala,May Be,May Be,Low,High,2
+421,Barbeque Nation - Patiala,May Be,May Be,Moderate,Low,1
+422,Barbeque Nation - Patiala,May Be,May Be,Moderate,Moderate,2
+423,Barbeque Nation - Patiala,May Be,May Be,Moderate,High,3
+424,Barbeque Nation - Patiala,May Be,May Be,High,Low,2
+425,Barbeque Nation - Patiala,May Be,May Be,High,Moderate,3
+426,Barbeque Nation - Patiala,May Be,May Be,High,High,4
+427,Barbeque Nation - Patiala,May Be,May Be,High,Low,3
+428,Barbeque Nation - Patiala,May Be,May Be,High,Moderate,3
+429,Barbeque Nation - Patiala,May Be,May Be,High,High,4
+430,Atwal Petrol Pump,May Be,No,Low,Low,0
+431,Atwal Petrol Pump,May Be,No,Low,Moderate,0
+432,Atwal Petrol Pump,May Be,No,Low,High,1
+433,Atwal Petrol Pump,May Be,No,Low,Low,0
+434,Atwal Petrol Pump,May Be,No,Low,Moderate,1
+435,Atwal Petrol Pump,May Be,No,Low,High,1
+436,Atwal Petrol Pump,May Be,No,Moderate,Low,0
+437,Atwal Petrol Pump,May Be,No,Moderate,Moderate,1
+438,Atwal Petrol Pump,May Be,No,Moderate,High,2
+439,Atwal Petrol Pump,May Be,No,High,Low,2
+440,Atwal Petrol Pump,May Be,No,High,Moderate,3
+441,Atwal Petrol Pump,May Be,No,High,High,4
+442,Atwal Petrol Pump,May Be,No,High,Low,2
+443,Atwal Petrol Pump,May Be,No,High,Moderate,3
+444,Atwal Petrol Pump,May Be,No,High,High,4
+445,Baani Milk Producer Company,May Be,No,Low,Low,0
+446,Baani Milk Producer Company,May Be,No,Low,Moderate,0
+447,Baani Milk Producer Company,May Be,No,Low,High,1
+448,Baani Milk Producer Company,May Be,No,Low,Low,0
+449,Baani Milk Producer Company,May Be,No,Low,Moderate,1
+450,Baani Milk Producer Company,May Be,No,Low,High,1
+451,Baani Milk Producer Company,May Be,No,Moderate,Low,0
+452,Baani Milk Producer Company,May Be,No,Moderate,Moderate,1
+453,Baani Milk Producer Company,May Be,No,Moderate,High,2
+454,Baani Milk Producer Company,May Be,No,High,Low,2
+455,Baani Milk Producer Company,May Be,No,High,Moderate,3
+456,Baani Milk Producer Company,May Be,No,High,High,4
+457,Baani Milk Producer Company,May Be,No,High,Low,2
+458,Baani Milk Producer Company,May Be,No,High,Moderate,3
+459,Baani Milk Producer Company,May Be,No,High,High,4
+460,Phase 2 Main road,May Be,May Be,Low,Low,0
+461,Phase 2 Main road,May Be,May Be,Low,Moderate,0
+462,Phase 2 Main road,May Be,May Be,Low,High,1
+463,Phase 2 Main road,May Be,May Be,Low,Low,0
+464,Phase 2 Main road,May Be,May Be,Low,Moderate,1
+465,Phase 2 Main road,May Be,May Be,Low,High,1
+466,Phase 2 Main road,May Be,May Be,Moderate,Low,0
+467,Phase 2 Main road,May Be,May Be,Moderate,Moderate,1
+468,Phase 2 Main road,May Be,May Be,Moderate,High,2
+469,Phase 2 Main road,May Be,May Be,High,Low,1
+470,Phase 2 Main road,May Be,May Be,High,Moderate,2
+471,Phase 2 Main road,May Be,May Be,High,High,3
+472,Phase 2 Main road,May Be,May Be,High,Low,2
+473,Phase 2 Main road,May Be,May Be,High,Moderate,3
+474,Phase 2 Main road,May Be,May Be,High,High,4
+475,Peer ji dargah,No,May Be,Low,Low,0
+476,Peer ji dargah,No,May Be,Low,Moderate,0
+477,Peer ji dargah,No,May Be,Low,High,1
+478,Peer ji dargah,No,May Be,Low,Low,0
+479,Peer ji dargah,No,May Be,Low,Moderate,1
+480,Peer ji dargah,No,May Be,Low,High,1
+481,Peer ji dargah,No,May Be,Moderate,Low,0
+482,Peer ji dargah,No,May Be,Moderate,Moderate,1
+483,Peer ji dargah,No,May Be,Moderate,High,2
+484,Peer ji dargah,No,May Be,High,Low,1
+485,Peer ji dargah,No,May Be,High,Moderate,2
+486,Peer ji dargah,No,May Be,High,High,2
+487,Peer ji dargah,No,May Be,High,Low,2
+488,Peer ji dargah,No,May Be,High,Moderate,3
+489,Peer ji dargah,No,May Be,High,High,3
+490,Punjabi university (main gate),Yes,Yes,Low,Low,0
+491,Punjabi university (main gate),Yes,Yes,Low,Moderate,1
+492,Punjabi university (main gate),Yes,Yes,Low,High,2
+493,Punjabi university (main gate),Yes,Yes,Low,Low,1
+494,Punjabi university (main gate),Yes,Yes,Low,Moderate,2
+495,Punjabi university (main gate),Yes,Yes,Low,High,2
+496,Punjabi university (main gate),Yes,Yes,Moderate,Low,1
+497,Punjabi university (main gate),Yes,Yes,Moderate,Moderate,2
+498,Punjabi university (main gate),Yes,Yes,Moderate,High,3
+499,Punjabi university (main gate),Yes,Yes,High,Low,2
+500,Punjabi university (main gate),Yes,Yes,High,Moderate,3
+501,Punjabi university (main gate),Yes,Yes,High,High,4
+502,Punjabi university (main gate),Yes,Yes,High,Low,3
+503,Punjabi university (main gate),Yes,Yes,High,Moderate,4
+504,Punjabi university (main gate),Yes,Yes,High,High,4
