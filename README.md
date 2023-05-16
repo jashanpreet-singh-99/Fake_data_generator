@@ -1,6 +1,6 @@
 # Fake_data_generator
 
-Project description goes here.
+This project entails the generation of a synthetic dataset that adheres to specific constraints as per the requirements. The synthesized dataset serves as the training data for a machine learning model. Following the completion of the model training, a thorough verification process is conducted to ascertain whether the model has successfully acquired the desired constraints or not.
 
 ## Table of Contents
 
@@ -12,7 +12,13 @@ Project description goes here.
 
 ## Introduction
 
-Briefly introduce the project and provide context for the code in this repository.
+This project involves the creation of a synthetic dataset that conforms to predetermined constraints, as dictated by the project requirements. The process begins by generating a dataset that encompasses the necessary characteristics and limitations outlined for the project. This synthesized dataset is subsequently utilized as the training data for a machine learning model.
+
+Once the dataset is prepared, the machine learning model undergoes an extensive training phase. During this phase, the model learns from the synthetic dataset, gradually acquiring knowledge and patterns from the provided data. The training process aims to optimize the model's performance and enable it to make accurate predictions or classifications based on the learned constraints.
+
+After the model training is completed, a meticulous verification procedure is carried out. The purpose of this verification is to evaluate whether the model has effectively internalized and comprehended the desired constraints. Various techniques and metrics are employed to assess the model's performance, including comparisons against ground truth data or evaluation against predefined benchmarks.
+
+By conducting this verification step, the project team can ensure that the machine learning model has successfully acquired the specified constraints and is capable of applying them accurately to new, unseen data. This verification phase serves as a critical quality control measure, validating the reliability and efficacy of the trained model before it is deployed in real-world applications.
 
 ## Installation
 
